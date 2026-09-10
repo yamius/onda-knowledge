@@ -1,0 +1,5 @@
+# Keep everything LF in the repo — these files are consumed as-is (raw fetch,
+# JSONL parsers, llms.txt readers) and must match what the site serves.
+* text=auto eol=lf
+*.jsonl text eol=lf
+*.txt   text eol=lf

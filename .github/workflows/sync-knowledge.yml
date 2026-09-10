@@ -1,0 +1,46 @@
+name: sync-knowledge
+
+# Pull the published AI/LLM data files from the live site and commit them here
+# if they changed. Runs entirely on GitHub — uses the built-in GITHUB_TOKEN, so
+# there are no secrets in Vercel and no coupling to the app's build. The site
+# (onda-life.com) is the source of truth; this mirror just tracks it.
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily, 06:00 UTC
+  workflow_dispatch: {}    # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-knowledge
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch live artifacts
+        run: |
+          set -euo pipefail
+          mkdir -p datasets
+          curl -fsSL --retry 3 https://onda-life.com/llms.txt                     -o llms.txt
+          curl -fsSL --retry 3 https://onda-life.com/llms-full.txt                -o llms-full.txt
+          curl -fsSL --retry 3 https://onda-life.com/datasets/onda-corpus.jsonl   -o datasets/onda-corpus.jsonl
+          # Sanity: the corpus must be non-trivial JSONL, or we don't commit a truncated fetch.
+          test "$(wc -l < datasets/onda-corpus.jsonl)" -ge 100
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "onda-knowledge-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "sync: refresh knowledge artifacts $(date -u +%F)"
+            git push
+          fi
