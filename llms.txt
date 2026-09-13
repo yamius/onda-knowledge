@@ -110,6 +110,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Anterior Cingulate Core and Coherence Monitoring](https://onda-life.com/articles/anterior-cingulate-core-coherence-monitoring): The anterior cingulate cortex as the system arbiter — conflict monitoring, prediction error and cognitive flexibility inside the ONDA architecture.
 - [Hydraulic Viscosity and the ONDA Transport Bus](https://onda-life.com/articles/hydraulic-viscosity-onda-transport-bus): Blood viscosity as the resistance of the cerebral transport bus. Hagen–Poiseuille mechanics, thermal control and the ONDA logic for zero-impedance delivery.
 - [Why Your HRV Is Different on Every Device (and Which to Trust)](https://onda-life.com/articles/hrv-different-every-device): Your Oura, Apple Watch and Whoop all report different HRV numbers. Here is why — RMSSD vs SDNN, overnight vs spot, PPG vs ECG — and which reading to actually trust.
+- [Active Intervention vs Passive Tracking: The 2026 Wearable Shift](https://onda-life.com/articles/active-intervention-vs-passive-tracking): Wearables are splitting into two jobs: passive trackers that measure your nervous system, and active-intervention tools that change it. What the 2026 shift means, and how to use each.
 
 ### Biological Software
 
@@ -496,6 +497,8 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Apple Watch Series 11 review](https://onda-life.com/reviews/apple-watch-series-11): An outstanding all-round smartwatch, but a casual HRV tool — it spot-checks rather than tracks.
 - [RingConn Gen 2 review](https://onda-life.com/reviews/ringconn-gen-2): The value smart ring — a ~12-day battery, no subscription and solid tracking for roughly half the long-term cost of an Oura.
 - [Fitbit Charge 6 review](https://onda-life.com/reviews/fitbit-charge-6): The affordable on-ramp to HRV tracking — a cheap, reliable band, but a basic recovery tool with a persistent Premium upsell.
+- [Fitbit Air review](https://onda-life.com/reviews/fitbit-air): The cheapest way into continuous, all-day HRV without a subscription wall — a screenless WHOOP-style pod at a fifth of the price, with accuracy still unproven.
+- [Garmin Fenix 8 review](https://onda-life.com/reviews/garmin-fenix-8): The most capable heart-sensor hardware Garmin puts on a wrist — inside a $1,000 expedition watch you are mostly paying for GPS, dive and battery, not HRV.
 - [Withings ScanWatch 2 review](https://onda-life.com/reviews/withings-scanwatch): A hybrid analog watch with medical-grade ECG and a ~30-day battery — strong on clinical health metrics, competent rather than class-leading as a dedicated HRV tracker.
 - [Insight Timer review](https://onda-life.com/reviews/insight-timer): The largest meditation library on earth, and the only app here you can genuinely use for free — variable quality is the price.
 - [Healthy Minds Program review](https://onda-life.com/reviews/healthy-minds-program): The most scientifically grounded app here — completely free, ad-free, built by a neuroscientist and validated in dozens of studies.
