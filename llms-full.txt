@@ -226,6 +226,10 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Humming Breath (Bhramari): The Simplest Way to Stimulate Your Vagus Nerve](https://onda-life.com/articles/humming-breath-vagus): Humming breath, or Bhramari, stimulates the vagus nerve through vibration in the larynx. How to do bee breath, why humming raises vagal tone, and when to use it for calm.
 - [How Much Does Alcohol Lower Your HRV? The Data by Number of Drinks](https://onda-life.com/articles/how-much-alcohol-lowers-hrv): Alcohol lowers heart rate variability and raises resting heart rate overnight, in a dose-dependent way. How much each drink costs your recovery, from wearable and peer-reviewed data.
 - [Do Breathing Exercises Work for Older Adults? What the Research Shows](https://onda-life.com/articles/breathing-exercises-older-adults): Research shows slow breathing raises vagal tone and lowers anxiety in older adults — though a single session may not move blood pressure. The evidence and how to practice safely as you age.
+- [Fast vs Slow Pranayama: Why Some Breathing Energizes and Some Calms](https://onda-life.com/articles/fast-vs-slow-pranayama): Not all breathwork calms you. Fast techniques like Kapalabhati energize and activate the sympathetic system, while slow ones like Nadi Shodhana calm. How to choose the right one.
+- [Cardiac Coherence and the 365 Method: France’s Approach to Breathing](https://onda-life.com/articles/cardiac-coherence-365-method): Cardiac coherence — breathing at 6 per minute, 3 times a day, for 5 minutes (the 365 method) — is a French clinical tradition for balancing the nervous system. The method, the science, and how to practice.
+- [Wim Hof Breathing and Inflammation: It’s the Breath, Not the Cold](https://onda-life.com/articles/wim-hof-breathing-inflammation): Radboud University research showed people can voluntarily calm their immune response through breathing — and that the breathing, not the cold, is the active ingredient. What the science found.
+- [Can Breathing Help with Altitude Sickness? What the Research Suggests](https://onda-life.com/articles/breathing-altitude-acclimatization): Controlled hyperventilation breathing (from the Wim Hof Method) was used on a Kilimanjaro expedition to reduce altitude sickness. What the research suggests about breath and acclimatization.
 
 ### Regeneration Matrix
 
@@ -9945,6 +9949,8 @@ That's one full cycle. Continue for three to five minutes, keeping the breath sl
 
 Nadi Shodhana's calming effect has a straightforward explanation: it slows your breathing down and makes it even and deliberate. Slow breathing — roughly five to six breaths per minute — is one of the most robustly supported ways to activate the vagus nerve, shift toward the parasympathetic "rest and digest" state, and raise HRV in real time. The alternating nostrils give your mind a simple task to focus on, which helps you stay with the practice, but the physiological benefit comes overwhelmingly from the pace. That same pace is what a [resonance breathing rate](/articles/find-your-resonance-breathing-rate) targets directly.
 
+Indian clinical research backs the calming effect: in a randomized trial of hypertensive patients, 20 minutes of Nadi Shodhana significantly lowered systolic and diastolic blood pressure and heart rate, and improved auditory reaction time — a marker of a calmer, more responsive nervous system. Interestingly, the same trial found the change in HRV parameters themselves was not always statistically significant — a reminder that the benefit shows up across several measures, not one number.
+
 Traditional yoga also describes alternate nostril breathing as "balancing" the two hemispheres of the brain. The honest state of the evidence: this specific claim is weakly supported. What's well supported is that slow, controlled breathing calms the nervous system — and Nadi Shodhana is a pleasant, structured way to get there.
 
 ## When to use it
@@ -9995,6 +10001,8 @@ Repeat for five to ten breaths, or a few minutes. Some people gently rest their 
 ## Why humming stimulates the vagus nerve
 
 Most breathing techniques reach the vagus nerve indirectly, through the pace of the breath. Humming adds a second, direct route: the vagus nerve has fibers running through the larynx and the muscles of the throat and soft palate. When you hum, chant or sing, the vibration mechanically stimulates those fibers, raising vagal tone on top of the effect of the long exhale.
+
+Indian clinical research supports this: randomized trials of Bhramari (the traditional name for humming breath) in hypertensive patients found significant reductions in blood pressure and heart rate, and studies in healthy adults found Bhramari improved parasympathetic tone both immediately and after a few weeks of daily practice — meaning the benefit isn't only in the moment, it accumulates.
 
 That's why humming shows up alongside slow breathing and cold-water exposure on nearly every list of evidence-based ways to activate the vagus nerve. You get both effects at once: the extended exhale tips you toward "rest and digest," and the vibration gives the vagus nerve a direct nudge. The result is a measurable calming shift — heart rate down, heart rate variability (HRV) up — often within a few breaths. For the full menu of methods, see [vagus nerve exercises](/articles/vagus-nerve-exercises).
 
@@ -10376,6 +10384,183 @@ This is the part most breathing advice misses. We usually frame breathing as a c
 ## See how your breathing shifts you
 
 Because the effect of breathing route shows up in your autonomic balance, you can observe it. ONDA reads your pulse from your phone camera, or your HRV from your Apple Watch, so you can watch how nasal versus mouth breathing changes your heart rhythm in real time. Trying it yourself — a minute each way — often makes the difference obvious in your own numbers.
+
+---
+
+### Fast vs Slow Pranayama: Why Some Breathing Energizes and Some Calms
+
+URL: https://onda-life.com/articles/fast-vs-slow-pranayama
+Category: ONDA Protocol
+Description: Not all breathwork calms you. Fast techniques like Kapalabhati energize and activate the sympathetic system, while slow ones like Nadi Shodhana calm. How to choose the right one.
+
+Not all breathwork calms you down — and confusing the two is a common mistake. In the yogic tradition of pranayama, techniques split into two opposite categories: **fast pranayama** (like Kapalabhati and Bhastrika) energizes you by activating the sympathetic "fight or flight" system, while **slow pranayama** (like Nadi Shodhana and Bhramari) calms you by activating the parasympathetic "rest and digest" system. Indian research comparing them found that the beneficial calming effects on cardiovascular parameters appear mainly after *slow* pranayama, not fast — while fast pranayama produces arousal and alertness instead. If your goal is calm, breathing faster is not "more" breathwork; it's the opposite tool.
+
+## The two families of pranayama
+
+Pranayama, the breathing practices of yoga, isn't one thing. Indian physiology research consistently divides it by pace, because pace determines the autonomic effect:
+
+- **Fast pranayama** — rapid, forceful breathing. Includes **Kapalabhati** (rapid forceful exhalations), **Bhastrika** (bellows breath), and Kukkuriya. These raise heart rate, increase alertness, and shift you toward sympathetic activation and mild arousal. They're energizing, not sedating.
+- **Slow pranayama** — slow, deep, controlled breathing. Includes **Nadi Shodhana** ([alternate nostril](/articles/alternate-nostril-breathing)), **Bhramari** ([humming bee breath](/articles/humming-breath-vagus)), Pranava, and Savitri. These lower heart rate, activate the vagus nerve, and shift you toward parasympathetic dominance. They're the calming, recovery-oriented techniques.
+
+The mistake many people make is treating "breathwork" as automatically relaxing. A vigorous Kapalabhati session before bed will wake you up, not settle you.
+
+## What the research found
+
+Indian studies comparing fast and slow pranayama make the distinction concrete. In one comparison, both fast and slow pranayama reduced perceived stress — but the beneficial effects on cardiovascular parameters (heart rate, blood pressure) appeared **only after slow pranayama, not fast**. The slow techniques produced the parasympathetic shift; the fast ones produced arousal.
+
+The mechanism follows the breathing rate directly. Slow breathing — around six breaths per minute or fewer — lengthens the exhale and activates the [vagus nerve](/glossary/vagus-nerve) and baroreflex, raising heart rate variability (HRV). Fast, forceful breathing does the reverse: it drives sympathetic activation, useful for waking up and energizing, but not for calming down. So the same word, "pranayama," covers two physiologically opposite tools.
+
+## When to use each
+
+Match the technique to what you actually need:
+
+**Use slow pranayama to calm and recover:**
+- Nadi Shodhana (alternate nostril) — for settling a scattered mind.
+- Bhramari (humming) — for calm with a sensory anchor.
+- Any slow, long-exhale breathing — before sleep, during stress, for HRV.
+
+**Use fast pranayama to energize and focus:**
+- Kapalabhati or Bhastrika — in the morning, or when you need alertness.
+- Not before bed, and not to calm anxiety — it will push the wrong way.
+
+A simple rule: if you want the brake, breathe slow with a long exhale. If you want the gas, breathe fast and forceful. Both are legitimate; the error is using one when you need the other. For an even faster brake in an acute moment, a [physiological sigh](/articles/physiological-sigh) beats any sustained practice.
+
+## The cognitive angle
+
+Interestingly, Indian research has also examined the two families' effects on cognition, since arousal level shapes mental performance. Fast pranayama's alertness can suit tasks needing energy and speed, while slow pranayama's calm supports sustained, steady attention. This mirrors what happens with your nervous system generally: a little activation sharpens you, too much scatters you, and deep calm steadies you. Choosing your breathing pace is, in effect, choosing your mental state — the same lever behind [breathing for focus and attention](/articles/breathing-for-focus-and-attention).
+
+## See which way your breath takes you
+
+Because fast and slow pranayama pull your nervous system in opposite directions, you can watch the difference. ONDA reads your pulse from your phone camera, or your HRV from your Apple Watch, so you can see your heart rate rise with fast breathing and settle with slow — in real time. Trying both and watching your own numbers makes the distinction obvious, and helps you pick the right tool for the moment.
+
+---
+
+### Cardiac Coherence and the 365 Method: France’s Approach to Breathing
+
+URL: https://onda-life.com/articles/cardiac-coherence-365-method
+Category: ONDA Protocol
+Description: Cardiac coherence — breathing at 6 per minute, 3 times a day, for 5 minutes (the 365 method) — is a French clinical tradition for balancing the nervous system. The method, the science, and how to practice.
+
+Cardiac coherence (*cohérence cardiaque*) is a breathing technique, popular in France as a mainstream health practice, that balances the two branches of your autonomic nervous system by breathing slowly and rhythmically — usually about six breaths per minute. Its best-known form is the **365 method**: **3** times a day, **6** breaths per minute, for **5** minutes. Emerging in France around the turn of the 2000s and championed by French cardiologists, cardiac coherence is essentially the clinical, structured version of what English-speaking sources call [coherent or resonance breathing](/articles/coherent-breathing-guide). The idea is simple and measurable: breathe at the pace where your heart and breath fall into rhythm, and your nervous system shifts toward balance and calm.
+
+## What cardiac coherence actually is
+
+When you breathe slowly, your heart rate naturally rises on the inhale and falls on the exhale — a phenomenon called respiratory sinus arrhythmia. At around six breaths per minute, this variation becomes large and smooth, and your heart-rate rhythm synchronizes with your blood-pressure rhythm. French practitioners call this state *cohérence* — coherence — because your cardiovascular and respiratory systems are oscillating together in phase rather than independently (the same [harmony-of-rhythms](/articles/hrv-harmony-of-rhythms) idea, given a clinical protocol).
+
+Physiologically, this balances the sympathetic ("gas") and parasympathetic ("brake") branches of the autonomic nervous system, with a measurable rise in heart rate variability (HRV). Subjectively, it feels like calm and clarity. What makes the French framing useful is its precision: it's not vague "deep breathing," but a specific rate (six per minute) held for a specific time, which is exactly what the physiology responds to.
+
+## The 365 method
+
+The 365 method is the practical protocol that made cardiac coherence a household practice in France:
+
+- **3** — practice three times a day (commonly morning, midday, and late afternoon/evening).
+- **6** — breathe at six breaths per minute: roughly five seconds in, five seconds out.
+- **5** — for five minutes each session.
+
+Three sessions matter because the calming effect of a single session is real but temporary — spacing three across the day keeps your nervous system returning to balance. Morning sets a calm tone, midday interrupts accumulated stress, and an evening session supports winding down. It's a rhythm of regulation, not a one-off rescue.
+
+## The science behind six breaths a minute
+
+Why six? Because that's close to the **resonance frequency** of the human cardiovascular system — the rate at which the heart-rate rhythm and the baroreflex (your blood-pressure control loop) oscillate together at maximum amplitude, around 0.1 Hz. Breathing at this rate produces the strongest, smoothest HRV response, and it's worth [finding your own resonance rate](/articles/find-your-resonance-breathing-rate), which varies a little from person to person.
+
+Recent comparative research supports the emphasis on this pace and on the exhale. A 2025 study comparing square breathing, [4-7-8](/articles/4-7-8-breathing), and six-breaths-per-minute breathing found that the six-per-minute rhythm most strongly activated the vagus nerve and significantly raised HRV — and that an exhale longer than the inhale sends the most intense vagal signal to the brainstem. There's also a dose-response: longer sessions produce longer-lasting autonomic effects, which is part of why the 365 method uses repeated five-minute blocks rather than a single quick breath.
+
+## How to practice cardiac coherence
+
+- **Sit upright and comfortable.** You can do it anywhere, eyes open or closed.
+- **Breathe in for about 5 seconds, out for about 5 seconds** — six full breaths per minute. A visual guide or app pacer helps at first.
+- **Let the exhale be smooth and complete.** The long, easy exhale is the active ingredient.
+- **Do 5 minutes, three times a day.** Consistency across the day matters more than intensity.
+- **Don't strain.** If five seconds feels long, start with a slightly faster pace and slow down as it becomes comfortable.
+
+## See your own coherence
+
+Cardiac coherence is defined by a measurable state — your heart and breath synchronizing — so it's the perfect thing to actually watch. ONDA reads your pulse from your phone camera, or your HRV from your Apple Watch, and shows your heart rate rise and fall with your breath in real time. Watching that oscillation grow smooth as you settle to six breaths per minute makes finding your ideal pace far easier than counting alone.
+
+---
+
+### Wim Hof Breathing and Inflammation: It’s the Breath, Not the Cold
+
+URL: https://onda-life.com/articles/wim-hof-breathing-inflammation
+Category: ONDA Protocol
+Description: Radboud University research showed people can voluntarily calm their immune response through breathing — and that the breathing, not the cold, is the active ingredient. What the science found.
+
+The Wim Hof Method is famous for ice baths — but the science points to a surprising conclusion: the breathing, not the cold, is what calms inflammation. In landmark research at Radboud University in the Netherlands, trained practitioners were able to *voluntarily* activate their sympathetic nervous system and blunt their body's inflammatory response to an injected bacterial toxin — something long considered impossible, because the autonomic nervous system was assumed to be beyond conscious control. A later Radboud study separated the method's ingredients and found that [cold exposure](/articles/cold-exposure-vagus-nerve) alone did *not* significantly reduce inflammation, while the breathing technique did. If you care about the anti-inflammatory effect, the cold plunge is optional; the breath is the active component.
+
+## The study that broke a dogma
+
+For decades, physiology textbooks held a firm line: you cannot consciously control your autonomic nervous system or your innate immune response. That's why it's called *autonomic* — it runs itself. Wim Hof, a Dutchman known for extreme cold feats, claimed otherwise. Rather than dismiss him, researchers at Radboud University Medical Centre tested him.
+
+In a 2014 study (Kox, Pickkers and colleagues, published in *PNAS*), 12 people trained in the Wim Hof Method — along with a control group — were injected with endotoxin (a piece of bacterial cell wall that triggers a temporary, controlled inflammatory reaction, normally producing flu-like symptoms for a few hours). The trained group used the method's breathing during the challenge. The results were striking: they showed increased adrenaline release, activated their sympathetic nervous system on demand, and produced markedly fewer inflammatory proteins — roughly half — along with milder symptoms. They had, in effect, voluntarily dampened their innate immune response. This overturned the assumption that the autonomic and innate immune systems are entirely beyond conscious influence.
+
+## The follow-up that isolated the active ingredient
+
+A single dramatic study invites a fair question: which part of the method did it — the breathing, the cold, or the mindset? A 2022 Radboud study (Zwaag et al.) reproduced the original finding in a larger group and, crucially, separated the components.
+
+The answer surprised many: **cold exposure alone did not significantly reduce inflammation. The breathing exercises did — powerfully.** The anti-inflammatory effect that made the Wim Hof Method famous traces to the *breathing technique*, not the ice baths that dominate its public image. Cold training has its own effects and appeal, but for the specific immune-calming result, breathing is the driver.
+
+## Why this matters — and what it doesn't mean
+
+This is genuinely important, and it's easy to overstate, so here's the honest framing. It means:
+
+- **The breathing is the powerful part.** If the anti-inflammatory effect is what interests you, you don't need an ice bath to get it — the specific breathing pattern is the active ingredient.
+- **Conscious influence over "automatic" systems is real, within limits.** Trained people measurably shifted their immune and autonomic response. That's remarkable and well-documented.
+
+It does *not* mean you become immune to disease, or that breathing cures inflammatory illness. As the researchers themselves are careful to note, this is a temporary, controlled activation — a proof that the lever exists, not a treatment. Overselling it ("breathe away your autoimmune disease") goes far beyond what the science supports — the same overclaiming trap covered in [the honest limits of breathing and cold](/articles/hrv-breathing-cold-honest-limits).
+
+## How the Wim Hof breathing works
+
+The Wim Hof breathing is a form of controlled hyperventilation: rounds of deep, full breaths followed by a breath-hold. Physiologically, it drives a strong, deliberate sympathetic surge — including the adrenaline release seen in the studies — which is what appears to modulate the subsequent immune response. This is notably different from slow, calming breathwork: where [slow breathing at six breaths per minute](/articles/how-to-raise-hrv-naturally) activates the *parasympathetic* "rest and digest" system, Wim Hof breathing intentionally activates the *sympathetic* system first. Both are legitimate tools with different purposes — one calms, the other primes and, in this research, modulates immunity.
+
+Because it's an intense technique, it should be done seated or lying down, never in or near water and never while driving, due to the risk of light-headedness or fainting from the breath-holds.
+
+## See your own response
+
+The autonomic shifts behind this research show up in your heart rhythm. ONDA reads your pulse from your phone camera, or your HRV from your Apple Watch, so you can watch how intense breathing drives your heart rate up — the sympathetic activation these studies measured — versus how slow breathing settles it back down. Seeing the two opposite effects in your own numbers makes the difference between "priming" and "calming" breathwork concrete.
+
+---
+
+### Can Breathing Help with Altitude Sickness? What the Research Suggests
+
+URL: https://onda-life.com/articles/breathing-altitude-acclimatization
+Category: ONDA Protocol
+Description: Controlled hyperventilation breathing (from the Wim Hof Method) was used on a Kilimanjaro expedition to reduce altitude sickness. What the research suggests about breath and acclimatization.
+
+Breathing technique may help your body adapt to high altitude faster. On a Kilimanjaro expedition, 26 participants used [Wim Hof Method breathing](/articles/wim-hof-breathing-inflammation) — a form of controlled hyperventilation — to prevent or reduce the symptoms of acute mountain sickness, and researchers reported it may accelerate altitude acclimatization. The idea is physiologically plausible: deliberate deep breathing raises blood oxygen and shifts blood chemistry in ways that mimic part of the body's natural adaptation to thin air. This is promising rather than proven — a field observation, not a large controlled trial — but it points to breathing as a low-cost tool worth understanding if you head for high places.
+
+## What happens to your body at altitude
+
+As you climb, the air thins and each breath delivers less oxygen. Your body responds by breathing faster and deeper, and over days it makes deeper adaptations — producing more red blood cells and adjusting blood chemistry. Until those adaptations catch up, many people experience acute mountain sickness (AMS): headache, nausea, fatigue, poor sleep and dizziness, usually above 2,500 metres. AMS is essentially your body lagging behind the altitude — the gap between how much oxygen you're getting and how much adaptation you've made.
+
+Anything that helps close that gap faster — safely — is valuable, because AMS can range from miserable to, in severe forms, dangerous.
+
+## What the Kilimanjaro observation found
+
+On a climb of Mount Kilimanjaro (5,895 m), 26 participants used Wim Hof Method breathing techniques as they ascended. The report indicated that this controlled-hyperventilation breathing helped prevent or reverse symptoms of acute mountain sickness, suggesting it may accelerate acclimatization to altitude.
+
+The proposed mechanism is straightforward: the deep, forceful breathing temporarily raises oxygen saturation and lowers carbon dioxide, nudging blood chemistry (pH and oxygen delivery) in a direction that partly anticipates the body's slower natural adjustment. In effect, the breathing may give your physiology a head start on adapting to thin air. It's worth being clear about the evidence level: this is a field observation from an expedition, not a large randomized controlled trial, so it should be read as a promising lead rather than settled proof.
+
+## Breathing techniques used at altitude
+
+Two distinct breathing approaches matter in the mountains, and they do different jobs:
+
+- **Controlled deep breathing / hyperventilation** (as in the Wim Hof Method) — deliberately raises oxygen and may aid acclimatization, used actively during ascent. This is the technique in the Kilimanjaro observation.
+- **Slow, paced breathing** — useful for the anxiety, poor sleep and racing heart that altitude often brings, by calming the nervous system. Different purpose: comfort and recovery rather than acclimatization. A [physiological sigh](/articles/physiological-sigh) or [slow coherent breathing](/articles/coherent-breathing-guide) fits here.
+
+Note that spontaneous over-breathing from panic is *not* the same as controlled technique — anxious hyperventilation can worsen how you feel. The benefit comes from deliberate, controlled practice.
+
+## Important safety notes
+
+Altitude is not the place to experiment carelessly:
+
+- **Controlled hyperventilation causes light-headedness** — do it seated or resting, never while climbing an exposed section, near drop-offs, or where a faint would be dangerous.
+- **Breathing does not replace proper acclimatization** — gradual ascent, rest days, and "climb high, sleep low" remain the foundation. Breathing is a possible aid, not a substitute.
+- **Severe altitude illness is a medical emergency.** If symptoms are severe or worsening (confusion, breathlessness at rest, loss of coordination), descend and seek help. No breathing technique treats HAPE or HACE.
+- If you have heart, lung or blood-pressure conditions, get medical advice before high-altitude travel.
+
+## See your body respond
+
+At altitude your resting heart rate rises and your HRV typically falls as your body works to adapt. ONDA reads your pulse from your phone camera, or your HRV from your Apple Watch, so you can watch how your baseline shifts with altitude and how it settles as you acclimatize — and see the immediate effect of a breathing session on your heart rhythm. Your own trend is a useful companion to how you feel, never a replacement for good mountain judgment.
 
 ---
 
