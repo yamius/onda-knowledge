@@ -270,6 +270,22 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 
 - [System Feedback: The Biometric Loop](https://onda-life.com/articles/system-feedback-biometric-loop): Stop tracking and start optimizing. Learn how ONDA turns your biometric data into immediate corrective protocols for peak performance.
 
+### Guide
+
+- [How to Talk to Your Doctor About Your Watch Data (Without Being Dismissed)](https://onda-life.com/articles/talk-to-your-doctor-about-wearable-data): Your watch collects months of heart rate, HRV and sleep data your doctor never sees. Here's what clinicians actually find useful, how to prepare a one-page summary, and the questions worth asking.
+- [Showing Your Heart Data to Your GP: What a Family Doctor Can Do With It](https://onda-life.com/articles/onda-report-for-your-gp): Your family doctor is usually the first person to see your watch data. Here's how a GP can read a heart-rate and HRV report, what help they can offer, and how to make the appointment count.
+- [Showing Your Heart Data to a Cardiologist: What They Can (and Can't) Do With It](https://onda-life.com/articles/onda-report-for-your-cardiologist): A cardiologist reads your heart-rate trends differently from a GP. Here's what a heart specialist can take from a resting heart rate, HRV and breathing report, what tests they may use next, and where watch data stops.
+- [Showing Your Night Data to a Sleep Specialist: What It Can and Can't Tell Them](https://onda-life.com/articles/onda-report-for-your-sleep-specialist): Your watch records every night — heart rate, HRV, breathing and sleep timing. Here's what a sleep specialist can take from that history, which tests they may use next, and why obsessing over sleep scores can backfire.
+- [Showing Your Recovery Data to a Sports Doctor: Training, Overtraining and Coming Back Safely](https://onda-life.com/articles/onda-report-for-your-sports-doctor): Resting heart rate and HRV trends show how your body handles training. Here's how a sports medicine doctor can use them — to spot overreaching, find hidden causes of poor recovery, and guide a safe return after illness.
+- [Doctors and Your Data: Which Specialist Can Use Your Heart, HRV and Sleep Trends](https://onda-life.com/articles/doctors-and-your-data): Your watch records months of heart rate, HRV, breathing and sleep. This guide shows which of 11 doctors can use that data for which problem — from GP and cardiologist to sleep, hormone and lung specialists — and how to bring it.
+- [Bringing Your Body Data to Therapy: How a Therapist or Psychiatrist Can Use It](https://onda-life.com/articles/onda-report-for-your-therapist-or-psychiatrist): Stress and emotion leave traces in your heart rate, HRV, breathing and sleep. Here's how a psychotherapist or psychiatrist can use that history — to spot triggers, build body awareness, track progress and watch medication effects.
+- [Heart Rate Data and the Nervous System: What a Neurologist Can Do With It (POTS, Dysautonomia, Long COVID)](https://onda-life.com/articles/onda-report-for-your-neurologist): When your heart races on standing, you tire after small efforts, or recovery never comes after an illness, the autonomic nervous system may be involved. Here's how a neurologist can use your heart-rate and HRV history — and why the clinic's own test breathes at 6 breaths a minute.
+- [Your Heart Rate and Your Hormones: What an Endocrinologist Can Do With Your Data (Thyroid, Diabetes)](https://onda-life.com/articles/onda-report-for-your-endocrinologist): Hormones set the pace of your heart. A thyroid problem can push resting heart rate up or down, and diabetes can quietly lower HRV. Here's how an endocrinologist can use your heart-rate history — and where blood tests take over.
+- [Your Cycle in Your Heart Rate: What a Gynecologist Can Do With Your Data (Cycle, Pregnancy, Menopause)](https://onda-life.com/articles/onda-report-for-your-gynecologist): Resting heart rate and HRV shift across the menstrual cycle, through pregnancy and in the years around menopause. Here's how a gynecologist can use that history, what it can't tell them, and how to share it on your terms.
+- [Your Breathing in Numbers: What a Lung Specialist Can Do With Your Data (Asthma, Breathlessness, Breathing Patterns)](https://onda-life.com/articles/onda-report-for-your-pulmonologist): Your watch tracks how fast you breathe at night — a quiet signal that often changes before you feel ill. Here's how a pulmonologist can use your breathing and heart-rate history, and why breathing retraining is one of the few breathing practices in official guidelines.
+- [Your Work Week in Your Heart Rate: What an Occupational Health Doctor Can Do With Your Data (Shift Work, Burnout)](https://onda-life.com/articles/onda-report-for-your-occupational-health-doctor): Your body keeps a record of your job. Night shifts, long hours and chronic work stress leave a signature in resting heart rate, HRV and sleep. Here's how an occupational health doctor can use it — and what to know about confidentiality.
+- [Recovery Isn't a Straight Line: What a Rehabilitation Doctor or Physiotherapist Can Do With Your Data](https://onda-life.com/articles/onda-report-for-your-rehabilitation-team): After illness, surgery or a heart event, recovery comes in steps, setbacks and plateaus. Here's how a rehabilitation team can use your resting heart rate, HRV and breathing history to pace your comeback — and why the day after an effort tells more than the day of.
+
 ## Glossary
 
 - [Biocomputer](https://onda-life.com/glossary/biocomputer): The human body viewed as a complex biological computing system capable of running consciousness programs.
@@ -492,7 +508,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 
 Free interactive calculators, no sign-up. Nervous-system tools link to the measurements and evidence pages. Hub: https://onda-life.com/tools
 
-- [HRV Interpreter](https://onda-life.com/tools/hrv): Enter your age and resting HRV (RMSSD) to see where it lands against population norms — and what moves it.
+- [HRV Calculator by Age](https://onda-life.com/tools/hrv): Enter your age and HRV (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch) to see your percentile for your age — and what moves it.
 - [Caffeine Cut-Off Calculator](https://onda-life.com/tools/caffeine): Find the latest you can have your last coffee before bed without leaving sleep-disrupting caffeine in your system.
 - [Sleep Debt Calculator](https://onda-life.com/tools/sleep-debt): Add up your last 7 nights to see your accumulated sleep deficit against your age-based need — and how to repay it.
 - [Zone 2 Heart Rate Calculator](https://onda-life.com/tools/zone-2): Find your aerobic-base (Zone 2) heart rate and all 5 training zones from your age — using the accurate Tanaka formula.
@@ -7093,6 +7109,8 @@ Description: In September 2026 Apple split Apple Watch HRV into Recovery HRV and
 
 > "People opened the Health app in late September 2026 and found something new: their Apple Watch was suddenly reporting **two** heart-rate-variability numbers instead of one — 'Recovery HRV' and 'Overall HRV' — and they often didn't match.
 
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
+
 > This wasn't a bug. With the Apple Watch Series 12 and Ultra 4, Apple quietly rebuilt how the watch measures HRV — and in the process it changed which *metric* it reports, how *often*, and what the number even means. If your HRV looks different, jumpier, or hard to compare to last month, here is exactly what happened."
 
 ---
@@ -7225,6 +7243,8 @@ Description: Your Apple Watch quietly logs your resting pulse, heart-rate variab
 ## [ SIGNAL: WHAT_THE_WATCH_ALREADY_KNOWS ]
 
 > "You don't have to do anything for an Apple Watch to build a record of you. While you sleep it samples your pulse, times the gaps between beats, and counts your breaths — night after night. Most people never look. The numbers are already there; the only trick is reading them back as a *range* instead of a single, lonely figure."
+
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
 
 ---
 
@@ -7887,6 +7907,8 @@ Description: Your resting heart rate, HRV and breathing drift from your personal
 
 > "You wake up, you feel fine, you get on with the day. But your body has been keeping notes you never read — and sometimes those notes changed days ago.
 
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
+
 > The strange, well-documented truth of continuous physiology is this: your resting rhythm often drifts *before* you consciously feel anything. Not because a device is psychic. Because your autonomic nervous system reacts to load — a hard week, a short night, a coming cold — earlier and more honestly than your self-report does."
 
 ---
@@ -8204,6 +8226,8 @@ Description: More training isn’t more progress — recovery decides. When load
 ## [ CASE FILE: MORE IS NOT THE ANSWER ]
 
 > "You trained harder this block than last. You got slower. The numbers know why.
+
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
 
 > The oldest mistake in training is treating the workout as the thing that makes you fitter. It isn't. The workout is the *stimulus* — a controlled dose of damage. The adaptation, the actual fitness, is built afterward, during recovery. Skip the recovery and you keep paying for stimulus you can't cash in. Do it long enough and your own physiology starts filing complaints."
 
@@ -8696,6 +8720,8 @@ Description: HRV swings with time of day, posture, breathing, caffeine and your 
 
 > "You check your HRV and it's 45. You check an hour later and it's 68. You panic, or you celebrate, and both are mistakes — because you just measured two different situations, not two different you's.
 
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
+
 > HRV is gloriously sensitive. That sensitivity is what makes it useful and what makes it useless — depending entirely on whether you control the conditions. Measured carelessly, it's noise. Measured consistently, it's one of the best signals you have."
 
 ---
@@ -8969,6 +8995,8 @@ Description: Higher HRV means a more adaptable nervous system. The levers that a
 
 > "Everyone wants a higher HRV. Fewer people know what actually moves it — or that most of the advice online is just 'sleep well and relax,' which is true, slow, and unsatisfying.
 
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
+
 > Here's the honest version: your [heart-rate variability](/glossary/heart-rate-variability) is a readout of how adaptable your nervous system is, and it rises when you remove what's suppressing it and train what strengthens it. Some of those levers take weeks. One of them works in minutes — and it's the only one you can watch happen in real time."
 
 ---
@@ -9036,6 +9064,8 @@ Description: Your Apple Watch or app flagged a low HRV. Before you worry: one re
 ## [ CASE FILE: THE RED NUMBER ]
 
 > "Your watch says your HRV is low this morning. Your stomach drops a little. Is something wrong? Should you cancel the workout? Panic?
+
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
 
 > Slow down. A single low [HRV](/glossary/heart-rate-variability) reading is one of the most over-interpreted numbers in consumer health. Most of the time it means very little — and when it does mean something, the right response is boring, physiological, and entirely in your hands."
 
@@ -10099,21 +10129,38 @@ URL: https://onda-life.com/articles/normal-hrv-by-age
 Category: Biological Software
 Description: There’s no single good HRV number — it depends on age and your own baseline. Typical HRV ranges by age, why HRV drops as you get older, and why your trend matters more than any average.
 
-There is no universal "good" HRV number — it depends heavily on your age, and even more on your own baseline. As a rough guide, average overnight HRV (measured as RMSSD) runs about 60–100 ms in your 20s, 45–75 ms in your 30s, 35–60 ms in your 40s, 25–50 ms in your 50s, and 20–40 ms after 60. HRV naturally declines with age and varies a lot between devices, fitness levels, sleep and stress. The single most useful number isn't where you land against the population — it's whether your own HRV is trending up or down against your personal normal.
+There is no universal "good" HRV number — it depends heavily on your age, and even more on your own baseline. As a guide, the median overnight HRV (measured as RMSSD by Oura, Whoop, Garmin and Polar) is about 58 ms at 18–29, 50 ms in your 30s, 42 ms in your 40s, 36 ms in your 50s, 30 ms in your 60s and 26 ms after 70. Apple Watch reports a different measure, SDNN, with its own norms (below). HRV naturally declines with age and varies a lot between devices, fitness levels, sleep and stress. The single most useful number isn't where you land against the population — it's whether your own HRV is trending up or down against your personal normal.
+
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — enter your age and HRV to see your percentile.
 
 ## Typical HRV ranges by age
 
-These ranges are broad on purpose. HRV varies enormously between individuals, so two healthy people the same age can differ by 40 ms or more. Use this as orientation, not a scoreboard:
+These are population norms for overnight RMSSD — the number rings and straps report. The median is the middle value; the typical range covers the middle half of healthy people (25th–75th percentile). HRV varies enormously between individuals, so two healthy people the same age can differ by 40 ms or more. Use this as orientation, not a scoreboard:
 
-| Age range | Typical overnight HRV (RMSSD) |
-|---|---|
-| 20–29 | ~60–100 ms |
-| 30–39 | ~45–75 ms |
-| 40–49 | ~35–60 ms |
-| 50–59 | ~25–50 ms |
-| 60+ | ~20–40 ms |
+| Age | Median RMSSD | Typical range (p25–p75) |
+|---|---|---|
+| 18–29 | 58 ms | 42–78 ms |
+| 30–39 | 50 ms | 36–68 ms |
+| 40–49 | 42 ms | 30–56 ms |
+| 50–59 | 36 ms | 26–48 ms |
+| 60–69 | 30 ms | 22–42 ms |
+| 70+ | 26 ms | 19–36 ms |
 
-If your number sits inside or near your age band, that's normal. If it sits below, that alone means little — it could be your genetics, your device, or a rough week. What matters is the direction it moves over time.
+If your number sits inside or near your age band, that's normal. If it sits below, that alone means little — it could be your genetics, your device, or a rough week. What matters is the direction it moves over time. How these norms were built (Nunan 2010, Umetani 1998, Voss 2015) is explained on the [HRV calculator](/tools/hrv) page.
+
+## Normal HRV on Apple Watch (SDNN)
+
+Apple Watch doesn't show RMSSD — it shows SDNN, a different HRV measure, so its numbers can't be compared with the table above. In a study of about 1,900 healthy adults (Voss 2015, 5-minute resting ECG), SDNN ran:
+
+| Age | Median SDNN | Typical range (p25–p75) |
+|---|---|---|
+| 18–34 | 46 ms | 35–60 ms |
+| 35–44 | 42 ms | 32–54 ms |
+| 45–54 | 34 ms | 27–44 ms |
+| 55–64 | 29 ms | 22–39 ms |
+| 65+ | 26 ms | 20–35 ms |
+
+Apple Watch takes short readings of about a minute several times a day and at night, so single values jump around more than a lab recording. Compare your 7-day average in the Health app, not one reading.
 
 ## Why HRV drops with age
 
@@ -10148,6 +10195,8 @@ Category: Biological Software
 Description: A normal resting heart rate is 60–100 bpm for adults, but the healthy range shifts with age and fitness. Typical resting heart rate ranges by age, what raises or lowers yours, and when it matters.
 
 A normal resting heart rate for most adults is 60 to 100 beats per minute, but the healthy range shifts with age and fitness. Newborns run high (100–160 bpm), children settle down through their teens, and by adulthood most people land between 60 and 100 bpm at rest — with well-trained adults often in the 40s or 50s. A lower resting heart rate generally reflects better cardiovascular fitness, because a stronger heart pumps more blood per beat and needs fewer beats. As with HRV, the single most useful comparison isn't the population average — it's how your resting heart rate is trending against your own baseline.
+
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
 
 ## Typical resting heart rate by age
 
@@ -10194,6 +10243,8 @@ Category: ONDA Protocol
 Description: Alcohol lowers heart rate variability and raises resting heart rate overnight, in a dose-dependent way. How much each drink costs your recovery, from wearable and peer-reviewed data.
 
 Alcohol lowers your heart rate variability (HRV) and raises your resting heart rate overnight, and the effect scales with how much you drink. In aggregate wearable data, a single drink drops HRV by around 3–4% and raises sleeping heart rate by about 1–3 bpm; four drinks can cut HRV by roughly 15%. WHOOP data shows even one drink lowers HRV by an average of 7 milliseconds and raises resting heart rate by 3 bpm. The mechanism isn't sedation — alcohol activates your sympathetic "fight or flight" system as your body processes it as a toxin, which is why you can sleep a full night after drinking and still wake up unrecovered.
+
+**Check your number → [HRV Calculator by Age](/tools/hrv)** — see where your HRV sits for your age (RMSSD from Oura, Whoop, Garmin or SDNN from Apple Watch).
 
 ## The dose-response: what each drink costs
 
@@ -12084,6 +12135,938 @@ You don't need to attach religious meaning to it — the physiological effect co
 The calming shift shows up in your heart rhythm. ONDA reads your pulse from your phone camera or Apple Watch, and your HRV from Apple Watch, so you can watch your heart rate settle as you chant on long exhales. You can't see your amygdala on fMRI at home — but you can see the autonomic calm that goes with it.
 
 *Source: Kalyani et al., 2011, International Journal of Yoga — fMRI study of OM chanting. ONDA is a breathing and HRV biofeedback app, not a medical device.*
+
+---
+
+### How to Talk to Your Doctor About Your Watch Data (Without Being Dismissed)
+
+URL: https://onda-life.com/articles/talk-to-your-doctor-about-wearable-data
+Category: Guide
+Description: Your watch collects months of heart rate, HRV and sleep data your doctor never sees. Here's what clinicians actually find useful, how to prepare a one-page summary, and the questions worth asking.
+
+Your watch has recorded months of your heart rate, sleep and heart rate variability — far more than a doctor sees in a 15-minute appointment, where you get one blood pressure reading and one pulse. That data can genuinely help, but only if you bring it in a form a clinician can use. Doctors rarely want a raw export or a "readiness score." They want **trends, context and dates**: how your resting heart rate or sleep changed, when it changed, and what else was happening. A one-page summary, symptoms first and data second, turns "my app says my HRV is low" into a conversation your doctor can actually work with.
+
+## Why this conversation often goes badly
+
+Many people arrive with a phone full of charts and leave feeling brushed off. It usually isn't because the doctor doesn't care. It's a mismatch of formats.
+
+Consumer wearables produce enormous amounts of data, most of it unvalidated for clinical decisions, presented through proprietary scores that differ between brands. A doctor looking at your "recovery 34%" has no reference for what it means. Heart rate variability in particular isn't a standard clinical measurement in routine care — it varies hugely between people and devices, and a single low number means almost nothing on its own.
+
+So the problem isn't that your data is useless. It's that it arrives as noise. Your job is to turn it into signal before you walk in.
+
+## What doctors actually find useful
+
+Not all watch data is equal in a clinical conversation.
+
+**Usually useful:**
+- **Resting heart rate trends** over weeks — a sustained rise or fall is easy to understand and relevant to many conditions.
+- **Sleep duration and timing** patterns — regular or irregular, and since when.
+- **Specific events with dates** — "my resting pulse jumped by 10 beats for two weeks starting March 3rd."
+- **Features your watch is cleared for medically** — some watches offer regulator-cleared functions, such as irregular rhythm notifications. If one fired, say so and bring the date.
+- **Your own notes** — symptoms, medication changes, illness, alcohol, stress, travel.
+
+**Usually less useful:**
+- A single HRV reading, or HRV compared with population averages.
+- Brand-specific scores (readiness, recovery, stress, body battery).
+- Months of raw data with no summary.
+
+## Prepare a one-page summary
+
+Before the appointment, spend twenty minutes turning your data into one page:
+
+1. **Your baseline.** What's normal for you — typical resting heart rate, usual sleep, your usual HRV range — over a calm period.
+2. **What changed, and when.** The trend that worries you, with start date and how long it lasted.
+3. **Two or three simple charts.** Four to eight weeks, trend lines only, clearly dated.
+4. **Context.** Illness, new medication, alcohol, travel, a stressful stretch, a change in training.
+5. **Symptoms.** How you actually felt — this matters more than any number.
+6. **Your questions.** Written down, so they don't get lost.
+
+Print it or have it ready as a PDF. One page gets read. Forty screenshots don't.
+
+## How to frame it in the room
+
+Lead with how you feel, then support it with data — not the other way round. Compare:
+
+- *Less effective:* "My app says my HRV is really low."
+- *More effective:* "I've felt unusually tired for three weeks. My watch shows my resting heart rate went up about eight beats over the same period, and my sleep got shorter. Here's the one-page summary."
+
+The second version gives your doctor a symptom, a timeline and a measurable change — the building blocks of a clinical picture. Then ask what it means *for you*, rather than asking them to validate the app.
+
+## What your data can't tell you
+
+Honesty keeps this useful. Watch data is **not a diagnosis**. Accuracy varies by device, fit and activity. HRV is highly individual, and a low reading more often reflects a bad night, alcohol or a cold than a disease. And your data never replaces a proper examination or tests your doctor decides you need.
+
+Two rules matter most: don't change or stop any medication based on watch data, and if you have urgent symptoms — chest pain, fainting, severe breathlessness — seek care immediately rather than checking your numbers.
+
+## Questions worth asking
+
+- Is this change in my resting heart rate something to look into, or within normal variation for me?
+- Given my symptoms, is there a test that would answer this better than my watch can?
+- Which of these numbers, if any, would you want me to keep tracking?
+- What change would mean I should come back sooner?
+
+## Bring your data in a form that works
+
+ONDA was built partly for this moment. It reads your resting heart rate, HRV and breathing from your Apple Watch, shows your personal baseline rather than a population average, and lets you add notes when something changes. You can export your timeline as a clean PDF — baseline, trends and your notes on one document, generated on your device and shared only by you. It's exactly the one-page summary a doctor can read in a minute.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device. This article is general information, not medical advice. If you have urgent symptoms, seek medical care immediately.*
+
+---
+
+### Showing Your Heart Data to Your GP: What a Family Doctor Can Do With It
+
+URL: https://onda-life.com/articles/onda-report-for-your-gp
+Category: Guide
+Description: Your family doctor is usually the first person to see your watch data. Here's how a GP can read a heart-rate and HRV report, what help they can offer, and how to make the appointment count.
+
+Your GP (family doctor) is usually the right first person to see your watch data. Not because they'll interpret every HRV value — most won't, and they don't need to — but because they can put a **change in your body** next to **your symptoms, history and medications**, and decide what, if anything, needs checking. A clear report showing your normal resting heart rate, breathing rate and HRV, what changed, and when, helps a GP separate everyday causes (a virus, a new medication, poor sleep, alcohol) from things worth testing, and refer you on only when it's needed.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## Why start with your GP
+
+A GP sees the whole person. A cardiologist looks at the heart, a sleep specialist at sleep — but a family doctor holds your history, medications, previous test results and life context in one place. That makes them the best person to answer the first, most important question: *is this change something, or nothing?*
+
+They're also the gatekeeper for the next step. If your data and symptoms suggest a closer look, your GP decides which tests make sense and which specialist, if any, you should see.
+
+## How a GP can read each part of your report
+
+A good report — like the PDF ONDA exports — has a few blocks. Here's what a GP can take from each.
+
+**Your baseline.** Your normal range for resting heart rate, HRV and breathing rate over a calm period, and how many nights of data it's built on. This matters most: it tells the doctor what's normal *for you*, rather than comparing you with a population chart.
+
+**The day-by-day timeline.** Values over the chosen period, with days marked where a measure left your usual range. A GP will look for the **shape**: a sudden jump, a slow drift, or scattered one-off days. A single odd night is rarely meaningful; a shift that lasts for days or weeks is.
+
+**Signals.** The dates when a measure moved outside your normal range, by how much, and for how long. These give the doctor a clear timeline to match against symptoms.
+
+**Your notes.** What you wrote down when something changed — illness, a stressful week, new medication, travel, alcohol, poor sleep. For a GP, this context is often worth as much as the numbers, because it explains many changes on its own.
+
+## What help a GP can offer
+
+With symptoms plus a clear trend, a family doctor can typically:
+
+**Look for common, everyday causes first.** A resting heart rate that climbs for several days often lines up with an infection, dehydration, poor sleep, heavy training, alcohol or stress. Your notes and dates make this quick to check.
+
+**Review your medications.** Many medicines change heart rate — some lower it, others raise it. A GP can see whether a change in your data started when a medication started or changed dose.
+
+**Decide whether tests are worth doing.** Depending on your symptoms, a GP may consider simple checks such as a physical examination, blood pressure, blood tests or an ECG — tests that answer questions a watch can't. Your data doesn't order the tests; it helps the GP decide whether they're needed.
+
+**Refer you when it makes sense.** If the picture points to the heart, sleep, breathing or mental health, your GP can refer you to the right specialist — and your report travels with you, so the next doctor starts with the history.
+
+**Follow up over time.** After a change — new medication, recovering from illness, a lifestyle change — your trend shows whether things are returning to your baseline. That makes follow-up appointments more concrete than "how have you been feeling?"
+
+## What a GP won't do with it
+
+Be realistic. Your GP won't diagnose a condition from HRV alone — it isn't used that way in routine care. Watch and camera readings aren't medical-grade measurements, and a single low value usually reflects a bad night rather than disease. Some doctors are more comfortable with wearable data than others; if yours is cautious, the summary still helps, because it turns a vague complaint into a dated, measurable change.
+
+## How to make the appointment count
+
+- **Bring one page, not your phone.** The PDF summary, printed or ready to show.
+- **Lead with symptoms.** "I've felt tired and breathless for two weeks" first; the data second.
+- **Point to the change.** "My resting pulse went up about eight beats from the 3rd, and stayed there."
+- **Mention what you already noticed.** A cold, a new pill, a stressful month — it's all in your notes.
+- **Ask what would change the plan.** "What would make you want to check this further?"
+
+If you have urgent symptoms — chest pain, fainting, severe breathlessness — don't wait for an appointment or check your data. Seek care immediately.
+
+## Your report, ready for the appointment
+
+ONDA builds your personal baseline from your Apple Watch history, marks the days you left your usual range, and lets you add notes when something changes. From the timeline you can export a clean PDF — baseline, day-by-day values, signals and your notes, for the period you choose — generated on your device and shared only by you. It's designed to be read by a GP in a minute.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device. This article is general information, not medical advice. If you have urgent symptoms, seek medical care immediately.*
+
+---
+
+### Showing Your Heart Data to a Cardiologist: What They Can (and Can't) Do With It
+
+URL: https://onda-life.com/articles/onda-report-for-your-cardiologist
+Category: Guide
+Description: A cardiologist reads your heart-rate trends differently from a GP. Here's what a heart specialist can take from a resting heart rate, HRV and breathing report, what tests they may use next, and where watch data stops.
+
+A cardiologist is the specialist most at home with heart-rate data — but they read it differently from you, and differently from your GP. What interests them is **the pattern**: how your resting heart rate behaves over weeks, whether changes line up with symptoms like palpitations, breathlessness or dizziness, and how your body responds to treatment. Your watch data can't show the heart's electrical rhythm the way an ECG does, so it won't replace their tests. What it can do is give them a long, dated history they would otherwise never see — and help them decide which test will actually capture what's going on.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## Why a cardiologist sees your data differently
+
+A GP asks *is this something or nothing?* A cardiologist, usually seeing you after a referral, asks narrower questions: *is the heart involved, how, and how much?* They think in terms of rhythm, rate, structure and response to effort — and they have tools a watch doesn't: ECGs, extended rhythm monitoring, heart ultrasound and exercise testing.
+
+That changes what's useful. Your report is most valuable to a cardiologist as a **timeline of context** — when things changed, how long they lasted, and what you felt — that helps them choose and time the right test.
+
+## How a cardiologist can read each part of your report
+
+**Resting heart rate baseline and trend.** Resting heart rate is a well-understood measure in cardiology. A cardiologist will note your normal range and any sustained shift: a gradual rise over weeks, an abrupt change, or a new pattern after starting medication. Because it's built from many nights rather than one clinic reading, it avoids the "white coat" effect of a single measurement taken while you're anxious in the office.
+
+**HRV trend.** In research, heart rate variability is linked to how well the autonomic nervous system regulates the heart, and reduced HRV is associated with poorer cardiovascular outcomes in some populations. In the clinic, though, consumer-watch HRV isn't used to diagnose anything. A cardiologist may treat it as supporting context — for example, a sustained drop alongside other changes — rather than a finding in itself.
+
+**Breathing rate at rest.** A resting respiratory rate that stays higher than your normal can be relevant context, particularly alongside breathlessness or fatigue. On its own it points to a question, not an answer.
+
+**Signals and your notes.** The dates when a measure left your range, and what you wrote at the time, let a cardiologist line up episodes with symptoms. "Palpitations on the evenings of the 4th, 9th and 15th, resting pulse higher that week" is far more useful than "I get palpitations sometimes."
+
+## What help a cardiologist can offer
+
+**Choose the right rhythm test.** A watch that tracks pulse can't tell what kind of rhythm you're having. If your timeline shows symptoms coming and going, a cardiologist may use an ECG, a Holter monitor (continuous ECG over a day or more) or a longer-term event monitor to actually capture the rhythm during an episode. Your data helps them judge how often episodes happen — and therefore how long monitoring needs to be.
+
+**Check the heart's structure and effort response.** Depending on the picture, they may consider a heart ultrasound (echocardiogram) or an exercise test, which show things no wearable can.
+
+**Adjust and monitor treatment.** Many heart medications change heart rate. Your trend shows how your resting heart rate settled after a new medication or dose change — useful objective feedback between appointments, alongside how you feel.
+
+**Put fitness and recovery in context.** If you're recovering from illness, returning to exercise, or in cardiac rehabilitation, a steady trend back toward your baseline is reassuring and easy to follow over time.
+
+**Advise on lifestyle and breathing.** For people with raised blood pressure or stress-related symptoms, a cardiologist may discuss lifestyle measures; slow breathing is one that research links to modestly lower blood pressure — as a complement to treatment, never a substitute.
+
+## Where watch data stops
+
+This matters more with a cardiologist than anywhere else:
+
+- **Pulse is not rhythm.** Heart-rate trends can't diagnose arrhythmias. Only an ECG-type recording can show the rhythm itself.
+- **Averages can hide short events.** A brief episode may not move a nightly resting heart rate at all.
+- **Camera readings are spot checks.** An iPhone-camera pulse during practice is not a clinical measurement.
+- **Separate alerts from trends.** If your watch has a medically cleared feature (such as an ECG app or irregular rhythm notification) and it gave you an alert, bring that separately with its date and time — it's a different kind of data from a breathing app's trends.
+- **Never replace prescribed monitoring.** If you have a known heart condition, your cardiologist's plan comes first.
+
+If you have chest pain, fainting, a very fast or irregular heartbeat with feeling unwell, or severe breathlessness, seek emergency care. Don't check your app first.
+
+## How to prepare for the appointment
+
+- **Bring your one-page report**, for the period around your symptoms.
+- **List episodes with dates and times**, what you felt, how long it lasted, what you were doing.
+- **Bring a list of all medications**, with when each started or changed.
+- **Mention any separate watch alerts** (ECG, irregular rhythm) with dates.
+- **Ask which test would capture it**: "Given how often this happens, what monitoring would show it?"
+
+## Your trends, ready for a specialist
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch history, marks the days you left your usual range, and lets you add notes when something happens. You can export the timeline for any period as a PDF — generated on your device and shared only by you — so a cardiologist sees your history at a glance before choosing the next test.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not detect or diagnose heart conditions. This article is general information, not medical advice. If you have urgent symptoms, seek emergency care.*
+
+---
+
+### Showing Your Night Data to a Sleep Specialist: What It Can and Can't Tell Them
+
+URL: https://onda-life.com/articles/onda-report-for-your-sleep-specialist
+Category: Guide
+Description: Your watch records every night — heart rate, HRV, breathing and sleep timing. Here's what a sleep specialist can take from that history, which tests they may use next, and why obsessing over sleep scores can backfire.
+
+A sleep specialist rarely gets to see what actually happens across weeks of your nights — they see one appointment, a questionnaire, and your memory of how you slept. Your watch fills that gap. Nightly resting heart rate, HRV, breathing rate and sleep timing, recorded over weeks, show **patterns**: how regular your schedule really is, which nights your body didn't settle, and what you were doing beforehand. That history helps a sleep specialist decide what kind of sleep problem they're looking at and which test is worth doing. What it can't do is replace a proper sleep assessment — and there's one trap worth knowing about: tracking sleep too anxiously can make sleep worse.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## What a sleep specialist is trying to work out
+
+Poor sleep has very different causes, and each needs a different approach. A sleep specialist is usually trying to answer:
+
+- Is this **insomnia** — trouble falling or staying asleep, often driven by an over-aroused nervous system?
+- Is it a **body-clock problem** — a schedule that fights your natural rhythm?
+- Could it be **sleep-disordered breathing**, such as sleep apnea?
+- Or is it driven by something else — medication, alcohol, pain, mood, or another condition?
+
+Your data doesn't answer these questions on its own. But it helps point toward the right one.
+
+## How a sleep specialist can read your report
+
+**Sleep timing and regularity.** When you actually fell asleep and woke up, night after night. A specialist looks for irregular schedules, weekend shifts and late drift — the pattern behind body-clock problems and social jet lag. This is often more accurate than what people recall.
+
+**Nightly resting heart rate.** Your heart rate should drop during sleep. Nights when it stays elevated suggest your body didn't fully settle — often after alcohol, late meals, illness, stress or late training. A specialist can match these nights against your notes.
+
+**Nightly HRV.** Overnight HRV reflects how much your nervous system shifted into recovery. A pattern of low overnight HRV alongside insomnia fits the picture of an over-aroused nervous system — useful context, not a diagnosis.
+
+**Breathing rate at night.** A resting breathing rate that stays above your normal can be relevant context, especially if you snore, wake unrefreshed or feel sleepy by day. It doesn't detect sleep apnea — but it may add weight to the question of whether a sleep study is worth doing.
+
+**Your notes.** Caffeine, alcohol, late screens, a stressful week, travel, new medication. For sleep, context explains a great deal, and it's the part a questionnaire usually misses.
+
+## What help a sleep specialist can offer
+
+**Identify the type of sleep problem.** Combining your history, symptoms, questionnaires and your data, they can distinguish insomnia, body-clock disorders and possible breathing-related problems — each with a different treatment.
+
+**Decide on a sleep study.** If breathing-related sleep problems are suspected, they may arrange a home sleep apnea test or an overnight sleep study (polysomnography). These measure breathing, oxygen and sleep stages directly — things a consumer watch can't reliably do.
+
+**Offer effective insomnia treatment.** For chronic insomnia, the recommended first-line treatment is cognitive behavioral therapy for insomnia (CBT-I), which works on the habits and arousal that keep people awake. Your data can help track progress during treatment.
+
+**Reset your body clock.** For timing problems, a specialist can advise on light exposure, sleep scheduling and routine — and your timeline shows whether the changes are working.
+
+**Review medications and substances.** Many medicines, as well as alcohol and caffeine, affect sleep. Dated notes make the links easier to spot.
+
+## The trap: when tracking makes sleep worse
+
+Sleep researchers have a name for it: **orthosomnia** — becoming so preoccupied with getting "perfect" sleep data that the anxiety itself makes sleep worse. People lie awake worrying about their score, or trust the app over how they actually feel.
+
+A good sleep specialist will steer you away from this, and it's worth knowing before you go. Use your data to spot **patterns over weeks**, not to grade each night. If checking your numbers makes you anxious, that's a signal to look less often. The goal is better sleep, not a better score.
+
+## Where watch data stops
+
+- **Watches estimate sleep; they don't measure it clinically.** Sleep-stage estimates from wearables are approximate. A sleep study is the reference.
+- **Watch data can't diagnose sleep apnea.** Some watches offer a separately cleared sleep apnea notification feature — if yours gave an alert, bring it with its date. A breathing app's trends are a different kind of data.
+- **Trends can't replace your description.** How rested you feel, daytime sleepiness and what a partner notices (snoring, pauses in breathing) matter a lot.
+
+If you stop breathing during sleep according to a partner, wake up choking or gasping, or feel dangerously sleepy while driving, see a doctor promptly.
+
+## How to prepare for the appointment
+
+- **Bring 4–8 weeks** of your report, covering typical nights and bad ones.
+- **Keep brief notes** on caffeine, alcohol, screens, exercise and stress for those weeks.
+- **Describe your days, not just nights:** energy, sleepiness, naps, concentration.
+- **Ask a partner** what they notice while you sleep.
+- **Mention any separate watch alerts** with dates.
+- **Ask:** "What kind of sleep problem does this look like, and what would confirm it?"
+
+## Your nights, ready for a specialist
+
+ONDA builds your personal baseline for nightly resting heart rate, HRV and breathing from your Apple Watch, marks the nights you left your usual range, and lets you add notes on what happened. You can export any period as a PDF — generated on your device and shared only by you — so a sleep specialist sees weeks of your nights, not just one night's memory.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose sleep disorders. This article is general information, not medical advice. If you have symptoms such as breathing pauses in sleep or dangerous daytime sleepiness, see a doctor promptly.*
+
+---
+
+### Showing Your Recovery Data to a Sports Doctor: Training, Overtraining and Coming Back Safely
+
+URL: https://onda-life.com/articles/onda-report-for-your-sports-doctor
+Category: Guide
+Description: Resting heart rate and HRV trends show how your body handles training. Here's how a sports medicine doctor can use them — to spot overreaching, find hidden causes of poor recovery, and guide a safe return after illness.
+
+For anyone who trains, resting heart rate and HRV are some of the most practical numbers a watch collects — because they show how your body is *absorbing* the training, not just how hard you trained. A sports medicine doctor can read those trends in context: telling normal hard-training fatigue apart from overreaching, looking for hidden causes when recovery stalls, and guiding a safe return after illness or injury. What they bring that your watch can't is the examination, the tests and the judgment about when a pattern is a training problem — and when it's a medical one.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## What a sports doctor is looking at
+
+A sports medicine doctor sits between training and health. The questions they usually bring are:
+
+- Is your body **adapting** to training, or falling behind it?
+- If recovery is poor, is it the **training plan** — or something medical, like illness, low energy intake or a deficiency?
+- Is it **safe** to train now, or to come back after being unwell?
+- Do any symptoms during exercise need a **heart check**?
+
+Your data helps them answer the first two faster, and flags when the last two matter.
+
+## How a sports doctor can read your report
+
+**Resting heart rate trend.** In general, as aerobic fitness improves, resting heart rate tends to drift down over weeks. A resting heart rate that climbs and stays above your normal for several days — without an obvious reason — often means your body is under more load than it's handling: accumulated fatigue, poor sleep, illness coming on, or not eating enough.
+
+**HRV trend.** Many athletes use morning or overnight HRV as a recovery signal. A sustained drop below your usual range, especially together with rising resting heart rate and tiredness, fits a picture of insufficient recovery. A sports doctor will look at the **trend over days and weeks**, not single readings, which fluctuate with sleep, alcohol and stress.
+
+**Breathing rate at rest.** A resting breathing rate above your normal, together with other changes, can be one more hint that the body isn't recovering — or that an illness is developing.
+
+**Signals and notes.** Dates when measures left your range, alongside your notes on training blocks, races, travel, illness and sleep, let a sports doctor line up the numbers with what you actually did.
+
+## What help a sports doctor can offer
+
+**Tell overreaching from overtraining.** Short-term overreaching — a planned hard block with temporary fatigue — is normal and recovers with rest. Overtraining syndrome is a longer-lasting, harder-to-fix state. Weeks of trends make the difference easier to see, and a sports doctor can help adjust the plan before a hard block turns into months lost.
+
+**Look for hidden causes of poor recovery.** When recovery stalls despite sensible training, a sports doctor may consider medical causes — for example iron deficiency, thyroid problems, or low energy availability (not eating enough for the training you do, sometimes called RED-S). These need examination and tests, not more data.
+
+**Guide a return after illness.** After a viral illness, resting heart rate is often elevated for a while. A trend returning to your normal range is one reassuring sign when planning a gradual comeback — together with feeling well and the doctor's own assessment. Returning too early is a common way to prolong illness.
+
+**Shape the training plan.** Some athletes adjust daily intensity using HRV trends; research on HRV-guided training suggests it can be a useful way to individualize load. A sports doctor or coach can help decide whether that suits you.
+
+**Refer when symptoms point to the heart.** Chest pain, unusual breathlessness, palpitations or dizziness during exercise need a heart check, not a training tweak. A sports doctor will refer you to a cardiologist when that's warranted.
+
+## Where watch data stops
+
+- **Wrist heart rate is less reliable during hard exercise**, especially intervals and strength work. Resting and overnight values are more trustworthy than mid-workout readings.
+- **Single days are noise.** One low HRV morning usually means a bad night or a glass of wine, not overtraining.
+- **Scores aren't diagnoses.** Readiness or recovery scores can't identify iron deficiency, thyroid problems or RED-S — only examination and tests can.
+- **Don't train through illness because your numbers look fine.** How you feel, fever and symptoms come first.
+
+Stop exercising and seek care immediately if you have chest pain, faint or nearly faint, or have a very fast or irregular heartbeat with feeling unwell during exercise.
+
+## How to prepare for the appointment
+
+- **Bring 6–12 weeks** of your report, covering normal training and the period that worries you.
+- **Include your training log** — volume, intensity, races — or a short summary.
+- **Note sleep, food and weight changes**, illness, travel and stress in that period.
+- **Describe symptoms during exercise** precisely: what, when, how long.
+- **Ask:** "Is this a training problem or should we check something medical?"
+
+## Your recovery, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch history, marks the days you left your usual range, and lets you add notes about training, illness and sleep. You can export any period as a PDF — generated on your device and shared only by you — so a sports doctor sees how your body actually handled your training.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device. This article is general information, not medical advice. If you have chest pain, fainting or an irregular heartbeat during exercise, stop and seek care immediately.*
+
+---
+
+### Doctors and Your Data: Which Specialist Can Use Your Heart, HRV and Sleep Trends
+
+URL: https://onda-life.com/articles/doctors-and-your-data
+Category: Guide
+Description: Your watch records months of heart rate, HRV, breathing and sleep. This guide shows which of 11 doctors can use that data for which problem — from GP and cardiologist to sleep, hormone and lung specialists — and how to bring it.
+
+Your watch records something no doctor normally sees: weeks and months of your resting heart rate, HRV, breathing and sleep, night after night. Brought in the right form, that history helps a doctor understand what changed, when, and what else was happening — and decide what, if anything, needs checking. But different doctors use it for different things. A GP looks for everyday causes and decides on next steps; a cardiologist uses it to choose the right heart test; a sleep specialist reads your nights; a therapist connects your body with your life; a sports doctor reads your recovery — and neurologists, endocrinologists, gynecologists, lung specialists, occupational health doctors and rehabilitation teams each read it for their own questions. This guide shows who to see for what, and how to bring your data so it actually helps.
+
+## Start here
+
+Before any appointment, read the general guide: what doctors find useful, how to put your data on one page, and how to talk about it without being dismissed.
+
+→ **[How to Talk to Your Doctor About Your Watch Data](/articles/talk-to-your-doctor-about-wearable-data)**
+
+## Which doctor for what
+
+| What's going on | Who to see first | Then, if needed |
+|---|---|---|
+| Something changed and you're not sure what it means | GP / family doctor | the right specialist |
+| Resting pulse up for weeks, palpitations, breathlessness | GP | cardiologist |
+| Poor sleep, waking unrefreshed, irregular schedule, snoring | GP | sleep specialist |
+| Stress, anxiety, low mood showing up in your body | GP or therapist | psychiatrist (for medication) |
+| Training, poor recovery, coming back after illness | sports doctor | cardiologist if symptoms during exercise |
+| Heart races on standing, crashes after effort, symptoms after a virus | GP | neurologist (autonomic) |
+| Resting pulse drifting up or down with weight, heat/cold changes; diabetes | GP | endocrinologist |
+| Changes across your cycle, pregnancy, menopause symptoms | gynecologist | GP or specialist as needed |
+| Faster breathing, breathlessness, asthma, lung condition | GP | pulmonologist |
+| Shift work, long hours, burnout | occupational health doctor | sleep specialist, therapist |
+| Recovering after illness, surgery or a heart event | your rehabilitation team | cardiologist, pulmonologist, neurologist |
+
+In most healthcare systems, the GP is the right first step: they see your whole history, rule out common causes, and refer you on only when needed.
+
+## The guides, one per doctor
+
+**Your GP (family doctor).** The first person to see your data. Matches changes to everyday causes like infection, medication, sleep or alcohol, decides whether tests are worth doing, and refers you on.
+→ **[Showing Your Heart Data to Your GP](/articles/onda-report-for-your-gp)**
+
+**Cardiologist.** Reads your resting heart rate pattern and dated episodes to choose the right heart test and follow treatment. Clear about the limit: pulse is not rhythm.
+→ **[Showing Your Heart Data to a Cardiologist](/articles/onda-report-for-your-cardiologist)**
+
+**Sleep specialist.** Reads weeks of your nights — timing, nightly heart rate, HRV and breathing — to tell insomnia, body-clock problems and possible breathing issues apart. Plus the trap of over-tracking sleep.
+→ **[Showing Your Night Data to a Sleep Specialist](/articles/onda-report-for-your-sleep-specialist)**
+
+**Therapist or psychiatrist.** Uses your body data as a mirror: spotting triggers, building body awareness, seeing progress in therapy, and — for a psychiatrist — watching medication effects.
+→ **[Bringing Your Body Data to Therapy](/articles/onda-report-for-your-therapist-or-psychiatrist)**
+
+**Sports doctor.** Reads your recovery: overreaching versus overtraining, hidden causes when recovery stalls, and a safe return after illness.
+→ **[Showing Your Recovery Data to a Sports Doctor](/articles/onda-report-for-your-sports-doctor)**
+
+**Neurologist.** When the problem is the wiring, not the heart: POTS, dysautonomia, long COVID — and why the clinic's own autonomic test breathes at six breaths a minute.
+→ **[Heart Rate Data and the Nervous System](/articles/onda-report-for-your-neurologist)**
+
+**Endocrinologist.** Thyroid hormone works like a dial on your resting heart rate, and diabetes can quietly lower HRV. Where blood tests take over.
+→ **[Your Heart Rate and Your Hormones](/articles/onda-report-for-your-endocrinologist)**
+
+**Gynecologist.** Resting heart rate and HRV move with the menstrual cycle, through pregnancy and around menopause — your own rhythm matters more than any chart.
+→ **[Your Cycle in Your Heart Rate](/articles/onda-report-for-your-gynecologist)**
+
+**Pulmonologist.** Night-time breathing rate is a quiet, honest signal — and lung medicine is one of the few fields where breathing retraining is in official guidelines.
+→ **[Your Breathing in Numbers](/articles/onda-report-for-your-pulmonologist)**
+
+**Occupational health doctor.** Your job leaves a signature in your heart rate: workdays versus days off, shift weeks, slow burnout. Plus what to know about confidentiality.
+→ **[Your Work Week in Your Heart Rate](/articles/onda-report-for-your-occupational-health-doctor)**
+
+**Rehabilitation team.** Recovery comes in steps and setbacks — and the day after an effort tells more than the day of.
+→ **[Recovery Isn't a Straight Line](/articles/onda-report-for-your-rehabilitation-team)**
+
+## What every doctor has in common
+
+Whoever you see, the same rules make your data useful:
+
+- **One page, not your phone.** Baseline, what changed and when, your notes, your questions.
+- **Symptoms first, data second.** How you feel matters more than any number.
+- **Trends, not single days.** One bad night means little; weeks tell a story.
+- **Data is not a diagnosis.** It points to a question; examination and tests answer it.
+- **Urgent symptoms come first.** Chest pain, fainting or severe breathlessness — seek care immediately, don't check an app.
+
+## Bring your data in a form doctors can read
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch history, marks the days you left your usual range, and lets you add notes when something happens. From the timeline you can export any period as a PDF — generated on your device and shared only by you. It's the one-page summary each of these doctors can read in a minute.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device. This guide is general information, not medical advice. If you have urgent symptoms, seek medical care immediately.*
+
+---
+
+### Bringing Your Body Data to Therapy: How a Therapist or Psychiatrist Can Use It
+
+URL: https://onda-life.com/articles/onda-report-for-your-therapist-or-psychiatrist
+Category: Guide
+Description: Stress and emotion leave traces in your heart rate, HRV, breathing and sleep. Here's how a psychotherapist or psychiatrist can use that history — to spot triggers, build body awareness, track progress and watch medication effects.
+
+Emotions don't stay in your head. A difficult conversation, a stressful week or a low stretch often shows up in your body first — a resting heart rate that won't settle, lower HRV, faster breathing, shorter sleep. A psychotherapist or psychiatrist can use that history in a way other doctors don't: not to diagnose, but to **connect what your body did with what was happening in your life**. It can help you notice triggers you'd missed, build awareness of your own body's signals, see progress in therapy, and — with a psychiatrist — keep an eye on how medication affects you. Used well, it's a mirror, not a verdict.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## Therapist or psychiatrist: two different roles
+
+They're often confused, and they'll use your data differently.
+
+**A psychotherapist** (psychologist, counselor or therapist) works through conversation and practice: understanding patterns, emotions, relationships and habits. They don't prescribe medication. For them, your data is material for insight and a way to track change.
+
+**A psychiatrist** is a medical doctor. They diagnose mental health conditions and can prescribe and adjust medication. For them, your data is also useful for noticing side effects and changes in sleep and arousal over time.
+
+## Why body data belongs in therapy
+
+As a Gestalt-trained therapist, I've long seen that people often know what their body is doing before they can put it into words. Research points the same way. Heart rate variability is linked to how flexibly the nervous system regulates emotion: on average, people with higher resting HRV tend to show better emotional regulation, and lower HRV is more common in groups experiencing anxiety or depression. That doesn't mean a number tells you your mental state — it varies hugely between people. But it means the body carries real, relevant information that talk alone can miss.
+
+## How a therapist can use your report
+
+**Spot triggers you didn't see.** Your timeline marks the days your resting heart rate, HRV or breathing left your usual range. Next to your notes, patterns appear: the Sunday evenings before work, the week of a family visit, the nights after a particular kind of argument. These become concrete starting points for the session.
+
+**Build body awareness.** Many people under chronic stress lose touch with their body's signals. Seeing that "the day I felt fine, my body was clearly on edge" can be an important moment. A therapist can help you learn to notice those signals earlier — without the numbers, over time.
+
+**Name and understand what you felt.** Putting a word to an emotion helps regulate it. Your notes and signals give a therapist a precise moment to explore: what happened, what you felt, what your body did.
+
+**See progress that's hard to feel.** Change in therapy is often gradual and easy to doubt. A slow return toward your baseline, fewer out-of-range days, or a quicker recovery after stressful events can be encouraging, visible evidence that the work is doing something.
+
+**Support breathing and regulation skills.** If your therapist teaches regulation techniques, slow breathing practice gives an immediate, observable response — your heart settling — which some people find more convincing than being told to "calm down." HRV biofeedback has been studied as a supportive tool for stress and anxiety, alongside therapy rather than instead of it.
+
+## How a psychiatrist can use your report
+
+**Watch medication effects.** Some psychiatric medications can change heart rate or sleep. A dated trend shows whether a change began when a medication started or its dose changed — useful information to discuss, never a reason to adjust medication yourself.
+
+**Notice changes in sleep and arousal.** Sleep and arousal often shift with mood. Research is exploring whether changes in sleep and physiological patterns can act as early signals of mood changes for some people. A psychiatrist can decide whether your trends are relevant to your care.
+
+**Add context between appointments.** Psychiatric appointments can be short and weeks apart. Your timeline and notes fill in what happened in between.
+
+## What it can't and shouldn't do
+
+- **It doesn't diagnose.** No heart-rate or HRV pattern diagnoses anxiety, depression or any other condition.
+- **It isn't treatment.** Breathing practice can support therapy and treatment; it doesn't replace them.
+- **It can feed anxiety.** For some people — especially with health anxiety — watching body data closely makes things worse. Japanese Morita therapy described this loop a century ago: fixing attention on a sensation intensifies it. If tracking makes you more anxious, tell your therapist and look less often.
+- **You decide what to share.** Your notes are personal. Share the parts you choose; a good therapist will respect that.
+
+If you're in crisis or thinking about harming yourself, contact your local emergency number or a crisis line now. Don't wait for an appointment, and don't look to an app for help in that moment.
+
+## How to bring it into a session
+
+- **Choose a period that matters** — a hard month, or the weeks since you started therapy.
+- **Mark two or three moments** you'd like to talk about, with dates.
+- **Share the one-page report**, or just the parts you're comfortable with.
+- **Start with the experience, not the numbers:** "That week felt heavy, and my body shows it."
+- **Ask how your therapist wants to use it** — some will build it into sessions, others prefer to focus on conversation.
+
+## Your body's story, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch, marks the days you left your usual range, and lets you write a note when something happens. You can export any period as a PDF — generated on your device and shared only by you — so you can bring your body's side of the story into the room, on your terms.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose or treat mental health conditions. This article is general information, not medical advice. If you're in crisis, contact your local emergency number or a crisis line.*
+
+---
+
+### Heart Rate Data and the Nervous System: What a Neurologist Can Do With It (POTS, Dysautonomia, Long COVID)
+
+URL: https://onda-life.com/articles/onda-report-for-your-neurologist
+Category: Guide
+Description: When your heart races on standing, you tire after small efforts, or recovery never comes after an illness, the autonomic nervous system may be involved. Here's how a neurologist can use your heart-rate and HRV history — and why the clinic's own test breathes at 6 breaths a minute.
+
+Your heart rate isn't only about your heart. Every beat is tuned by the autonomic nervous system — the part of the nervous system that runs without your control, speeding the heart up when you stand, slowing it when you rest. When that tuning goes wrong, as in POTS, other forms of dysautonomia, or after some viral illnesses including COVID, the heart often shows it first: racing when you get up, swinging through the day, never quite settling. A neurologist who works with the autonomic nervous system can use your heart-rate and HRV history to see those patterns over weeks — then confirm them with proper tests. Your watch can't diagnose dysautonomia. But it can bring months of evidence into a 20-minute appointment.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## When the problem is the wiring, not the heart
+
+Many people with autonomic problems first see a cardiologist, who finds a structurally healthy heart — and they're left without answers. That's because the heart can be doing exactly what it's told; the problem is in the signals telling it what to do.
+
+Typical clues that point toward the autonomic nervous system include:
+
+- a heart rate that jumps sharply when you stand up, often with dizziness, blurred vision or a racing feeling;
+- feeling worse when standing for a long time, in heat or after meals;
+- unusual fatigue or "crashes" after efforts that used to be easy;
+- symptoms that started or worsened after a viral illness.
+
+Postural orthostatic tachycardia syndrome (POTS), one of the better-known forms, is defined by a sustained rise in heart rate of at least 30 beats per minute within ten minutes of standing (at least 40 in teenagers), without a fall in blood pressure, together with symptoms lasting several months. Only a clinician can make that diagnosis — but the pattern often shows up in the data long before anyone looks for it.
+
+## The clinic's test breathes at your pace
+
+Here's something few people know. One of the standard tests of autonomic function — the heart rate response to deep breathing — asks you to breathe slowly and evenly at about **six breaths per minute** while your heart is recorded. A healthy autonomic system makes the heart rate rise and fall strongly with each breath. When the vagus nerve's control of the heart is impaired, that rise and fall becomes smaller.
+
+Six breaths a minute is the same pace used in coherent or resonance breathing. In other words, the clinic uses slow breathing to *measure* how well your nervous system controls your heart — the same rhythm many people use to *train* it. Your watch or a breathing app can't perform this test for you, but it's a neat reminder that HRV and slow breathing sit at the centre of how neurology looks at the heart.
+
+## How a neurologist can read your report
+
+**Resting heart rate baseline and swings.** A neurologist will look not only at your average resting heart rate but at how unstable it is: large day-to-day swings, a baseline that drifted up after an illness, or a pattern of bad and better weeks.
+
+**HRV trend.** Reduced HRV can reflect weaker vagal control of the heart. A sustained drop after an infection, or unusually low values alongside symptoms, is useful context — though HRV alone can't diagnose an autonomic disorder.
+
+**Breathing rate.** A resting breathing rate above your normal can be part of the picture, particularly with breathlessness or fatigue.
+
+**Signals and notes — the most valuable part here.** Autonomic problems come in flares. A dated record of bad days, what triggered them (standing a long time, heat, a big meal, alcohol, a busy day), and how long recovery took gives a neurologist something they rarely get: the rhythm of your illness over time.
+
+## What help a neurologist can offer
+
+**Confirm what's happening with proper tests.** Depending on symptoms, this may include an active stand test or a tilt-table test (heart rate and blood pressure measured while lying and then upright), the deep-breathing heart rate test, the Valsalva manoeuvre, and sometimes tests of sweating or blood flow. These show what a watch only hints at.
+
+**Rule out other causes — often together with your GP.** Dehydration, anaemia, thyroid problems, medications and deconditioning can all mimic dysautonomia and need checking.
+
+**Build a management plan.** Depending on the diagnosis, this can include guidance on fluids and salt, compression garments, gradual reconditioning that starts lying or seated, and medication when needed — all tailored and supervised, not self-prescribed.
+
+**Help you pace.** For people with long COVID or post-exertional crashes, pushing through often makes things worse. Some clinicians use heart rate to help patients pace activity and avoid crashes. Your data can support that — used the way your clinician advises.
+
+**Track change.** Autonomic recovery is usually slow. A baseline gradually settling, fewer flare days and faster recovery after them are real, visible signs of progress over months.
+
+## Where watch data stops
+
+- **It can't diagnose POTS or dysautonomia.** Formal diagnosis needs measured heart rate *and* blood pressure while lying and standing, under clinical conditions.
+- **Don't test yourself to the point of fainting.** If your doctor asks you to record heart rate lying and standing at home, do it exactly as instructed, with something to hold and ideally someone nearby.
+- **Averages hide positional changes.** A nightly resting heart rate won't show what happens in the first minutes after you stand.
+- **Breathing practice supports, it doesn't treat.** Slow breathing can help some people feel calmer and steadier, but it isn't a treatment for dysautonomia.
+
+Seek urgent care if you faint and injure yourself, faint during exercise, or have chest pain, severe breathlessness or new neurological symptoms such as weakness or difficulty speaking.
+
+## How to prepare for the appointment
+
+- **Bring 8–12 weeks** of your report, including your worst weeks.
+- **Keep a short flare diary** in your notes: date, trigger, symptoms, how long recovery took.
+- **Write down when it started** and whether it followed an illness, vaccination, injury or major stress.
+- **List all medications and supplements**, with start dates.
+- **Ask:** "Could this be autonomic, and which tests would show it?"
+
+## Your nervous system's history, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch, marks the days you left your usual range, and lets you note flares, triggers and recovery as they happen. You can export any period as a PDF — generated on your device and shared only by you — so a neurologist sees months of patterns, not just how you feel on the day of the visit.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose autonomic or neurological conditions. This article is general information, not medical advice. If you faint with injury, have chest pain or new neurological symptoms, seek urgent care.*
+
+---
+
+### Your Heart Rate and Your Hormones: What an Endocrinologist Can Do With Your Data (Thyroid, Diabetes)
+
+URL: https://onda-life.com/articles/onda-report-for-your-endocrinologist
+Category: Guide
+Description: Hormones set the pace of your heart. A thyroid problem can push resting heart rate up or down, and diabetes can quietly lower HRV. Here's how an endocrinologist can use your heart-rate history — and where blood tests take over.
+
+Your hormones set the pace your heart runs at. Thyroid hormone, in particular, works almost like a dial on your resting heart rate: too much and the heart speeds up, too little and it slows down. Diabetes works more quietly — over years it can damage the nerves that fine-tune the heart, and one of the early signs is lower heart rate variability. That makes your resting heart rate and HRV history surprisingly relevant to an endocrinologist. It can't replace a single blood test. But a clear trend — when your resting pulse started to climb, how it responded to treatment — gives the specialist a timeline that lab results alone don't show.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## The thyroid: a dial on your resting heart rate
+
+Thyroid hormone raises the body's overall metabolic rate, and the heart is one of the first organs to respond.
+
+**When the thyroid is overactive (hyperthyroidism),** resting heart rate often rises and stays up, sometimes with palpitations, feeling hot, unexplained weight loss, tremor, anxiety or poor sleep.
+
+**When it's underactive (hypothyroidism),** heart rate may drift lower, with tiredness, feeling cold, weight gain, low mood or slowed thinking.
+
+A resting heart rate that climbs steadily over weeks without an obvious reason — no illness, no new training, no stressful period — is exactly the kind of change worth mentioning to a doctor. It doesn't mean you have a thyroid problem; many things raise heart rate. But combined with symptoms, it can be the prompt to check. Thyroid problems are common and very treatable, and they're diagnosed with a simple blood test.
+
+## Diabetes: when HRV connects to real clinical testing
+
+Most of the time, consumer HRV has little role in medicine. Diabetes is one of the exceptions where HRV-type measures matter clinically.
+
+Over years, high blood sugar can damage the autonomic nerves that control the heart — a complication called **cardiovascular autonomic neuropathy**. One of its early features is **reduced heart rate variability**: the heart's beat-to-beat flexibility shrinks because its nervous control is weakening. Later signs can include a resting heart rate that stays unusually high and dizziness on standing.
+
+Doctors test for it with **cardiovascular autonomic reflex tests** — heart rate response to slow deep breathing, to standing up, and to the Valsalva manoeuvre, along with blood pressure on standing. These are measured under clinical conditions. A falling HRV trend on a watch can't diagnose neuropathy, but for someone with diabetes it's a reasonable thing to mention, especially with symptoms.
+
+## How an endocrinologist can read your report
+
+**Resting heart rate baseline and trend.** The most useful line for thyroid questions: when a rise or fall began, how large it is, and whether it tracks with symptoms.
+
+**HRV trend.** Particularly relevant in diabetes, as supporting context alongside clinical testing — not as a diagnosis.
+
+**Response to treatment.** When thyroid treatment starts or changes, resting heart rate often moves back toward normal over the following weeks. A trend makes that visible between appointments — alongside blood results, which remain the basis for dosing.
+
+**Your notes.** Symptoms, weight changes, new medications, illness, and — for diabetes — anything notable about glucose control, entered with dates.
+
+## What help an endocrinologist can offer
+
+**Confirm with blood tests.** Thyroid function is diagnosed with blood tests (such as TSH and thyroid hormone levels); diabetes control is assessed with glucose and HbA1c. Your data can point to *when* to test and what changed; the tests say *what* is happening.
+
+**Screen for complications.** In diabetes, an endocrinologist can arrange autonomic reflex testing — often with neurology or cardiology — when there are signs of autonomic involvement.
+
+**Adjust treatment.** Thyroid medication doses and diabetes treatment are adjusted on lab results and clinical judgment. Your heart-rate trend is a helpful companion, showing how your body is responding day to day.
+
+**Consider other hormonal causes.** Less commonly, other hormone conditions can cause episodes of fast heartbeat, sweating or palpitations. Dated episodes in your notes help a specialist decide whether further tests are needed.
+
+**Coordinate care.** Endocrine problems often overlap with the heart, nerves and mood. An endocrinologist can work with your GP, cardiologist or neurologist, and your report travels between them.
+
+## Where watch data stops
+
+- **It can't measure hormones.** Thyroid and diabetes are diagnosed and managed with blood tests.
+- **It can't detect low blood sugar.** Heart rate may rise during a low, but so it does for many other reasons. People who need to monitor glucose should use a glucose meter or continuous glucose monitor, as their doctor advises.
+- **Never adjust medication based on heart rate.** Thyroid, diabetes and heart medications are changed only by your doctor.
+- **Many things raise heart rate.** Illness, dehydration, poor sleep, caffeine, alcohol and stress are far more common causes than hormones.
+
+Seek urgent care for a very fast or irregular heartbeat with feeling unwell, chest pain, confusion, or symptoms of a severe low or very high blood sugar.
+
+## How to prepare for the appointment
+
+- **Bring 8–12 weeks** of your report, including the period when symptoms began.
+- **Note symptoms with dates:** heat or cold intolerance, weight change, tremor, fatigue, palpitations, dizziness on standing.
+- **Bring recent blood results** if you have them.
+- **List medications and supplements** with start dates and dose changes — including biotin, which can interfere with some lab tests.
+- **Ask:** "Could hormones explain this change, and which tests would show it?"
+
+## Your heart's response to your hormones, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch, marks the days you left your usual range, and lets you add notes on symptoms and treatment. You can export any period as a PDF — generated on your device and shared only by you — so an endocrinologist sees how your body responded over weeks, alongside your lab results.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not measure hormones or blood sugar. This article is general information, not medical advice. If you have a very fast or irregular heartbeat with feeling unwell or symptoms of severe low or high blood sugar, seek urgent care.*
+
+---
+
+### Your Cycle in Your Heart Rate: What a Gynecologist Can Do With Your Data (Cycle, Pregnancy, Menopause)
+
+URL: https://onda-life.com/articles/onda-report-for-your-gynecologist
+Category: Guide
+Description: Resting heart rate and HRV shift across the menstrual cycle, through pregnancy and in the years around menopause. Here's how a gynecologist can use that history, what it can't tell them, and how to share it on your terms.
+
+For many women, resting heart rate and HRV aren't steady numbers — they move with hormones. Across the menstrual cycle, resting heart rate tends to rise a few beats after ovulation and HRV tends to dip; in pregnancy, resting heart rate climbs steadily; around menopause, hot flashes and night sweats can show up as restless, elevated nights. That's why a flat "normal range" can be misleading, and why your own history is more useful than any chart. A gynecologist can read those patterns alongside your symptoms — to make sense of cycle-related changes, spot things worth testing, and talk through options in perimenopause. Your watch doesn't diagnose anything here, and it isn't a contraceptive or fertility tool. But it can turn "I feel different at certain times of the month" into a dated, visible pattern.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## Why hormones show up in your heart rate
+
+Sex hormones influence the autonomic nervous system and body temperature. After ovulation, rising progesterone raises body temperature slightly and, on average, resting heart rate goes up by a few beats while HRV goes down, until the next period begins. Studies using wearables have seen this rhythm clearly across large groups — though the size of the shift varies a lot between women, and some, especially on hormonal contraception, see little change.
+
+The practical lesson: if you menstruate, a higher resting heart rate or lower HRV in the second half of your cycle is often **normal for you**, not a sign that something's wrong. Your personal pattern over several cycles is the reference that matters.
+
+## Across the menstrual cycle
+
+A gynecologist can use a few months of data to:
+
+- **See your cyclical pattern**, so normal monthly shifts aren't mistaken for illness or poor recovery.
+- **Link symptoms to cycle phase** — low mood, poor sleep, fatigue or palpitations that consistently arrive at the same point may point toward premenstrual conditions worth discussing.
+- **Notice when the pattern breaks** — a rhythm that changes or disappears, alongside irregular periods, can be a reason to look further.
+- **Spot possible anaemia.** Heavy periods can lead to iron deficiency, which can raise resting heart rate and cause tiredness. A rising baseline with heavy bleeding and fatigue is a good reason for a blood test.
+
+Add cycle days and symptoms to your notes; that's what makes these patterns readable.
+
+## During pregnancy
+
+In pregnancy, resting heart rate normally rises gradually as blood volume and the heart's workload increase, and HRV tends to fall. Seeing this on your watch is expected, not alarming in itself.
+
+Your data can be a calm, informative record to share with your midwife or obstetrician — especially notes on sleep, palpitations or dizziness. But it's **not a pregnancy monitoring tool.** Your prenatal checks, blood pressure measurements and tests are what keep you and your baby safe. If you want to practise breathing exercises, gentle slow breathing is usually well tolerated; ask your provider, and avoid breath-holding or forceful techniques.
+
+Seek care promptly in pregnancy for chest pain, severe breathlessness, fainting, a severe headache or vision changes, bleeding, or anything that feels seriously wrong.
+
+## Around menopause
+
+Perimenopause — the years before periods stop — often brings changes that show up in data:
+
+- **Hot flashes and night sweats** can appear as nights with elevated heart rate and broken sleep.
+- **Palpitations** are common and usually harmless, but worth mentioning.
+- **Sleep becomes lighter** and more fragmented for many women.
+
+A gynecologist can use dated nights and symptoms to judge how much menopause is affecting your sleep and daily life, and to talk through management options — from lifestyle measures to treatments such as hormone therapy, which is a decision made together with your doctor based on your history. Your trend can also show how your nights change after starting a treatment.
+
+## Where watch data stops
+
+- **It can't diagnose gynecological or hormonal conditions.** Examination, blood tests and ultrasound do that.
+- **It isn't contraception or a fertility method.** Don't use heart-rate or HRV patterns to decide when you can or can't conceive. (Some watches have separate cycle and temperature-based features; ONDA does not predict ovulation.)
+- **It isn't pregnancy monitoring.** Follow your prenatal care plan.
+- **Palpitations need proper assessment** if they're frequent, prolonged or come with dizziness, fainting or chest pain.
+
+## Your data, your choice
+
+Reproductive health is private. With ONDA, your data and notes stay on your device, and nothing is shared unless you choose to export it. You decide which period to include and whether to add cycle notes at all.
+
+## How to prepare for the appointment
+
+- **Bring 2–3 cycles** of your report (or the relevant months in pregnancy or perimenopause).
+- **Mark cycle days, bleeding and symptoms** in your notes.
+- **Note sleep and night symptoms**, such as sweats or waking.
+- **List contraception, hormone treatments and supplements** with dates.
+- **Ask:** "Is this pattern normal for my cycle, or worth checking?"
+
+## Your rhythm, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch, marks the days you left your usual range, and lets you add notes — including cycle days and symptoms, if you choose. You can export any period as a PDF, generated on your device and shared only by you, so a gynecologist can see your own rhythm over several months.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device. It is not a contraceptive, fertility or pregnancy monitoring tool. This article is general information, not medical advice. If you have warning symptoms in pregnancy, seek care promptly.*
+
+---
+
+### Your Breathing in Numbers: What a Lung Specialist Can Do With Your Data (Asthma, Breathlessness, Breathing Patterns)
+
+URL: https://onda-life.com/articles/onda-report-for-your-pulmonologist
+Category: Guide
+Description: Your watch tracks how fast you breathe at night — a quiet signal that often changes before you feel ill. Here's how a pulmonologist can use your breathing and heart-rate history, and why breathing retraining is one of the few breathing practices in official guidelines.
+
+How fast you breathe at rest is one of the quietest numbers your watch records — and one of the most telling. A typical adult breathes about 12 to 20 times a minute at rest, and your own night-time breathing rate tends to be remarkably stable. When it rises and stays up, that's often a sign your body is working harder: an infection starting, a flare of a lung condition, or breathing that has slipped into an inefficient pattern. A pulmonologist (lung specialist) can read your breathing-rate and heart-rate history alongside your symptoms — and confirm what's happening with lung tests your watch can't do. There's also a twist: lung medicine is one of the few areas where breathing exercises appear in official treatment guidelines.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## Why breathing rate is such an honest signal
+
+Breathing rate is hard to fake and slow to change. At night, without talking, moving or thinking about it, your breathing settles into a personal rhythm that stays within a narrow band for most people. That stability is exactly what makes changes stand out.
+
+Research using wearables has explored how a rise in resting breathing rate and heart rate can appear around the start of respiratory infections, sometimes before symptoms are obvious. For people with long-term lung conditions, a sustained rise from their usual breathing rate can accompany a flare. A watch can't tell you *why* your breathing changed — but it can show clearly *that* it did, and when.
+
+## How a pulmonologist can read your report
+
+**Night-time breathing rate baseline and trend.** Your normal range, and any sustained rise above it. A single high night means little; several nights in a row, especially with symptoms, is worth noting.
+
+**Resting heart rate alongside.** Breathing rate and heart rate often rise together during illness or flares. Seeing both move at the same time strengthens the picture.
+
+**HRV trend.** Supporting context — a drop can accompany illness or poor sleep, but it isn't a lung measurement.
+
+**Your notes.** For lung problems, context is everything: triggers (cold air, exercise, pollen, pets, smoke, colds), night-time symptoms like coughing or waking breathless, how often you used a reliever inhaler, and how long episodes lasted.
+
+## What help a pulmonologist can offer
+
+**Measure your lungs directly.** Depending on symptoms, a lung specialist may use spirometry (how much and how fast you can breathe out), peak flow, tests of airway inflammation, oxygen measurements, exercise testing or imaging. These show what a watch only hints at.
+
+**Diagnose and manage lung conditions.** Asthma, COPD and other lung conditions are diagnosed with these tests and managed with medication, inhaler technique, trigger control and action plans. Your dated notes help show whether treatment is keeping things stable.
+
+**Recognise dysfunctional breathing.** Some people are breathless not because their lungs are damaged, but because their breathing pattern has become inefficient — breathing too fast, too high in the chest, or through the mouth, sometimes after an illness or during long-term stress. This "breathing pattern disorder" can coexist with asthma or appear on its own, and it's often missed.
+
+**Offer breathing retraining.** Here's the twist. For asthma, breathing retraining programmes delivered by respiratory physiotherapists are recommended in some national guidelines as an addition to medication, and a large clinical trial found that a physiotherapy breathing-retraining programme improved quality of life in people with asthma. These programmes typically teach slower, lower, nose-based breathing — close to the principles behind coherent breathing. They don't replace inhalers; they help people breathe more efficiently between and alongside treatment.
+
+**Plan for flares.** A specialist can help you build an action plan — what to do when symptoms worsen — and your trend may help you notice a flare building.
+
+## Where watch data stops
+
+- **It can't measure lung function.** Spirometry and other lung tests do that.
+- **Wellness oxygen readings aren't medical.** If your watch shows blood oxygen, treat it as a rough indication, not a diagnosis.
+- **Breathing exercises never replace your reliever.** During an asthma attack, use your reliever inhaler and follow your action plan first. Calm, slow breathing can help you stay steady, but never delay medication for it.
+- **A higher breathing rate has many causes,** from a cold to fever, anxiety or heart problems. It points to a question, not an answer.
+
+Seek emergency care for severe breathlessness, difficulty speaking in full sentences, blue or grey lips, chest pain, or a reliever inhaler that isn't helping.
+
+## How to prepare for the appointment
+
+- **Bring 8–12 weeks** of your report, including any flares or infections.
+- **Note triggers, night symptoms and inhaler use** with dates.
+- **Record how you feel on exertion**: stairs, walking, exercise.
+- **Bring your inhalers** so technique can be checked.
+- **Ask:** "Could part of my breathlessness be my breathing pattern, and would breathing retraining help?"
+
+## Your breathing, on one page
+
+ONDA builds your personal baseline for night-time breathing rate, resting heart rate and HRV from your Apple Watch, marks the days you left your usual range, and lets you note triggers and symptoms. You can export any period as a PDF, generated on your device and shared only by you, so a lung specialist sees how your breathing behaved over weeks — not just on the day of the test.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose lung conditions. This article is general information, not medical advice. During an asthma attack, use your reliever and follow your action plan; seek emergency care for severe breathlessness.*
+
+---
+
+### Your Work Week in Your Heart Rate: What an Occupational Health Doctor Can Do With Your Data (Shift Work, Burnout)
+
+URL: https://onda-life.com/articles/onda-report-for-your-occupational-health-doctor
+Category: Guide
+Description: Your body keeps a record of your job. Night shifts, long hours and chronic work stress leave a signature in resting heart rate, HRV and sleep. Here's how an occupational health doctor can use it — and what to know about confidentiality.
+
+Look at a few months of your resting heart rate and HRV and you'll often see your job in it. Workdays look different from days off. Night shifts leave broken, restless nights behind them. A heavy project shows up as a slow slide, and a holiday as a recovery you may not have noticed you needed. That "work-week signature" is exactly what an occupational health doctor is trained to think about: how your work affects your health, and how to adjust work so you can stay well in it. Your data can't diagnose burnout or a sleep disorder. But it can show, in your own numbers, whether your body ever gets to recover.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## What an occupational health doctor does
+
+Occupational health doctors specialise in the link between work and health. They assess fitness for work, advise on adjustments after illness, help plan a return to work, and look at how schedules, shifts and workload affect people. Some work inside large employers; others are independent or part of public health systems.
+
+That puts them in a unique position: unlike most doctors, they can influence the **work itself** — hours, shifts, duties, a phased return — not just treat the consequences.
+
+## The two big patterns: shifts and chronic stress
+
+**Night and rotating shifts.** Working against your body clock is one of the most studied occupational health risks. Night work pushes sleep into the day, when light and noise make it shorter and lighter, and it forces your internal clock to keep adjusting. Over time, shift work is associated with poorer sleep and with higher cardiovascular and metabolic risk. Some people develop shift work sleep disorder: persistent insomnia or excessive sleepiness tied to their schedule.
+
+**Chronic work stress and burnout.** The World Health Organization describes burnout as an occupational phenomenon resulting from chronic workplace stress that hasn't been successfully managed — characterised by exhaustion, mental distance from one's job, and reduced effectiveness. It's not classified as a medical condition in itself, but it's taken seriously precisely because it affects health and work.
+
+Both patterns tend to show up in the body: a nervous system that stays on high alert, sleep that doesn't restore, and recovery that only happens — if at all — away from work.
+
+## How an occupational health doctor can read your report
+
+**Workdays versus days off.** The most revealing comparison. If your resting heart rate is higher and HRV lower on workdays, and both recover on weekends or holidays, your data shows how much your job costs your body — and how much rest gives back. If they *don't* recover even on days off, that's important too.
+
+**The shape of shift weeks.** For shift workers, nights around night shifts, the days after a rotation, and how long it takes to settle again.
+
+**Slow trends.** A baseline that drifts over months during a demanding period can be an early, objective sign that load is outpacing recovery.
+
+**Your notes.** Shift types, long days, deadlines, conflict, sick days, how rested you felt. The link between work events and your body is what makes this data useful here.
+
+## What help an occupational health doctor can offer
+
+**Advise on shift patterns.** Some schedules are easier on the body than others. For example, rotations that move forward — day, then evening, then night — are generally easier to adapt to than rotations that move backward, and enough recovery time between blocks matters. An occupational health doctor can recommend changes to you and, where appropriate, to your employer.
+
+**Recommend work adjustments.** Reduced hours, changed duties, fewer nights or a phased return after sick leave — based on your health, not on guesswork.
+
+**Plan a return after burnout or illness.** Returning gradually tends to work better than going straight back to full load. Your trend can show whether recovery is holding as hours increase.
+
+**Advise on sleep and light for shift work.** Timing light exposure and darkness, protecting daytime sleep, and using anchor sleep can help shift workers — and a doctor can refer to a sleep specialist if a sleep disorder is suspected.
+
+**Coordinate with other care.** Where stress has become anxiety or depression, or sleep has become a disorder, they can work with your GP, a therapist or a sleep specialist.
+
+## A word about confidentiality
+
+This matters with occupational health more than with any other doctor. Depending on your country and your employer, an occupational health doctor may share **conclusions about your fitness for work or recommended adjustments** with your employer — though usually not your detailed medical information. Before you share your data, ask plainly: *"What will be shared with my employer, and what stays between us?"* Then decide what to show. Your data is yours.
+
+## Where watch data stops
+
+- **It can't diagnose burnout, depression or a sleep disorder.** Those need a clinical assessment.
+- **Workday differences have many causes** — commuting, caffeine, exercise timing, alcohol on weekends. Look at patterns across many weeks.
+- **It shouldn't become another work metric.** If checking your recovery numbers turns into pressure to perform, look less often.
+
+If work stress has left you feeling hopeless or thinking about harming yourself, contact your local emergency number or a crisis line now.
+
+## How to prepare for the appointment
+
+- **Bring 2–3 months** of your report, covering normal weeks and hard ones, and ideally a holiday.
+- **Mark shifts, long days and days off** in your notes.
+- **Describe sleep, energy and concentration** on workdays and days off.
+- **Ask first about confidentiality** and what reaches your employer.
+- **Ask:** "What changes to my work would help my body recover?"
+
+## Your work week, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch, marks the days you left your usual range, and lets you note shifts, deadlines and days off. You can export any period as a PDF — generated on your device and shared only by you — so you decide exactly what an occupational health doctor sees.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose burnout or sleep disorders. This article is general information, not medical or legal advice. If you're in crisis, contact your local emergency number or a crisis line.*
+
+---
+
+### Recovery Isn't a Straight Line: What a Rehabilitation Doctor or Physiotherapist Can Do With Your Data
+
+URL: https://onda-life.com/articles/onda-report-for-your-rehabilitation-team
+Category: Guide
+Description: After illness, surgery or a heart event, recovery comes in steps, setbacks and plateaus. Here's how a rehabilitation team can use your resting heart rate, HRV and breathing history to pace your comeback — and why the day after an effort tells more than the day of.
+
+Recovery after a serious illness, surgery, a heart event or a long bout of COVID rarely goes in a straight line. It moves in steps: a few good days, a setback, a plateau, then another step up. From the inside, that's hard to judge — a bad week can feel like going backwards when you're actually on track. Your resting heart rate, HRV and breathing, tracked over weeks, show the real shape of your recovery. A rehabilitation team — rehabilitation doctors, physiotherapists and cardiac or pulmonary rehab staff — can use that shape to pace your comeback: how fast to increase activity, when to hold back, and when a setback needs a closer look.
+
+*Part of our series [Doctors and Your Data](/articles/doctors-and-your-data).*
+
+## Who's on a rehabilitation team
+
+Rehabilitation brings together several professionals. A **rehabilitation doctor** (physiatrist) leads medical planning. **Physiotherapists** design and progress exercise. Structured programmes exist for specific situations: **cardiac rehabilitation** after a heart attack, heart surgery or heart failure; **pulmonary rehabilitation** for lung conditions; and post-illness programmes such as those for long COVID. Cardiac and pulmonary rehabilitation are among the best-established rehabilitation programmes in medicine.
+
+What they all share is a single question: *how much can this body do today, and how do we safely build from here?*
+
+## The day after tells more than the day of
+
+Here's the most useful idea for anyone recovering: **how your body responds the next day often says more than how the effort felt at the time.**
+
+A walk that felt fine can be followed by a night of elevated heart rate, low HRV and poor sleep — a sign the load was more than your body could absorb yet. For some conditions, particularly after viral illness and in people prone to post-exertional crashes, symptoms can appear 24 to 48 hours after an activity. That delay is exactly why feelings alone are an unreliable guide, and why a trend across days is so useful to a rehabilitation team.
+
+## How a rehabilitation team can read your report
+
+**Resting heart rate trend.** As recovery progresses, resting heart rate often settles back toward your pre-illness normal. A steady downward drift is encouraging; a jump after increasing activity suggests the step was too big.
+
+**HRV trend.** A gradual rise often accompanies improving recovery and fitness. A sharp dip the day after a session is useful feedback on load.
+
+**Breathing rate.** For lung and post-COVID rehab especially, a stable night-time breathing rate is reassuring; a rising one alongside symptoms is worth flagging.
+
+**Your notes — as a training diary.** What you did each day (walk length, sessions, stairs), how you felt during and after, sleep, and symptoms. Together with the numbers, this lets a physiotherapist see cause and effect.
+
+## What help a rehabilitation team can offer
+
+**Set safe starting points and intensities.** In cardiac rehab, exercise intensity is usually set from clinical testing and supervised, often using perceived effort as well as heart rate — especially because some heart medications, like beta blockers, blunt heart rate. Targets should come from your team, not from a general chart.
+
+**Progress activity at the right pace.** Physiotherapists increase load gradually and adjust based on how you respond. Your next-day trends make each adjustment more informed.
+
+**Pace to avoid crashes.** For people with post-exertional symptoms, rehab may focus on pacing — staying within limits to avoid setbacks — rather than pushing. Some clinicians use heart rate to help with this, as they advise.
+
+**Include breathing work.** Pulmonary and post-COVID programmes often include breathing retraining; slow, controlled breathing can also help people stay calm and steady during recovery.
+
+**Spot when a setback needs more than rest.** A trend that worsens and doesn't recover, or new symptoms, may prompt a review by your doctor, cardiologist, pulmonologist or neurologist.
+
+**Show progress you can't feel.** Months of slow change are easy to doubt. A baseline returning to normal is concrete evidence that the work is paying off — and good for motivation.
+
+## Where watch data stops
+
+- **Follow your team's targets, not general ones.** After a heart event especially, use the heart rate zones and limits your clinicians set.
+- **Wrist heart rate is less reliable during exercise** than at rest; resting and overnight trends are more trustworthy.
+- **Don't push through warning signs** because your numbers look fine. Symptoms come first.
+- **Data supports supervision; it doesn't replace it.**
+
+Stop and seek urgent care for chest pain, fainting, severe breathlessness, a very fast or irregular heartbeat with feeling unwell, or new neurological symptoms.
+
+## How to prepare for the appointment
+
+- **Bring your report from before the illness if you have it** — it shows your true baseline to return to.
+- **Keep a simple daily log** in your notes: activity, how you felt during and the next day, sleep.
+- **Mark setbacks and what preceded them.**
+- **List medications**, especially any that affect heart rate.
+- **Ask:** "What should I watch for the day after a session, and when should I hold back?"
+
+## Your recovery, on one page
+
+ONDA builds your personal baseline for resting heart rate, HRV and breathing from your Apple Watch history, marks the days you left your usual range, and lets you log activity and symptoms. You can export any period as a PDF, generated on your device and shared only by you, so your rehabilitation team sees the real shape of your recovery.
+
+*ONDA is a breathing and HRV biofeedback app, not a medical device. This article is general information, not medical advice. Follow the targets set by your clinicians, and seek urgent care for chest pain, fainting or severe breathlessness.*
 
 ---
 
