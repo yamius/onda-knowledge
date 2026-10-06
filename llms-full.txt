@@ -25,16 +25,25 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Tools](https://onda-life.com/tools): 31 free interactive calculators (HRV, sleep debt, caffeine cut-off, heart-rate zones, protein, VO2max and more) — read against the evidence, no sign-up
 - [Bio](https://onda-life.com/bio): real-time biometric dashboard — the product experience on the web
 - [Science](https://onda-life.com/science): ONDA Science — evidence-first reference pages (definition, mechanism, measurement, evidence by strength, limits, sources with DOI/PMID)
+  - [The Autonomic Nervous System: Sympathetic and Parasympathetic](https://onda-life.com/science/concepts/autonomic-nervous-system): What the autonomic nervous system does, how its two branches steer the heart, and why no single number, LF/HF included, measures its state.
   - [Heart Rate Variability: What It Is, What It Reflects, What It Isn't](https://onda-life.com/science/concepts/heart-rate-variability): Heart rate variability is the natural beat-to-beat variation of the heart's rhythm. What shapes it, what it reflects, and what it does not tell you.
   - [HRV Baseline: Why Your Own Normal Matters More Than Any Norm](https://onda-life.com/science/concepts/hrv-baseline): Your HRV baseline is your own typical range, not a population average. Why it beats age norms, how ONDA builds it, and what a shift can and cannot mean.
+  - [Interoception: How the Brain Senses the Body](https://onda-life.com/science/concepts/interoception): What interoception is, how its separate dimensions are measured, what the brain does with body signals, and what training research does and doesn't show.
+  - [What a Single HRV Value Can and Can't Tell You](https://onda-life.com/science/concepts/interpreting-hrv): What one HRV reading really shows, why low is not a diagnosis, why high is not always good, and why comparing your HRV with someone else's misleads.
   - [Respiratory Sinus Arrhythmia: How Breathing Shapes Your Heart Rhythm](https://onda-life.com/science/concepts/respiratory-sinus-arrhythmia): Respiratory sinus arrhythmia is the normal speeding of the heart on the in-breath and slowing on the out-breath: how it arises, what shapes it, its limits.
   - [RMSSD — What This HRV Metric Reflects, and What It Doesn't](https://onda-life.com/science/concepts/rmssd): RMSSD is an HRV metric that reflects vagally mediated changes in heart rate. What it measures, how wearables estimate it, and what it cannot tell you.
   - [SDNN — What This HRV Metric Measures, and What It Doesn't](https://onda-life.com/science/concepts/sdnn): SDNN is the HRV metric Apple Health stores. What it measures, how it differs from RMSSD, and why the two numbers cannot be compared.
+  - [The Vagus Nerve: What It Does, and What Is Myth](https://onda-life.com/science/concepts/vagus-nerve): What the vagus nerve really does — heart, gut, airways, throat, signals to the brain — and which popular claims about vagal tone and exercises go too far.
   - [HRV Biofeedback: What the Evidence Shows](https://onda-life.com/science/evidence/hrv-biofeedback): What research shows for HRV biofeedback — stress, mood, blood pressure, sleep, performance — and how much the feedback adds beyond slow breathing.
+  - [Meditation and the Autonomic Nervous System: What the Evidence Shows](https://onda-life.com/science/evidence/meditation-autonomic-nervous-system): What research shows meditation does to heart rate variability, resting heart rate, blood pressure and cortisol, and why slow breathing muddies the picture.
   - [Slow Breathing: What the Evidence Shows](https://onda-life.com/science/evidence/slow-breathing): What research shows for slow breathing without feedback — HRV, blood pressure, stress, sleep, pain — and what is known about popular techniques.
-  - [Does Vagus Nerve Stimulation Really Work? What the Evidence Shows](https://onda-life.com/science/evidence/transcutaneous-vagus-nerve-stimulation): Vagus nerve stimulation has FDA-cleared medical uses and mixed research results. Here is what each level of evidence supports, and which claims outrun it.
+  - [Does Vagus Nerve Stimulation Really Work? What the Evidence Shows](https://onda-life.com/science/evidence/vagus-nerve-stimulation): Vagus nerve stimulation has FDA-cleared medical uses and mixed research results. Here is what each level of evidence supports, and which claims outrun it.
   - [Can You Trust HRV From a Smartwatch or Ring?](https://onda-life.com/science/measurements/heart-rate-variability): Smartwatch and ring HRV is an estimate from the pulse signal, not an ECG reading. Where the two agree, where they diverge, and how to read your numbers.
+  - [Resting Respiratory Rate: What It Reflects and How It's Measured](https://onda-life.com/science/measurements/respiratory-rate): Respiratory rate is how many breaths you take per minute at rest. How it is measured, what moves it, and why your own night-time trend beats one reading.
+  - [Resting Heart Rate: What It Reflects and How It's Measured](https://onda-life.com/science/measurements/resting-heart-rate): Resting heart rate is your lowest heart rate at rest. How it is measured, what normal means, what moves it, and why your own trend beats a single number.
   - [How Breathing Changes HRV — and Why Slow Breathing Raises It](https://onda-life.com/science/mechanisms/breathing-and-hrv): Why heart rate variability rises when you breathe slowly: the breath-linked heart rhythm, the baroreflex and resonance — established and debated.
+  - [Heart–Brain Interaction: How the Heart and Brain Talk to Each Other](https://onda-life.com/science/mechanisms/heart-brain-interaction): How the brain steers the heartbeat and how each beat signals back to the brain: what is established, what is a model, and which popular claims are myths.
+  - [Why HRV Changes From Day to Day](https://onda-life.com/science/mechanisms/hrv-day-to-day): Why heart rate variability moves from one day to the next: normal noise, sleep, alcohol, training, illness, stress and the cycle — mechanisms and evidence.
 - [Research](https://onda-life.com/research): the evidence ONDA builds on (HRV biofeedback, resonance breathing) and what remains experimental
 - [Articles](https://onda-life.com/articles): long-form knowledge base on HRV, breathwork and nervous-system science
 - [Glossary](https://onda-life.com/glossary): defined terms with cross-links
@@ -152,8 +161,8 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Estrogen and the Brain: Is Perimenopause Brain Fog Real — and What Helps?](https://onda-life.com/articles/neural-optimizer-estrogen): Brain fog in perimenopause is real but usually temporary. How estrogen affects the brain, what hormone therapy can and cannot do, and other options that work.
 - [Energy Governor: TSH](https://onda-life.com/articles/energy-governor-tsh): Learn how TSH regulates your metabolic speed. Discover how to optimize thyroid function, resolve brain fog, and manage stress-induced underclocking.
 - [Adaptation Hack: Range Fractionation](https://onda-life.com/articles/adaptation-hack-range-fractionation): When you train in a linear, repetitive mode, receptors desensitize. Range Fractionation forces the system to constantly recalibrate by distributing signals across extreme ranges — bypassing homeostatic stagnation.
-- [Resonant Frequency: Finding Your System's Natural Rhythm](https://onda-life.com/articles/resonant-frequency-system-coherence): Every person has a unique resonant breathing frequency (about 4.5–7 breaths per minute) where heart, brain, and lungs phase-lock into coherence and HRV peaks. A simple resonance scan — a breathing-rate sweep with an HRV monitor — finds yours.
-- [The 0.1 Hz Shift: Engineering the Baroreflex Hook](https://onda-life.com/articles/baroreflex-01hz-shift): At around 0.1 Hz (about 5.5–6 breaths/min) your breathing syncs with Mayer Waves, hijacking the baroreflex loop to maximize HRV amplitude, lower blood pressure, and phase-lock the heart-brain coherence signal.
+- [Resonant Frequency: Finding Your System's Natural Rhythm](https://onda-life.com/articles/resonant-frequency-system-coherence): Every person has a unique resonant breathing frequency (about 4.5–7 breaths per minute) where breathing, heart rate and blood pressure oscillations fall into step and HRV peaks. A simple resonance scan — a breathing-rate sweep with an HRV monitor — finds yours.
+- [The 0.1 Hz Shift: Engineering the Baroreflex Hook](https://onda-life.com/articles/baroreflex-01hz-shift): At around 0.1 Hz (about 5.5–6 breaths/min) your breathing syncs with Mayer Waves, hijacking the baroreflex loop: heart-rate oscillations follow the breath and reach their largest amplitude, HRV peaks, and blood pressure can drop.
 - [The Adrenal Governor: Protecting the System from Thermal Runaway](https://onda-life.com/articles/adrenal-governor-thermal-runaway): The adrenals are fuel injectors for cortisol and adrenaline — the problem is the brain keeps its foot on the gas. The ONDA Adrenal Governor uses HRV thresholding, Alpha-buffering, and anticipatory reset to filter stress signals before they reach the Redline and exhaust the endocrine system.
 - [Do Hormones Control Your Mood? What the Science Actually Shows](https://onda-life.com/articles/molecular-psychology-hormonal-firmware): Partly, but not alone. Hormones and brain chemicals shape mood together with sleep, stress, thoughts and people. What the evidence shows and what helps.
 - [The Pressure Valve: What Slow Breathing Actually Does to Blood Pressure](https://onda-life.com/articles/high-blood-pressure-slow-breathing): A short investigation into the one drug-free lever with real evidence for blood pressure — slow, paced breathing — how it works through the baroreflex, how big the effect honestly is, and where its limits are.
@@ -226,7 +235,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [How to Calculate Your One-Rep Max (1RM)](https://onda-life.com/articles/how-to-calculate-one-rep-max): How to estimate your one-rep max without testing it: the Epley and Brzycki formulas, why a heavy set of ≤6 reps is most accurate, and how to program from it.
 - [How to Beat Jet Lag: Light, Melatonin & Timing](https://onda-life.com/articles/how-to-beat-jet-lag): Beat jet lag by shifting your body clock the right way: well-timed light is the strongest lever, melatonin helps eastward, and direction decides the strategy.
 - [What’s Your Chronotype? Morning Lark or Night Owl](https://onda-life.com/articles/what-is-my-chronotype): Your chronotype is your body clock’s natural timing — lark, owl or in between. What it is, why it’s largely genetic, social jet lag, and how to work with it.
-- [Caffeine's Overnight Signature: What the Afternoon Coffee Does to Your Heart](https://onda-life.com/articles/caffeine-hrv-resting-heart-rate): Caffeine has a 5–6 hour half-life, so the afternoon cup can still raise your resting heart rate and flatten your overnight HRV. Why the effect is deeply personal, and how to find your own caffeine cutoff from your own data.
+- [Caffeine's Overnight Signature: What the Afternoon Coffee Does to Your Heart](https://onda-life.com/articles/caffeine-hrv-resting-heart-rate): Caffeine has a 5–6 hour half-life, so the afternoon cup is still in your system at bedtime, where it can lighten your sleep, and sleep shapes overnight HRV. Whether caffeine moves HRV directly is still debated. It can also raise heart rate in some people, though its effect on resting heart rate is inconsistent and regular coffee drinkers build tolerance. Why the effect is deeply personal, and how to find your own caffeine cutoff from your own data.
 - [Social Jet Lag: Why a Moving Bedtime Reads as Chronic Stress](https://onda-life.com/articles/social-jet-lag-irregular-sleep): You didn’t fly anywhere, but shifting your bedtime an hour night to night gives your body a version of jet lag — and it flattens the HRV that recovers you. Why sleep regularity, not just duration, is a signal worth watching.
 - [The Late Dinner Your Heart Works Through](https://onda-life.com/articles/eating-late-heart-rate-sleep): A heavy late meal can worsen sleep and raise morning cortisol, but heart effects look small and personal. What studies show and how to test yours.
 - [Overtraining Has a Number: When Your Recovery Signals Turn](https://onda-life.com/articles/overtraining-hrv-resting-heart-rate): More training isn’t more progress — recovery decides. When load outruns recovery, resting heart rate creeps up and HRV drops. Why the fitness gain lives in the rest, and how to read the turn before it costs you.
@@ -308,10 +317,10 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Firmware Update](https://onda-life.com/glossary/firmware-update): A structured practice session that rewrites deep biological programs — breathing patterns, stress responses, emotional regulation.
 - [Psycho-Neural Network](https://onda-life.com/glossary/psycho-neural-network): The interconnected web of psychological patterns and neural pathways that form your behavioral operating system.
 - [Molecular Psychology](https://onda-life.com/glossary/molecular-psychology): A research field linking genes, brain chemistry and brain systems to differences in personality, emotion and behaviour.
-- [Interoception](https://onda-life.com/glossary/interoception): The sense of the internal state of your body — the foundation of all self-awareness and emotional intelligence.
+- [Interoception](https://onda-life.com/glossary/interoception): The sense of the internal state of your body — heartbeat, breathing, gut signals, temperature, hunger.
 - [OND Tokens](https://onda-life.com/glossary/ond-tokens): The internal reward currency earned through completed practices — converting consciousness work into measurable progress.
 - [Homeostasis](https://onda-life.com/glossary/homeostasis): The body's ability to maintain stable internal conditions — temperature, pH, blood sugar — despite external changes.
-- [Primary Interoception](https://onda-life.com/glossary/primary-interoception): The most fundamental layer of body sensing — awareness of heartbeat, breath, gut signals, and internal organ states.
+- [Primary Interoception](https://onda-life.com/glossary/primary-interoception): The basic layer of body sensing — signals from the heartbeat, breath, gut and internal organs.
 - [Metabolism](https://onda-life.com/glossary/metabolism): The sum of all chemical reactions in the body that convert food into energy and building materials for cells.
 - [Metabolic Flexibility](https://onda-life.com/glossary/metabolic-flexibility): The ability of mitochondria to seamlessly switch between glucose and fat (ketones) as fuel sources based on availability and demand.
 - [Insulin Sensitivity](https://onda-life.com/glossary/insulin-sensitivity): How responsive your cells are to insulin — high sensitivity means efficient glucose uptake and fat-burning capability.
@@ -323,7 +332,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Ketones](https://onda-life.com/glossary/ketones): Molecules produced from fat when glucose is low — beta-hydroxybutyrate (BHB) and others. A "cleaner" fuel for the brain.
 - [Brain](https://onda-life.com/glossary/brain): The central organ of the nervous system — a biological supercomputer processing 11 million bits of sensory information per second.
 - [Mind](https://onda-life.com/glossary/mind): The emergent phenomenon of consciousness arising from brain activity — the "software" running on biological "hardware."
-- [Vagus Nerve](https://onda-life.com/glossary/vagus-nerve): The longest cranial nerve, connecting the brain to the heart, lungs, and gut — the highway of the parasympathetic nervous system.
+- [Vagus Nerve](https://onda-life.com/glossary/vagus-nerve): The tenth cranial nerve, linking the brain with the heart, airways and gut — mostly carrying signals from the organs to the brain.
 - [Mammalian Dive Reflex](https://onda-life.com/glossary/mammalian-dive-reflex): A set of physiological responses to cold water immersion that optimizes respiration and slows the heart rate, mediated by the vagus nerve.
 - [Thalamus](https://onda-life.com/glossary/thalamus): The brain's sensory relay station — filters and routes incoming sensory information to the cortex.
 - [Proto-consciousness](https://onda-life.com/glossary/proto-consciousness): The most basic form of awareness — pre-reflective sensing of existence before thought or emotion.
@@ -331,9 +340,9 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Hypothalamus](https://onda-life.com/glossary/hypothalamus): The brain's master regulator of homeostasis — temperature, hunger, thirst, sleep, and stress response.
 - [Psychoneuroimmunology](https://onda-life.com/glossary/psychoneuroimmunology): The study of links between mind, nervous system, and immune function — how mental states affect immunity.
 - [Diaphragm](https://onda-life.com/glossary/diaphragm): The primary respiratory muscle — a dome-shaped sheet separating chest and abdomen, central to breath and vagal tone.
-- [Parasympathetic Nervous System](https://onda-life.com/glossary/parasympathetic-nervous-system): The "rest and digest" branch of the autonomic nervous system — promotes recovery, digestion, and calm.
-- [Sympathetic Nervous System](https://onda-life.com/glossary/sympathetic-nervous-system): The "fight or flight" branch of the autonomic nervous system — mobilizes the body for action and threat response.
-- [Insula](https://onda-life.com/glossary/insula): The insular cortex — the brain's primary hub for interoception, self-awareness, and emotional feeling.
+- [Parasympathetic Nervous System](https://onda-life.com/glossary/parasympathetic-nervous-system): One of the two main branches of the autonomic nervous system — slows the heart through the vagus nerve and supports digestion and recovery.
+- [Sympathetic Nervous System](https://onda-life.com/glossary/sympathetic-nervous-system): One of the two main branches of the autonomic nervous system — speeds the heart and mobilises the body for action.
+- [Insula](https://onda-life.com/glossary/insula): The insular cortex — the brain's key region for processing signals from inside the body.
 - [Cortisol](https://onda-life.com/glossary/cortisol): The primary stress hormone — released by the adrenal glands, elevated in chronic stress.
 - [Peristalsis](https://onda-life.com/glossary/peristalsis): The wave-like muscular contractions that move food through the digestive tract.
 - [Heart Rate Variability](https://onda-life.com/glossary/heart-rate-variability): The variation in time between heartbeats — a key marker of nervous system flexibility and recovery capacity.
@@ -373,9 +382,9 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Endocrine System](https://onda-life.com/glossary/endocrine-system): The system of glands that release hormones into the bloodstream — regulates metabolism, growth, stress, and reproduction.
 - [Gonads](https://onda-life.com/glossary/gonads): The reproductive glands — testes and ovaries — produce sex hormones (testosterone, estrogen).
 - [Autonomic Nervous System](https://onda-life.com/glossary/autonomic-nervous-system): The involuntary nervous system — regulates heart, breath, digestion, and stress response.
-- [Ventral Vagus](https://onda-life.com/glossary/ventral-vagus): The myelinated vagal branch — supports social engagement, safety, and calm alertness.
+- [Ventral Vagus](https://onda-life.com/glossary/ventral-vagus): A term from polyvagal theory (a debated model) for myelinated vagal fibres linked in the theory with calm social engagement.
 - [Quantum Biology](https://onda-life.com/glossary/quantum-biology): The study of quantum effects in biological systems — coherence, biophotonics, and cellular communication.
-- [Coherence](https://onda-life.com/glossary/coherence): Synchronized, ordered oscillation — in physics, biology, and the subjective sense of "density of presence."
+- [Coherence](https://onda-life.com/glossary/coherence): Synchronized, ordered oscillation — in physics, in the heart rhythm during slow breathing, and, as an ONDA image, the sense of "density of presence."
 - [Biophotonics](https://onda-life.com/glossary/biophotonics): The study of light emission from living systems — ultra-weak photon emission and possible cellular signaling.
 - [Limbic System](https://onda-life.com/glossary/limbic-system): The emotional brain — a network of structures that process emotions, memory, and social behavior.
 - [Mirror Neurons](https://onda-life.com/glossary/mirror-neurons): Neurons that fire when we observe others' actions — the biological basis of empathy and social intuition.
@@ -663,7 +672,7 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Neurosity Crown review](https://onda-life.com/reviews/neurosity-crown): The best EEG headset for developers and biohackers — eight channels, an open SDK, raw data and no subscription. At $1,499 and about three hours of battery, it is the wrong buy for casual meditation.
 - [Emotiv Insight 2 review](https://onda-life.com/reviews/emotiv-insight-2): The research-consumer hybrid — five channels and a real academic toolchain, gated by a subscription for raw data.
 - [Sens.ai review](https://onda-life.com/reviews/sens-ai): The most ambitious multi-modal headset — EEG plus photobiomodulation plus HRV, at a premium price that demands the use case.
-- [Myndlift review](https://onda-life.com/reviews/myndlift): The most clinically-credible neurofeedback platform — gated by a licensed provider, with real protocols and real outcomes.
+- [Myndlift review](https://onda-life.com/reviews/myndlift): The most clinically-credible neurofeedback platform — gated by a licensed provider, with real protocols and outcome tracking.
 - [Mendi review](https://onda-life.com/reviews/mendi): Not EEG — fNIRS prefrontal training in a simple game-based form. Easy to use, narrowly focused.
 - [FocusCalm review](https://onda-life.com/reviews/focuscalm): Content-driven EEG headband — accessible price, decent app, single-channel signal limits the depth.
 - [Flow Neuroscience review](https://onda-life.com/reviews/flow-neuroscience): Not EEG — clinical tDCS for depression, with the strongest regulatory and trial backing in this list.
@@ -4011,13 +4020,13 @@ Reading the buffer requires a device that resolves beat-to-beat intervals reliab
 
 URL: https://onda-life.com/articles/resonant-frequency-system-coherence
 Category: Biological Software
-Description: Every person has a unique resonant breathing frequency (about 4.5–7 breaths per minute) where heart, brain, and lungs phase-lock into coherence and HRV peaks. A simple resonance scan — a breathing-rate sweep with an HRV monitor — finds yours.
+Description: Every person has a unique resonant breathing frequency (about 4.5–7 breaths per minute) where breathing, heart rate and blood pressure oscillations fall into step and HRV peaks. A simple resonance scan — a breathing-rate sweep with an HRV monitor — finds yours.
 
 ## [ THE PHYSICS OF FLOW ]
 
 > "In physics, resonance occurs when an external frequency matches the natural frequency of a system, causing a dramatic increase in amplitude. Your body is not just a collection of organs — it is a complex biological oscillator.
 >
-> Every individual has a unique Resonant Frequency — a specific breathing rhythm where the heart, brain, and lungs enter perfect phase alignment. In the ONDA framework, we call this System Coherence. When you breathe at this frequency, vascular resistance drops, and your HRV surges to its peak potential."
+> Every individual has a unique Resonant Frequency — a specific breathing rhythm at which breathing, heart rate and blood pressure oscillations fall into step. In the ONDA framework, we call this System Coherence — our name for the state, not a clinical term. When you breathe at this frequency, the baroreflex amplifies the breath-linked swings in heart rate, and your HRV rises toward its personal peak."
 
 ---
 
@@ -4044,29 +4053,29 @@ Three mechanisms activated by resonant frequency breathing:
 
 > **Action:** Breathe at your identified resonant frequency for a minimum of 5 minutes. Use 5.5 seconds in, 5.5 seconds out (about 5.5 breaths per minute) as a starting point if your frequency has not been scanned yet.
 
-**Logic:** Most people resonate near 0.1 Hz. Breathing at this frequency engages the baroreflex — your body's built-in regulator for blood pressure and autonomic balance. At resonance, the baroreceptors in your aorta and carotid arteries synchronize with the cardiac cycle, producing a high-amplitude oscillation that pushes [HRV](/glossary/heart-rate-variability) toward its personal peak. The signal propagates upward through the vagal afferents to the [brainstem](/glossary/brainstem), and is associated with shifts in [prefrontal](/glossary/prefrontal-cortex) activation and lower [amygdala](/glossary/amygdala) reactivity.
+**Logic:** Most people resonate near 0.1 Hz. Breathing at this frequency engages the baroreflex — your body's built-in blood-pressure regulator. At resonance, the breath-driven rise and fall of heart rate (respiratory sinus arrhythmia) and the baroreflex response fall into step, producing a high-amplitude oscillation that pushes [HRV](/glossary/heart-rate-variability) toward its personal peak. Baroreceptor signals reach the [brainstem](/glossary/brainstem) with every beat; whether resonance breathing also shifts [prefrontal](/glossary/prefrontal-cortex) activity or [amygdala](/glossary/amygdala) reactivity is a hypothesis, supported so far only by small correlational studies.
 
 ### Mechanism 2: Vagal Capture
 
 > **Action:** Maintain the resonant breathing rhythm for 10+ consecutive minutes without interruption. Avoid speaking, checking devices, or breaking the rhythm.
 
-**Logic:** At resonance, the breathing rhythm strongly engages the [Vagus Nerve](/glossary/vagus-nerve) — the channel that carries a "safety" signal toward the heart, gut, lungs, and other systems: the environment is calm, recovery can be prioritised. Studies of slow resonant breathing typically show vagal tone (measured via HRV) rising within a few minutes, though the exact timing varies from person to person — a pattern often discussed through the lens of [polyvagal theory](/glossary/polyvagal-theory).
+**Logic:** At resonance, the breathing rhythm engages vagally mediated control of the heart. In ONDA's language, the [Vagus Nerve](/glossary/vagus-nerve) is the channel that carries a "safety" signal toward the heart, gut, lungs, and other systems: the environment is calm, recovery can be prioritised — an image, not a measurement. Studies of slow resonant breathing typically show vagally mediated HRV rising within a few minutes, though the exact timing varies from person to person. Vagal tone cannot be measured directly; HRV measures such as RMSSD reflect vagally mediated changes in heart rate.
 
 ### Mechanism 3: Instant Reset
 
 > **Action:** Use 5-minute resonance sessions as a cognitive reset between high-load tasks — between meetings, before creative work, before sleep-onset.
 
-**Logic:** Five minutes of resonance breathing removes cognitive noise as effectively as a system reboot clears corrupted temporary files. The neural mechanism: resonance drives the thalamo-cortical loop (involving the [thalamus](/glossary/thalamus)) into [Alpha](/glossary/alpha-state)/Theta border activity (8–10 Hz), the optimal state for creative integration and consolidation. [Cortisol](/glossary/cortisol) drops. Working memory clears. The system is ready for the next load cycle.
+**Logic:** In ONDA's language, five minutes of resonance breathing works like a system reboot between load cycles — a metaphor, not a measured effect. Many people feel calmer and clearer afterwards. The evidence is more modest than the image: claims that resonance breathing drives the brain into a specific [Alpha](/glossary/alpha-state)/Theta state are not established, [cortisol](/glossary/cortisol) findings for breathing and meditation practices are mixed and depend on the context, and links between HRV and working memory or other thinking skills are small and correlational.
 
 ---
 
 ## What are the benefits of resonant frequency breathing?
 
-**Autonomic Balance:** The [Sympathetic](/glossary/sympathetic-nervous-system) and [Parasympathetic](/glossary/parasympathetic-nervous-system) branches stop competing and begin operating as a coordinated duet. Neither dominates — both contribute to the oscillation. This is the biological definition of [coherence](/glossary/coherence).
+**Breath–Heart Coordination:** At resonance, breathing, heart rate and blood pressure oscillate together at one slow rhythm, with the [parasympathetic](/glossary/parasympathetic-nervous-system) (vagal) brake on the heart doing most of the visible work and the [sympathetic](/glossary/sympathetic-nervous-system) branch still active in the background. The smooth, regular heart-rhythm wave this produces is what researchers call [coherence](/glossary/coherence): a measurable heart-rhythm pattern, not a definition of a healthy nervous system.
 
-**Neural Clarity:** The brain shifts into "relaxed alertness" — Alpha/Theta border state — ideal for deep creative work, complex problem-solving, and high-fidelity decision-making. The same state meditators spend years trying to access deliberately.
+**Calm Focus (an ONDA image):** Many people describe a state of "relaxed alertness" during and after a session and use it before creative work or hard decisions. In ONDA's language, this is a quieter line with less noise — a subjective experience, not a proven brain state, and not shown to equal what long-term meditators train for.
 
-**Energy Efficiency:** At resonance, cardiovascular and respiratory systems operate at maximum mechanical efficiency. Organs consume fewer metabolic resources while maintaining peak output. The system is running at full capacity on minimum power draw.
+**Energy Efficiency (an ONDA model):** In ONDA's model, resonance is the system running with less internal friction — breath and heartbeat working together instead of against each other. This is an image of the experience, not a measured drop in the energy your organs use.
 
 > [ ONDA_STATEMENT ]
 > "You aren't broken; you are just out of tune. Resonance is the key to returning your biology to its original, effortless frequency."
@@ -4078,7 +4087,7 @@ Three mechanisms activated by resonant frequency breathing:
 Resonant-frequency work needs a device that captures the breathing-driven HRV envelope without smoothing it away.
 
 - [Polar H10](/reviews/polar-h10) — ECG chest strap for app-agnostic resonance training
-- [Oura Ring 4](/reviews/oura-ring-4) — overnight coherence trends
+- [Oura Ring 4](/reviews/oura-ring-4) — overnight HRV (RMSSD) trends
 - [Whoop 5.0](/reviews/whoop-5-0) — daily recovery on continuous HRV
 
 [Best HRV Trackers (2026) →](/reviews/hrv-trackers)
@@ -4089,7 +4098,7 @@ Resonant-frequency work needs a device that captures the breathing-driven HRV en
 
 URL: https://onda-life.com/articles/baroreflex-01hz-shift
 Category: Biological Software
-Description: At around 0.1 Hz (about 5.5–6 breaths/min) your breathing syncs with Mayer Waves, hijacking the baroreflex loop to maximize HRV amplitude, lower blood pressure, and phase-lock the heart-brain coherence signal.
+Description: At around 0.1 Hz (about 5.5–6 breaths/min) your breathing syncs with Mayer Waves, hijacking the baroreflex loop: heart-rate oscillations follow the breath and reach their largest amplitude, HRV peaks, and blood pressure can drop.
 
 ## [ THE BIOLOGICAL THERMOSTAT ]
 
@@ -4652,7 +4661,7 @@ How ONDA establishes the hierarchy of rhythms — four coupled oscillator layers
 
 **The Master Oscillator (Breath at 0.1 Hz):** The most accessible and powerful lever of biological control. The 0.1 Hz rhythm — about 5.5–6 breaths per minute (the onda-life.com pacer default is 5.5 seconds in, 5.5 seconds out) — serves as the "Gold Standard" to which all other systems align. At this specific frequency, the respiratory oscillator resonates with the baroreflex loop (the feedback cycle between blood pressure, heart rate, and the vagus nerve) at its natural resonant frequency. This is not an arbitrary number. 0.1 Hz is the frequency at which the baroreflex achieves maximum gain — where each breath produces the largest possible swing in heart rate variability, and where the respiratory, cardiovascular, and autonomic systems reach peak coherence.
 
-**Heart-Brain Coupling:** Through Heart Rate Variability (HRV), the breath synchronizes with the heartbeat via the baroreflex mechanism, and the heartbeat in turn entrains the Alpha rhythms of the brain via baroreceptor input to the thalamus. The coupling pathway is respiratory → cardiac → thalamic → cortical. When this chain is phase-locked at 0.1 Hz, the brain receives a stable, rhythmic signal from the cardiovascular system — an anchor that reduces ambient neural noise and supports sustained Alpha dominance. HRV coherence at 0.1 Hz is not merely a measurement. It is the signature state of the fully entrained system.
+**Heart-Brain Coupling (an ONDA model):** The established part: through the baroreflex, slow breathing near 0.1 Hz makes heart-rate oscillations follow the breath, which shows up as a large, regular wave in Heart Rate Variability (HRV), and baroreceptors report each heartbeat to the brainstem. ONDA's model goes further and pictures a chain — respiratory → cardiac → thalamic → cortical — in which this steady rhythm becomes an anchor for the brain's Alpha rhythms. That last step is a hypothesis, not an established finding: studies of how heartbeats register in the brain show small, task-specific effects, and no study has shown that the heartbeat entrains Alpha rhythms. HRV coherence at 0.1 Hz is a measurable heart-rhythm pattern; in ONDA's language, it is the signature of the entrained system.
 
 **The Motor Loop (CPG):** Spinal central pattern generators — the biological oscillators controlling rhythmic movement — pick up the global 0.1 Hz rhythm via descending reticulospinal pathways and proprioceptive feedback. Walking or running, when synchronized with the breath via Locomotor-Respiratory Coupling, becomes nearly "free" in terms of metabolic cost: the CPG timing aligns with the cardiac and respiratory phase, eliminating the micro-friction of asynchronous internal oscillation. Movement becomes resonant rather than effortful.
 
@@ -4680,7 +4689,7 @@ Three techniques to force synchronization from noise to signal:
 
 > **Action:** Use a visual or auditory cue cycling at exactly 6 cycles per minute (0.1 Hz) as a breathing anchor for 5–10 minutes before a work session, exercise session, or any high-demand cognitive task. Inhale on the rising signal; exhale on the falling signal.
 
-**Logic:** External 0.1 Hz pacing provides a phase-reference signal that the respiratory system entrains to via the auditory-autonomic pathway. Within 3–5 cycles, heart rate variability begins to mirror the respiratory rhythm at 0.1 Hz — the HRV coherence signature. Within 5 minutes, the full respiratory-cardiac-thalamic-cortical chain is phase-locked. The pacing cue does not "command" the heart to slow down. It provides a stable reference frequency that the entire coupled oscillator system organizes around. The system chooses the energy-minimum configuration — which is coherence.
+**Logic:** External 0.1 Hz pacing provides a phase-reference signal that the respiratory system entrains to via the auditory-autonomic pathway. Within 3–5 cycles, heart rate variability begins to mirror the respiratory rhythm at 0.1 Hz — the HRV coherence signature. In ONDA's model, the rest of the chain then organizes around this rhythm — an image, not a measured brain effect. The pacing cue does not "command" the heart to slow down. It provides a stable reference frequency that the entire coupled oscillator system organizes around. The system chooses the energy-minimum configuration — which is coherence.
 
 ### Technique 2: Locomotor-Respiratory Coupling (LRC — Movement as Calibration)
 
@@ -4698,9 +4707,9 @@ Three techniques to force synchronization from noise to signal:
 
 ## What are the benefits of rhythmic entrainment?
 
-**Effortless Power:** Increased endurance and output capacity by eliminating internal resistance. When biological oscillators are phase-locked, force production, oxygen delivery, and metabolic clearance all peak simultaneously rather than asynchronously. The system is not working harder — it is working without fighting itself. The efficiency gain is real and measurable: entrained athletes demonstrate lower oxygen consumption per unit of output at equivalent speeds compared to their desynchronized baseline.
+**Effortless Power (an ONDA model):** In ONDA's model, phase-locked oscillators let the body work without fighting itself — movement that feels lighter and more sustainable. This is an image, not an established finding. The claim that entrainment lowers the oxygen cost of movement is not established. The claim that force production, oxygen delivery and metabolic clearance all peak together has not been shown.
 
-**Neural Stability:** The brain receives a stable, predictable signal from the entrained cardiovascular system — a consistent 0.1 Hz input to the thalamus that anchors neural processing and reduces ambient anxiety. Anxiety is, in part, the experience of unpredictable internal signals: the nervous system treating its own noise as potential threat data. Entrainment reduces that noise, and with it tends to ease the low-level vigilance response the noise was triggering.
+**Neural Stability (an ONDA model, not established):** In ONDA's model, the brain receives a steady, predictable signal from the entrained cardiovascular system — a 0.1 Hz input that anchors neural processing and eases background anxiety. This is a hypothesis: baroreceptors do report each heartbeat to the brainstem, but a steady 0.1 Hz input to the thalamus that calms the brain has not been demonstrated. ONDA's reading is that anxiety is, in part, the experience of unpredictable internal signals — the nervous system treating its own noise as possible threat data — and that a steadier rhythm may ease that low-level vigilance. Many people do feel calmer during slow, paced breathing; the brain mechanism is the open part.
 
 **Coherent Flow:** A state where every movement feels like the logical, inevitable consequence of the one before it — the phenomenology of full-system resonance. This is not a subjective experience of relaxation. It is the perceptual signature of a system where no energy is being wasted on internal friction, oscillator arbitration, or compensatory correction. Effortlessness is what efficiency feels like from the inside.
 
@@ -5639,7 +5648,7 @@ Proper management of anterior cingulate cortex functions delivers the following.
 
 ## Recommended tools
 
-ACC coherence is shaped by vagal tone. Three consumer devices that engage the pathway:
+In ONDA's model, ACC coherence is shaped by vagal tone — a working hypothesis, not an established finding, and vagal tone itself cannot be measured directly. Three consumer devices built around the vagal pathway:
 
 - [Nurosym](/reviews/nurosym) — auricular tVNS with HRV/coherence research backing
 - [Apollo Neuro](/reviews/apollo-neuro) — vibrotactile coherence modulator
@@ -7640,7 +7649,7 @@ And if a drift is large, persistent, or paired with symptoms that worry you, the
 
 URL: https://onda-life.com/articles/caffeine-hrv-resting-heart-rate
 Category: ONDA Protocol
-Description: Caffeine has a 5–6 hour half-life, so the afternoon cup can still raise your resting heart rate and flatten your overnight HRV. Why the effect is deeply personal, and how to find your own caffeine cutoff from your own data.
+Description: Caffeine has a 5–6 hour half-life, so the afternoon cup is still in your system at bedtime, where it can lighten your sleep, and sleep shapes overnight HRV. Whether caffeine moves HRV directly is still debated. It can also raise heart rate in some people, though its effect on resting heart rate is inconsistent and regular coffee drinkers build tolerance. Why the effect is deeply personal, and how to find your own caffeine cutoff from your own data.
 
 ## [ CASE FILE: THE CUP YOU FORGOT ABOUT ]
 
@@ -7654,16 +7663,16 @@ Description: Caffeine has a 5–6 hour half-life, so the afternoon cup can still
 
 Caffeine's half-life averages **five to six hours**. That is the number almost nobody accounts for. A coffee at 3 p.m. means roughly half its caffeine is still in you at 8 or 9 p.m., and a meaningful fraction past midnight. You don't feel it as a jolt anymore — tolerance blunts the *sensation* long before it clears the *effect* — but your autonomic nervous system is still reading it.
 
-The result is a low, steady tilt toward the [sympathetic](/glossary/sympathetic-nervous-system) branch exactly when your physiology should be handing the night over to [parasympathetic](/glossary/parasympathetic-nervous-system) recovery.
+Caffeine is a stimulant, so the result is a body kept a little more alert into the night, exactly when it should be winding down into rest and recovery.
 
 ---
 
 ## Section 2: Does caffeine affect your HRV and resting heart rate at night?
 
-Yes — caffeine leaves a signature in three places ONDA actually watches:
+It can, though less predictably than the usual advice suggests. Here is what the evidence says about three things ONDA actually watches:
 
-- **Resting heart rate ticks up.** A stimulant keeps the baseline pulse a few beats higher than it would otherwise settle — a small rise, but one that shows against your own corridor.
-- **Overnight HRV flattens.** With sympathetic tone held up, beat-to-beat [variability](/glossary/heart-rate-variability) — the marker of parasympathetic recovery — reads lower. Sleep studies find higher LF/HF ratios and QT variability during REM after evening caffeine: the autonomic fingerprint of a nervous system that never fully let go.
+- **Resting heart rate may tick up — or may not.** Caffeine can raise heart rate in some people, but its effect on resting heart rate is inconsistent across studies, and regular coffee drinkers develop tolerance. If it moves yours, it will show against your own corridor.
+- **Overnight HRV may dip, mostly through sleep.** The direct evidence is mixed: some studies find small changes in beat-to-beat [variability](/glossary/heart-rate-variability) after caffeine, others find none, and regular drinkers develop tolerance. The clearer link runs through sleep. Late caffeine can make sleep lighter and shorter, and a poorer night is one of the things that pulls overnight HRV down.
 - **Sleep thins.** Even when you fall asleep fine, caffeine can shave sleep quality and depth — and a poorer night drags the next day's baseline with it.
 
 None of this is dramatic on any single night. It is a *tax*, not a catastrophe — and taxes compound.
@@ -7680,7 +7689,7 @@ So a population rule is the wrong tool. The only cutoff that means anything is *
 
 ## Section 4: Finding your cutoff from your own data
 
-This is a measurement problem, and it's a solvable one. Build a **personal baseline** — your normal resting heart rate, variability and breathing rate — then watch what a late cup does to it. A night after a 4 p.m. coffee that reads with a higher resting pulse and a flatter [HRV](/glossary/heart-rate-variability) than your corridor is your body drawing the line for you.
+This is a measurement problem, and it's a solvable one. Build a **personal baseline** — your normal resting heart rate, variability and breathing rate — then watch what a late cup does to it. A night after a 4 p.m. coffee that reads with a higher resting pulse or a lower [HRV](/glossary/heart-rate-variability) than your corridor is your body drawing the line for you.
 
 ONDA reads those overnight signals from an Apple Watch (or your resting numbers from the phone camera) and holds your corridor, so a late-caffeine night shows up as a visible departure from *your* normal rather than an abstract worry — [your data, your line](/measurements). Move the cup earlier, watch the night come back into the corridor, and you've found your cutoff empirically instead of guessing.
 
@@ -7696,7 +7705,7 @@ You don't have to quit coffee. You have to *time* it. Front-load caffeine into t
 
 > [ SYSTEM_STATUS ]
 > HALF_LIFE: ~5-6h (afternoon cup active into the night)
-> SIGNATURE: resting HR ↑ · overnight HRV ↓ · sleep depth ↓
+> SIGNATURE: sleep depth ↓ · overnight HRV: debated (mostly via sleep) · resting HR: inconsistent (tolerance in regular drinkers)
 > CUTOFF: personal (genetics/metabolism), not a fixed clock
 > METHOD: read your own baseline — PRACTICE, NOT DIAGNOSIS
 
@@ -9918,7 +9927,7 @@ Day to day, HRV moves in response to how you're recovering. The most common thin
 - **Poor or short sleep** — the fastest way to a low reading.
 - **Stress and illness** — both keep the sympathetic system switched on.
 - **Overtraining** — hard training without recovery suppresses HRV.
-- **Late meals and caffeine** — both can raise nighttime heart rate and lower HRV.
+- **Late meals and caffeine** — both can lower HRV; late meals can also raise nighttime heart rate, while caffeine's effect on heart rate is inconsistent and fades with regular use.
 
 A single low reading usually means one bad night. A run of low readings against your baseline is the signal worth paying attention to.
 
@@ -10177,7 +10186,7 @@ A normal resting heart rate for most adults is 60 to 100 beats per minute, but t
 
 ## What is a normal resting heart rate by age?
 
-A normal adult resting heart rate is 60–100 bpm — a wide band, and fitness moves people within it more than age does. Fit people often sit lower (often 40–60 bpm), and some research links roughly 50–90 bpm with better long-term health. These are general ranges for a healthy resting heart rate:
+A normal adult resting heart rate is 60–100 bpm — a wide band, and fitness moves people within it more than age does. Fit people often sit lower (often below 60 bpm; many elite endurance athletes reach 40 bpm or less at their lowest point of the day), and in population studies a lower resting heart rate is associated with lower long-term mortality. These are general ranges for a healthy resting heart rate:
 
 | Age | Typical resting heart rate |
 |---|---|
@@ -10185,7 +10194,7 @@ A normal adult resting heart rate is 60–100 bpm — a wide band, and fitness m
 | Child (1–10 yr) | 70–120 bpm |
 | Teen (11–17 yr) | 60–100 bpm |
 | Adult (18+) | 60–100 bpm |
-| Well-trained adult | 40–60 bpm |
+| Well-trained adult | often below 60 bpm |
 
 Within adulthood, age itself moves resting heart rate less than you'd expect — a fit 60-year-old can easily have a lower resting heart rate than an unfit 30-year-old. Fitness, stress, sleep and stimulants explain most of the difference.
 
@@ -10203,11 +10212,11 @@ Watches and rings read resting or sleeping heart rate, which usually comes out a
 
 ## What raises and lowers your resting heart rate?
 
-Sleep, exercise, alcohol, caffeine, stress and illness are the most common things that move your resting heart rate — a daily readout of how your body is doing. Common influences:
+Sleep, exercise, alcohol, stress and illness are the most common things that move your resting heart rate — a daily readout of how your body is doing. Common influences:
 
 **Lowers it (usually good):** regular aerobic exercise, good sleep, hydration, slow breathing practice. Endurance training is the strongest long-term lever — it's why athletes sit in the 40s and 50s.
 
-**Raises it (worth noticing):** poor or short sleep, alcohol, [caffeine](/articles/caffeine-hrv-resting-heart-rate), stress, illness, dehydration, and hot environments. A resting heart rate that's several beats above your normal for a few days often means your body is under load — a cold coming on, accumulated stress, or poor recovery.
+**Raises it (worth noticing):** poor or short sleep, alcohol, stress, illness, dehydration, and hot environments. [Caffeine](/articles/caffeine-hrv-resting-heart-rate) can raise heart rate in some people, but its effect on resting heart rate is inconsistent, and regular coffee drinkers develop tolerance. A resting heart rate that's several beats above your normal for a few days often means your body is under load — a cold coming on, accumulated stress, or poor recovery.
 
 A single elevated reading usually means one rough night or a recent coffee. A sustained rise above your baseline is the more meaningful signal.
 
@@ -13266,9 +13275,6 @@ Most people run on autopilot — executing ancient firmware without awareness. O
 
 The Biocomputer concept maps directly to the 8-level architecture. Levels 1-4 work with the "hardware" (body, emotions, mind, social systems), while Levels 5-8 access deeper "source code" (cellular, genetic, planetary, universal).
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Firmware Update
@@ -13305,9 +13311,6 @@ Because each Firmware Update targets a specific system, results are measurable:
 - Sleep quality improvements after evening protocols
 - Stress response changes tracked over weeks
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Psycho-Neural Network
@@ -13342,9 +13345,6 @@ Each Level of the ONDA system works with a different layer of the PNN:
 
 The PNN is not abstract — it has a molecular basis. Every psychological state corresponds to specific neurotransmitter and hormone profiles. ONDA practices are designed to shift these profiles systematically.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Molecular Psychology
@@ -13371,9 +13371,9 @@ Read more: [Do hormones control your mood?](/articles/molecular-psychology-hormo
 
 URL: https://onda-life.com/glossary/interoception
 Category: Neural Hardware
-Short: The sense of the internal state of your body — the foundation of all self-awareness and emotional intelligence.
+Short: The sense of the internal state of your body — heartbeat, breathing, gut signals, temperature, hunger.
 
-**Interoception** is your body's ability to sense its own internal state — heartbeat, breathing, gut feelings, temperature, pain, hunger. It is the most fundamental sense, and the foundation of the entire ONDA system.
+**Interoception** is your body's ability to sense its own internal state — heartbeat, breathing, gut feelings, temperature, pain, hunger. ONDA's practice system starts from it.
 
 ## Why Interoception First
 
@@ -13381,10 +13381,12 @@ ONDA Level 1 (TERRA) begins with interoception because:
 
 1. **It's the base layer** — You cannot regulate what you cannot sense
 2. **Emotional awareness depends on it** — Emotions are first felt as body sensations
-3. **It's measurable** — Interoceptive accuracy correlates with emotional intelligence
-4. **It's trainable** — Unlike many cognitive abilities, interoception improves rapidly with practice
+3. **It can be studied** — Researchers measure it with heartbeat tasks and questionnaires, although these tools have known limits
+4. **Training evidence is mixed** — One short experiment with heartbeat feedback improved scores, while a three-week training showed no significant gains
 
-## The Interoceptive Hierarchy
+## How ONDA Organizes Practice
+
+This table is ONDA's own way of ordering its practices, not an established scientific framework.
 
 | Layer | What You Sense | ONDA Part |
 |-------|---------------|-----------|
@@ -13392,18 +13394,19 @@ ONDA Level 1 (TERRA) begins with interoception because:
 | **Dynamic** | Movement, balance, proprioception | Part 2: I Move |
 | **Adaptive** | Stress signals, energy levels, recovery | Part 3: I Adapt |
 
-## Research Basis
+## What the Research Shows
 
-Studies show that people with higher interoceptive accuracy:
-- Make better decisions (Dunn et al., 2010)
-- Have greater emotional regulation (Füstös et al., 2013)
-- Experience less anxiety (Paulus & Stein, 2010)
-- Show enhanced empathy (Ernst et al., 2013)
+- **Accuracy, sensibility and awareness are different things** — how well you detect your heartbeat, how confident you feel about it, and how well those two match often correspond poorly (Garfinkel et al., 2015)
+- **Measurement is hard** — the popular heartbeat counting task has serious validity problems
+- **No established anxiety link** — a pre-registered meta-analysis found no association between cardiac interoceptive accuracy and anxiety (Adams et al., 2022)
+- **Practice is not a shortcut** — experienced meditators are not better at heartbeat detection than non-meditators (Khalsa et al., 2008)
+
+See [Interoception](/science/concepts/interoception) for the full evidence and sources.
 
 ---
 
 ## References
-1. [Craig, Nat Rev Neurosci (2002)](https://pubmed.ncbi.nlm.nih.gov/12030437/) — interoception and insula
+1. [Craig, Nat Rev Neurosci (2002)](https://pubmed.ncbi.nlm.nih.gov/12154366/) — interoception as the sense of the physiological condition of the body
 
 ---
 
@@ -13443,8 +13446,6 @@ Each Part has an associated **Artifact** — a collectible that provides permane
 ## Future: Real Value
 
 Starting at Level 3, OND tokens will be convertible to real value through the ONDA ecosystem. The exact mechanism is under development.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -13482,11 +13483,13 @@ A body in homeostatic balance is a body ready for growth. Without this foundatio
 
 URL: https://onda-life.com/glossary/primary-interoception
 Category: Neural Hardware
-Short: The most fundamental layer of body sensing — awareness of heartbeat, breath, gut signals, and internal organ states.
+Short: The basic layer of body sensing — signals from the heartbeat, breath, gut and internal organs.
 
-**Primary Interoception** is the raw, unfiltered sensing of your body's internal state. It is the connection between the brainstem and the insular cortex — the most ancient pathway of self-awareness.
+**Primary Interoception** is the raw, unfiltered sensing of your body's internal state. Signals from the heart, lungs and gut travel through the brainstem to the insular cortex, a key region for interoceptive processing (Craig, 2002).
 
 ## Layers of Interoception
+
+A simplified scheme; real brain pathways overlap and are still being mapped.
 
 | Layer | What You Sense | Brain Region |
 |-------|---------------|-------------|
@@ -13506,7 +13509,7 @@ Primary interoception is usually measured with heartbeat perception tasks. In th
 
 ## In ONDA Life
 
-Part 1 ("I Am") focuses exclusively on primary interoception — learning to detect the most basic signals before interpreting them emotionally or cognitively. This is the "biological zero" from which all awareness emerges.
+Part 1 ("I Am") focuses on primary interoception — noticing basic body signals before interpreting them emotionally or cognitively. Whether such practice improves measured interoceptive accuracy is not established: the evidence is mixed. ONDA does not measure interoceptive accuracy.
 
 ## Training Primary Interoception
 
@@ -13519,7 +13522,7 @@ Practices include:
 ---
 
 ## References
-1. [Craig, Nat Rev Neurosci (2009)](https://pubmed.ncbi.nlm.nih.gov/12030437/) — interoception and insula
+1. [Craig, Nat Rev Neurosci (2002)](https://pubmed.ncbi.nlm.nih.gov/12154366/) — interoception and the brainstem-to-insula pathway
 
 ---
 
@@ -13547,8 +13550,6 @@ Short: The sum of all chemical reactions in the body that convert food into ener
 ## In ONDA Life
 
 Level 1 practices help shift the metabolic balance from chronic catabolic stress toward dynamic equilibrium. When metabolism is balanced, the nervous system has the energy resources needed for higher-order functions like emotional regulation and focused attention.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -13744,8 +13745,6 @@ ONDA Life works bottom-up: we stabilize the brainstem before engaging the limbic
 ## Neuroplasticity
 
 The brain rewires itself based on repeated experience. Every ONDA practice is designed to strengthen specific neural pathways through deliberate, structured repetition.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -13776,8 +13775,6 @@ In ONDA Life, the **mind** is distinguished from the brain. The brain is hardwar
 ## The Observer
 
 The ultimate goal of ONDA is to develop the "observer" — the aspect of mind that can witness its own processes without being captured by them.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -13785,43 +13782,31 @@ Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges)
 
 URL: https://onda-life.com/glossary/vagus-nerve
 Category: Neural Hardware
-Short: The longest cranial nerve, connecting the brain to the heart, lungs, and gut — the highway of the parasympathetic nervous system.
+Short: The tenth cranial nerve, linking the brain with the heart, airways and gut — mostly carrying signals from the organs to the brain.
 
-The **vagus nerve** (cranial nerve X) is the primary channel of the parasympathetic nervous system. It wanders from the brainstem through the neck, thorax, and abdomen — connecting the brain to virtually every major organ.
+The **vagus nerve** (cranial nerve X) runs from the brainstem through the neck and chest into the abdomen. It is the main nerve of the parasympathetic nervous system, but most of its fibres are sensory: they carry information from the organs to the brain, while a minority carry commands from the brain to the organs.
 
 ## Key Functions
 
-- **Heart rate regulation** — slowing heart rate for calm states
-- **Breathing control** — coordinating diaphragm and respiratory rhythm
-- **Digestive activation** — stimulating "rest and digest" mode
-- **Inflammation control** — the cholinergic anti-inflammatory pathway
-- **Social engagement** — facial expression, voice tone, listening
+- **Reporting to the brain** — signals about the state of the gut, heart, lungs and other organs
+- **Heart** — slowing the heart rate
+- **Throat and voice** — the muscles of the pharynx and larynx for swallowing and speaking
+- **Gut** — taking part in digestion and gut movement
+- **Reflexes** — coughing, swallowing, vomiting
+
+Breathing muscles are a separate matter: the diaphragm is driven by the phrenic nerve, not the vagus. The vagus carries sensory signals from the lungs and airways.
 
 ## Vagal Tone
 
-**Vagal tone** cannot be measured directly; Heart Rate Variability (HRV) reflects vagally mediated changes in heart rate. Higher vagally mediated HRV is linked with a greater ability to shift between activation and recovery. ONDA Level 1 practices that work with this:
-
-- Diaphragmatic breathing (slow, low breathing)
-- Slow breathing patterns, often with an extended exhale. Slow breathing is associated with higher vagally mediated HRV; whether a longer exhale adds anything beyond slowing the breath is still debated.
-- Cold exposure protocols (linked to a brief vagal response; long-term evidence is thin)
+Vagal tone cannot be measured directly; HRV measures such as RMSSD reflect vagally mediated changes in heart rate. Heart rate variability is an indirect window, and breathing itself can distort it. Slow breathing is associated with higher vagally mediated HRV; whether a longer exhale adds anything beyond slowing the breath is still debated. Cold water on the face triggers the diving response, which slows the heart through the vagus — an ordinary reflex, not proof that the nerve is being "toned" or "reset".
 
 ## Polyvagal Theory
 
-Stephen Porges' polyvagal theory describes three states:
+Polyvagal theory proposes "ventral vagal", "sympathetic" and "dorsal vagal" states, and a "social engagement system". These are terms of the theory, which is debated: a critical review argues its basic premises are untenable. ONDA uses the terms only as the theory's language, not as established physiology.
 
-| State | Nerve Branch | Experience |
-|-------|-------------|-----------|
-| **Ventral vagal** | Myelinated vagus | Safety, social engagement |
-| **Sympathetic** | Spinal nerves | Fight or flight |
-| **Dorsal vagal** | Unmyelinated vagus | Freeze, shutdown |
+## Learn more
 
-ONDA Level 1 aims to establish a stable ventral vagal state — the biological foundation of safety.
-
----
-
-## References
-1. [Thayer & Lane, Neurosci Biobehav Rev (2009)](https://pubmed.ncbi.nlm.nih.gov/19463818/) — HRV as vagal tone marker
-2. [Porges, Biol Psychol (2007)](https://pubmed.ncbi.nlm.nih.gov/17049418/) — Polyvagal Theory
+[The Vagus Nerve: What It Does, and What Is Myth](/science/concepts/vagus-nerve) and [The Autonomic Nervous System](/science/concepts/autonomic-nervous-system) give the full picture with sources.
 
 ---
 
@@ -13874,8 +13859,6 @@ The **thalamus** is a paired structure in the center of the brain that acts as t
 ## In ONDA Life
 
 Level 1 practices include "thalamic calibration" — training the thalamus to filter out redundant stimuli and reduce the load on the nervous system. When the thalamus is overwhelmed (chronic stress, sensory overload), the system operates in deficit mode.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -13909,8 +13892,6 @@ Some researchers use these conditions to explore which brain systems support min
 ## In ONDA Life
 
 The main objective of Part 1 ("I Am") is the activation of proto-consciousness and the creation of an unconditional sense of safety. This is the "biological zero" — the foundation from which all higher consciousness emerges.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -13947,8 +13928,6 @@ Meal timing, physical activity, and social schedules also help set daily rhythms
 ## In ONDA Life
 
 Part 1 activates proto-consciousness "through contact with physiological rhythms." Practices bring attention to breath, heartbeat, and gut sensations — aligning awareness with the body's natural tempo rather than overriding it.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14031,8 +14010,8 @@ The **diaphragm** is the main muscle of respiration — a dome-shaped sheet that
 ---
 
 ## References
-1. [Lehrer et al., Appl Psychophysiol Biofeedback (2000)](https://pubmed.ncbi.nlm.nih.gov/19246382/) — diaphragmatic breathing and HRV
-2. [Thayer & Lane, Neurosci Biobehav Rev (2009)](https://pubmed.ncbi.nlm.nih.gov/19463818/) — vagal tone and respiration
+1. [Lehrer et al., Appl Psychophysiol Biofeedback (2000)](https://pubmed.ncbi.nlm.nih.gov/10999236/) — diaphragmatic breathing and HRV
+2. [Thayer & Lane, Neurosci Biobehav Rev (2009)](https://pubmed.ncbi.nlm.nih.gov/18771686/) — vagal tone and respiration
 
 ---
 
@@ -14040,24 +14019,28 @@ The **diaphragm** is the main muscle of respiration — a dome-shaped sheet that
 
 URL: https://onda-life.com/glossary/parasympathetic-nervous-system
 Category: Neural Hardware
-Short: The "rest and digest" branch of the autonomic nervous system — promotes recovery, digestion, and calm.
+Short: One of the two main branches of the autonomic nervous system — slows the heart through the vagus nerve and supports digestion and recovery.
 
-The **parasympathetic nervous system** (PNS) is one of two branches of the autonomic nervous system. It promotes "rest and digest" — slowing heart rate, stimulating digestion, and enabling recovery.
+The **parasympathetic nervous system** (PNS) is one of the two main branches of the autonomic nervous system. It is often summed up as "rest and digest": through the vagus nerve it slows the heart, and it supports digestion and recovery. At rest, its influence on the heart predominates.
 
 ## Key Effects
 
-- Slowed heart rate
-- Deep, diaphragmatic breathing
-- Activated digestion and peristalsis
-- Reduced cortisol
-- Social engagement capacity
+- Slower heart rate (via the vagus nerve)
+- Stimulated digestion and gut movement (peristalsis)
+- More saliva and tears; narrower pupils
+
+## Not a switch
+
+The parasympathetic and sympathetic branches are not two ends of one dial. They can be active at the same time and can change independently, so "more calm" does not simply mean "less stress" — "autonomic balance" is a shorthand, not something a single number measures. Cortisol is not controlled by this branch: it is regulated by the hormonal hypothalamic–pituitary–adrenal axis.
+
+Polyvagal theory adds ideas such as a "social engagement system" linked to the vagus nerve. These are terms of the theory, which is debated, not established physiology.
 
 ## In ONDA Life
 
-Level 1 practices aim to activate the parasympathetic system through diaphragmatic breathing, extended exhales, and interoceptive awareness. The vagus nerve is the primary channel of parasympathetic influence.
+Slow breathing is associated with higher vagally mediated HRV; whether a longer exhale adds anything beyond slowing the breath is still debated. ONDA's practices use slow, guided breathing; they do not measure parasympathetic activity directly. Vagal tone cannot be measured directly; HRV measures such as RMSSD reflect vagally mediated changes in heart rate.
 
 ## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges); [HRV & vagal tone](https://pubmed.ncbi.nlm.nih.gov/19463818/) (Thayer & Lane).
+See [The Autonomic Nervous System](/science/concepts/autonomic-nervous-system) for the full picture and sources.
 
 ---
 
@@ -14065,24 +14048,28 @@ Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges)
 
 URL: https://onda-life.com/glossary/sympathetic-nervous-system
 Category: Neural Hardware
-Short: The "fight or flight" branch of the autonomic nervous system — mobilizes the body for action and threat response.
+Short: One of the two main branches of the autonomic nervous system — speeds the heart and mobilises the body for action.
 
-The **sympathetic nervous system** (SNS) is the "fight or flight" branch of the autonomic nervous system. It mobilizes the body for action — increasing heart rate, redirecting blood flow, and releasing stress hormones.
+The **sympathetic nervous system** (SNS) is one of the two main branches of the autonomic nervous system. It is often summed up as "fight or flight": it speeds the heart, strengthens its contractions and mobilises the body for action.
 
 ## Key Effects
 
-- Increased heart rate and blood pressure
-- Redirected blood flow to muscles
-- Cortisol and adrenaline release
-- Suppressed digestion
-- Heightened alertness
+- Faster heart rate and stronger heart contractions
+- Blood flow redirected towards working muscles
+- Adrenaline released from the adrenal glands
+- Slowed digestion
+- Wider pupils, more sweating
+
+## Not a switch
+
+The sympathetic and parasympathetic branches are not two ends of one dial. They can be active at the same time and can change independently, so "autonomic balance" is a shorthand, not something a single number such as the LF/HF ratio can read. Cortisol, the main stress hormone, is not released by this branch: it is regulated by the hormonal hypothalamic–pituitary–adrenal axis.
 
 ## In ONDA Life
 
-Chronic sympathetic activation (stress) keeps the body in deficit mode. Level 1 practices help restore balance by activating the parasympathetic system, allowing the sympathetic branch to return to baseline when not needed.
+ONDA does not measure sympathetic activity. Its practices use slow, guided breathing, and the app reads heart rhythm, not the state of the nervous system.
 
 ## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
+See [The Autonomic Nervous System](/science/concepts/autonomic-nervous-system) for the full picture and sources.
 
 ---
 
@@ -14090,26 +14077,25 @@ Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges)
 
 URL: https://onda-life.com/glossary/insula
 Category: Neural Hardware
-Short: The insular cortex — the brain's primary hub for interoception, self-awareness, and emotional feeling.
+Short: The insular cortex — the brain's key region for processing signals from inside the body.
 
-The **insula** (or insular cortex) is a region of the cerebral cortex folded deep within the lateral sulcus. It is often called the "island" of the brain and serves as the primary hub for interoception and self-awareness.
+The **insula** (or insular cortex) is a region of the cerebral cortex folded deep within the lateral sulcus. Its name means "island" in Latin. It is a key region for interoceptive processing — handling signals about heartbeat, breathing, the gut and other internal states (Craig, 2002; Schulz, 2016).
 
 ## Functions
 
-- **Interoceptive awareness** — sensing heartbeat, breath, gut
-- **Emotional experience** — translating body signals into felt emotions
-- **Self-awareness** — the neural basis of "I exist"
-- **Empathy** — simulating others' internal states
-- **Decision-making** — gut feelings that guide choices
+- **Interoceptive processing** — receiving and integrating signals about heartbeat, breath and the gut
+- **Emotion** — active when people report feelings; influential models propose it links body signals to felt emotion
+- **Self-awareness** — Craig's model places a sense of the bodily self in the anterior insula; this is a model, not an established fact
+- **Salience and choice** — involved in pain, craving, uncertainty and decision-making
 
 ## Anterior vs. Posterior Insula
 
 | Region | Function | ONDA Relevance |
 |--------|----------|---------------|
-| **Posterior** | Raw body signals | Level 1: Primary interoception |
-| **Anterior** | Emotional interpretation | Level 2: Emotional awareness |
+| **Posterior** | More direct body signals | Level 1: Primary interoception |
+| **Anterior** | Integration with emotion and decision regions | Level 2: Emotional awareness |
 
-"Insula" and "insular cortex" are two names for the same structure. The insula is the primary target of Level 1 interoceptive practices.
+"Insula" and "insular cortex" are two names for the same structure. ONDA does not measure insula activity.
 
 ## Why does the insula matter?
 
@@ -14124,7 +14110,7 @@ When the insula is damaged or works differently, people can have trouble with bo
 Altered insula activity has been reported in anxiety, depression, eating disorders, and chronic pain. These findings come mostly from imaging studies showing associations, so they do not establish that the insula causes these conditions.
 
 ## Scientific Basis
-Built on: [Interoception & insula](https://pubmed.ncbi.nlm.nih.gov/12030437/) (Craig).
+Sources: [Craig, Nat Rev Neurosci (2002)](https://pubmed.ncbi.nlm.nih.gov/12154366/); [Craig, Nat Rev Neurosci (2009)](https://pubmed.ncbi.nlm.nih.gov/19096369/) — the anterior insula and awareness (a model). See [Interoception](/science/concepts/interoception) for the full evidence.
 
 ---
 
@@ -14188,7 +14174,7 @@ In the esophagus, disorders such as achalasia make swallowing difficult because 
 "Restoration of rhythmic peristalsis" is a biological marker of Part 1 completion. When the parasympathetic system is activated and cortisol drops, the gut can return to its natural rhythmic movement — a sign that the body perceives safety.
 
 ## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges); [HRV & vagal tone](https://pubmed.ncbi.nlm.nih.gov/19463818/) (Thayer & Lane).
+Built on: [HRV & vagal tone](https://pubmed.ncbi.nlm.nih.gov/18771686/) (Thayer & Lane).
 
 ---
 
@@ -14216,8 +14202,8 @@ Increased HRV is a biological marker of Part 1 ("I Am") and Part 2 ("I Move") pr
 ---
 
 ## References
-1. [Thayer & Lane, Neurosci Biobehav Rev (2009)](https://pubmed.ncbi.nlm.nih.gov/19463818/) — HRV as vagal tone marker
-2. [Lehrer et al., Appl Psychophysiol Biofeedback (2000)](https://pubmed.ncbi.nlm.nih.gov/19246382/) — resonance breathing and HRV
+1. [Thayer & Lane, Neurosci Biobehav Rev (2009)](https://pubmed.ncbi.nlm.nih.gov/18771686/) — HRV as vagal tone marker
+2. [Lehrer et al., Appl Psychophysiol Biofeedback (2000)](https://pubmed.ncbi.nlm.nih.gov/10999236/) — resonance breathing and HRV
 
 ---
 
@@ -14291,9 +14277,6 @@ When central pattern generators or their control lose balance, rhythm and coordi
 
 Part 2 ("I Move") activates CPGs to create natural, effortless locomotion. Movement becomes "as effortless as swimming" — the body's built-in motor programs take over, reducing conscious effort and enabling fluid navigation through space.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Vestibulo-Ocular Reflex
@@ -14327,9 +14310,6 @@ The video head impulse test adds a high-speed camera for more objective results.
 
 Part 2 trains VOR as part of "stabilizing gaze while the head is in motion." This is the foundation for visual navigation and the feeling of stability within the flow — essential for moving through space with confidence.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Vestibular System
@@ -14361,9 +14341,6 @@ Other causes include vestibular neuritis, Meniere's disease and vestibular migra
 ## In ONDA Life
 
 Part 2 targets the vestibular system as "the primary gyroscope for orientation within the flow." A well-calibrated vestibular system enables intuitive navigation — you sense where you are in space without conscious calculation.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14398,9 +14375,6 @@ Causes include stroke, tumors, multiple sclerosis, inherited ataxias, and alcoho
 
 Part 2 works with "spinal neural circuits and cerebellum" as "centers for rhythmic movement; modulating smoothness and eliminating noise." The cerebellum learns to produce fluid, efficient movement with minimal effort.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Fascia
@@ -14433,9 +14407,6 @@ In compartment syndrome, swelling inside tight fascial compartments raises press
 ## In ONDA Life
 
 Part 2 "Intermuscular Coordination" trains "transferring force through fascial chains, allowing the whole body to move as a single vector." Improved fascial gliding and synovial joint lubrication are markers of Part 2 progress.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14470,9 +14441,6 @@ In research, scientists also record from single cells with microelectrodes or pa
 
 ONDA practices are grounded in neurophysiology. Part 3 works with "the deepest, automated processes" — brainstem, reticular formation, sensorimotor cortex — from a neurophysiological perspective. Each protocol targets specific neural structures with measurable outcomes.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Reticular Formation
@@ -14505,9 +14473,6 @@ Smaller or slower changes can show up as altered muscle tone, disturbed sleep-wa
 ## In ONDA Life
 
 Part 3 aims to "tune the brainstem and reticular formation." A well-regulated reticular formation supports the rapid switching between "relaxation/fluidity" and "tone/stability" — essential for adaptive movement and gravity mastery.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14542,9 +14507,6 @@ Functional MRI maps which parts activate for different body regions, and transcr
 
 Part 3 activates "the primary sensorimotor cortex" as part of gravity mastery. Training this region improves the brain-muscle-brain feedback loop — the foundation for efficient movement and the elimination of parasitic tension.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Locomotion
@@ -14575,9 +14537,6 @@ When locomotion goes wrong, the pattern of the problem often points to its cause
 ## In ONDA Life
 
 Parts 2 and 3 work with "spinal pattern generators for natural locomotion." The goal is to transform movement from effortful "pushing" to effortless "flow" — the body navigating space using inertia, rhythm, and the natural curves of the spine.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14619,9 +14578,6 @@ However, these results do not prove that therapies work by "releasing armor." Im
 
 Part 3 ("I Adapt") targets "reduction of muscular tension (the ‘body armor’)." As you master gravity and develop interoceptive efficiency, chronic holding patterns release. The body transitions from defensive rigidity to responsive fluidity.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Polyvagal Theory
@@ -14630,9 +14586,9 @@ URL: https://onda-life.com/glossary/polyvagal-theory
 Category: Neural Hardware
 Short: Stephen Porges' theory of the vagus nerve — three neural states: ventral vagal (safety), sympathetic (mobilization), dorsal vagal (shutdown).
 
-**Polyvagal Theory**, developed by Stephen Porges, describes how the vagus nerve has evolved in layers, each supporting a different survival strategy. The nervous system doesn't simply switch between "on" and "off" — it navigates between distinct physiological states.
+**Polyvagal Theory**, developed by Stephen Porges, proposes that the vagus nerve evolved in layers, each supporting a different survival strategy, and that the nervous system moves between distinct physiological states rather than simply switching "on" and "off". It is a debated model: many physiologists and comparative biologists dispute its anatomical and evolutionary claims. See [The Vagus Nerve](/science/concepts/vagus-nerve) for what is established.
 
-## Three States
+## Three States (as the theory describes them)
 
 | State | Branch | Experience | Behavior |
 |-------|--------|------------|----------|
@@ -14640,9 +14596,9 @@ Short: Stephen Porges' theory of the vagus nerve — three neural states: ventra
 | **Sympathetic** | Spinal nerves | Mobilization | Fight or flight |
 | **Dorsal vagal** | Unmyelinated vagus | Shutdown | Freeze, collapse |
 
-## Key Insight
+## Key Idea of the Theory
 
-We can "drift" between states. The goal is not to eliminate sympathetic activation but to use it skillfully — accessing energy for action without collapsing into panic or rage.
+According to the theory, we can "drift" between states. The goal is not to eliminate sympathetic activation but to use it skillfully — accessing energy for action without collapsing into panic or rage.
 
 ## In ONDA Life
 
@@ -14651,7 +14607,7 @@ In the terms of polyvagal theory (a debated model), Part 4 trains the nervous sy
 ---
 
 ## References
-1. [Porges, Biol Psychol (2007)](https://pubmed.ncbi.nlm.nih.gov/17049418/) — Polyvagal Theory
+1. [Porges, Biol Psychol (2007)](https://pubmed.ncbi.nlm.nih.gov/17049418/) — the theory's own account (a debated model)
 
 ---
 
@@ -14691,7 +14647,7 @@ Part 4 trains "the chain: Reticular Formation → Thalamus → Motor Cortex" so 
 ---
 
 ## References
-1. [Porges, Biol Psychol (2007)](https://pubmed.ncbi.nlm.nih.gov/17049418/) — neuroception and Polyvagal Theory
+1. [Porges, Biol Psychol (2007)](https://pubmed.ncbi.nlm.nih.gov/17049418/) — neuroception and polyvagal theory (a debated model)
 
 ---
 
@@ -14712,9 +14668,6 @@ Short: The brain's ability to reorganize itself by forming new neural connection
 ## In ONDA Life
 
 ONDA practices leverage neuroplasticity at every level. Level 1 interoceptive calibration rewires the brainstem-insula connection. Level 3 cognitive protocols strengthen prefrontal circuits. The entire system is designed to systematically update your "firmware" through repeated, structured practice.
-
-## Scientific Basis
-[Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14782,9 +14735,6 @@ Chronically elevated cortisol is damaging. But in acute, controlled doses, corti
 
 Part 4 "Neuroendocrinology" directly impacts the HPA axis. We teach the body to control cortisol and adrenaline release, turning them "from poison into fuel for precision."
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Proprioception
@@ -14818,9 +14768,6 @@ Nerve damage also matters. Peripheral neuropathy, often linked with diabetes, ca
 
 Part 4 develops proprioception as "a sense of trajectory and the boundaries of one's ‘safety bubble.’" Combined with vestibular precision and diffuse perception, it enables maneuverability — feeling the trajectory and flowing through it.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Lymphatic System
@@ -14845,9 +14792,6 @@ Muscle tone and movement act as a natural pump for lymph. Sedentary states and c
 ## In ONDA Life
 
 Part 4 "Lymphology" uses muscle tone as a natural pump to clear the body of stress metabolic byproducts, ensuring physical freshness even under high-load conditions.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14880,8 +14824,6 @@ Some diseases affect the motor neurons that start here, such as amyotrophic late
 ## In ONDA Life
 
 Part 4 trains the chain "Reticular Formation → Thalamus → Motor Cortex" — enabling reactions "before the thought." The motor cortex executes maneuverability; when fed by rapid neuroception, it produces precise, adaptive responses without slow cognitive filtering.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14916,8 +14858,6 @@ Everyday factors also matter. Sleep supports memory consolidation and the cleari
 ## In ONDA Life
 
 Part 4 "Neurobiology and Neuroception" trains the chain Reticular Formation → Thalamus → Motor Cortex. Understanding neurobiology allows us to target specific circuits — turning scientific knowledge into precise, measurable practices.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14953,8 +14893,6 @@ The cognitive system is affected by both short-term states and long-term factors
 ## In ONDA Life
 
 Part 4 bypasses "slow cognitive filters" for maneuverability. Emotional navigation becomes a sensory process, not a cognitive calculation. The cognitive system remains available for reflection — but doesn't bottleneck action.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -14987,8 +14925,6 @@ Disorders of the stress axis are another example. Cushing's syndrome involves ex
 ## In ONDA Life
 
 Part 4 "Neuroendocrinology" directly impacts the HPA axis. We teach the body to control cortisol and adrenaline release — turning stress hormones from "poison" (chronic elevation) into "fuel for precision" (acute, regulated mobilization).
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15011,9 +14947,6 @@ The **pituitary gland** is a small gland at the base of the brain, often called 
 ## In the HPA Axis
 
 Hypothalamus → CRH → Pituitary → ACTH → Adrenal → Cortisol. The pituitary is the middle link in the stress response chain.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ## Why does the Pituitary Gland matter?
 
 The pituitary gland matters because it controls many of the body's other hormone glands, including the thyroid, adrenal glands, and ovaries or testes. For this reason it is often called the "master gland," though it takes its own orders from the hypothalamus.
@@ -15050,8 +14983,6 @@ The **adrenal glands** are two small glands located above each kidney. Each has 
 ## In ONDA Life
 
 Part 4 teaches the body to control adrenal output. Instead of chronic cortisol and adrenaline release (stress), we develop the ability to mobilize acutely when needed — and return to baseline quickly.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15074,8 +15005,6 @@ Short: Epinephrine — the hormone that mobilizes the body for action; released 
 ## Poison or Fuel?
 
 Chronically elevated adrenaline contributes to anxiety and burnout. But in acute, controlled doses, it sharpens focus and provides energy for precision. Part 4 aims to use adrenaline as "fuel for precision" rather than a trigger for panic.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15109,8 +15038,6 @@ Other conditions include lymphatic filariasis, a parasitic infection common in s
 ## In ONDA Life
 
 Part 4 "Lymphology" uses muscle tone as a natural pump to clear the body of stress metabolic byproducts. Rhythmic movement and optimal muscle tone ensure lymphatic flow — physical freshness even under high-load conditions.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15132,9 +15059,6 @@ Short: Dehydroepiandrosterone — the hormone of vitality and longevity; precurs
 ## Cortisol/DHEA Ratio
 
 Chronic stress shifts adrenal output from DHEA toward cortisol. Part 5 aims to reverse this — the adrenals switch from "emergency cortisol release" to DHEA production, supporting the "winner's state" of calm dominance.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ## Why does DHEA matter?
 
 DHEA matters because it is one of the most abundant steroid hormones in the body and serves as a building block for sex hormones like testosterone and estrogen. It is made mainly by the adrenal glands.
@@ -15210,8 +15134,6 @@ Thymus problems are also linked to autoimmunity. Myasthenia gravis is often asso
 ## In ONDA Life
 
 Part 5 aims to "restore the link between the sense of social safety and a powerful immune response" through the thymus. When the nervous system perceives safety (ventral vagal state), immune function can operate optimally.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15326,8 +15248,6 @@ Stephen Porges' Polyvagal Theory further divides the parasympathetic into ventra
 ## In ONDA Life
 
 In the terms of polyvagal theory (a debated model), Part 5 aims for a ventral-vagal state of "calm alertness" — the heart beats powerfully and steadily, the brain is ready for effective dominance rather than panic.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15335,16 +15255,15 @@ Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges)
 
 URL: https://onda-life.com/glossary/ventral-vagus
 Category: Neural Hardware
-Short: The myelinated vagal branch — supports social engagement, safety, and calm alertness.
+Short: A term from polyvagal theory (a debated model) for myelinated vagal fibres linked in the theory with calm social engagement.
 
-The **ventral vagal** (or ventral vagus) is the myelinated branch of the vagus nerve that supports the "social engagement" state. In Polyvagal Theory, it is the evolutionarily newest branch — enabling connection, safety, and calm presence.
+**Ventral vagus** (or "ventral vagal") is a term from polyvagal theory, a debated model. The theory uses it for myelinated vagal fibres from the brainstem that it links with a "social engagement" state of safety and calm. Outside the theory, the established part is narrower: myelinated vagal fibres from the brainstem slow the heart and help create the breath-linked heart rhythm.
 
-## Characteristics
+## Characteristics in polyvagal theory
 
-- **Myelinated** — fast, precise control
-- **Social engagement** — facial expression, voice tone, listening
-- **Calm alertness** — heart beats powerfully and steadily
-- **Safety** — the body perceives no threat
+- **Myelinated** — fast, precise control (established anatomy)
+- **"Social engagement"** — the theory links this branch with facial expression, voice and listening (a term of the theory)
+- **"Calm alertness"** and **"safety"** — states the theory attributes to this branch (not directly measurable)
 
 ## Why does Ventral Vagus matter?
 
@@ -15362,7 +15281,7 @@ These markers are affected by breathing rate, posture, fitness and other factors
 
 In the terms of polyvagal theory (a debated model), Part 5 "Smart Parasympathetic" targets the Ventral Vagus. This is a state of "calm alertness" — ready for effective dominance rather than panic. The heart beats powerfully and steadily; the brain is primed for presence.
 ## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
+Source of the term: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges) — a debated model. See [The Vagus Nerve](/science/concepts/vagus-nerve) for what is established.
 
 ---
 
@@ -15394,9 +15313,7 @@ Proposals that consciousness depends on quantum processes in the brain, such as 
 
 ## In ONDA Life
 
-Part 5 "Quantum Biology (Coherence)" works on the "density of presence." From a biophotonics perspective, this is high coherence in the electromagnetic field of cells. Your presence becomes palpable to others on a physical level.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
+Part 5 "Quantum Biology (Coherence)" works on the "density of presence." In ONDA's language, this is pictured as high coherence in the electromagnetic field of cells — a metaphor, not a measured effect. The idea that others can sense your presence on a physical level is an unestablished claim, not a finding.
 
 ---
 
@@ -15404,21 +15321,25 @@ Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges)
 
 URL: https://onda-life.com/glossary/coherence
 Category: ONDA Protocol
-Short: Synchronized, ordered oscillation — in physics, biology, and the subjective sense of "density of presence."
+Short: Synchronized, ordered oscillation — in physics, in the heart rhythm during slow breathing, and, as an ONDA image, the sense of "density of presence."
 
-**Coherence** describes a state of synchronized, ordered oscillation — as opposed to random, chaotic fluctuation. In physics, coherent waves align in phase; in biology, coherent systems exhibit coordinated activity.
+**Coherence** describes a state of synchronized, ordered oscillation — as opposed to random, chaotic fluctuation. In physics, coherent waves align in phase; in physiology, the word usually means a measurable heart-rhythm pattern.
 
 ## Levels of Coherence
 
 - **Physical** — laser light, superconducting states
-- **Biological** — heart-brain coherence (HRV), cellular EM field alignment
-- **Psychological** — the subjective sense of "density of presence," integrated awareness
+- **Physiological** — during slow breathing near a person's resonance rate (around 6 breaths per minute), heart rate rises and falls with each breath in a smooth, regular wave, and breathing, heart rate and blood pressure oscillations fall into step. This pattern can be measured from the heart rhythm; see [How Breathing Changes HRV](/science/mechanisms/breathing-and-hrv).
+- **Psychological (an ONDA image)** — the subjective sense of "density of presence," integrated awareness
+
+## What is not established
+
+Popular material often goes further: that the heart and brain lock into phase, that cells align their electromagnetic fields, or that other people can sense your coherence through the heart's field. These are unestablished claims, not findings.
 
 ## In ONDA Life
 
-Part 5 works on "the density of presence" through "high coherence in the electromagnetic field of the cells." Coherent presence is palpable — others register your stability before you speak.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
+During practice with an Apple Watch, the ONDA app shows a live coherence score (it is not available with the phone camera). It is ONDA's own measure of how regular the breath-linked heart rhythm is — a feedback metric, not a clinical biomarker.
+
+In ONDA's language, Part 5 works on "the density of presence" through "high coherence in the electromagnetic field of the cells" — an image for a calm, collected state, not a physical field that other people can detect.
 
 ---
 
@@ -15448,9 +15369,7 @@ Biophotonics is measured with instruments that detect how tissue absorbs, scatte
 
 ## In ONDA Life
 
-Part 5 "Quantum Biology (Coherence)" references biophotonics: "high coherence in the electromagnetic field of the cells" makes your presence palpable. The body's coherent state may be detectable by others at a subtle level.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
+Part 5 "Quantum Biology (Coherence)" borrows biophotonics as an image: "high coherence in the electromagnetic field of the cells" is ONDA's metaphor for presence. The idea that others can detect the body's coherent state is an unestablished claim; there is no evidence for it.
 
 ---
 
@@ -15480,8 +15399,6 @@ The **limbic system** is a network of brain structures involved in emotion, memo
 ## In ONDA Life
 
 Part 5 "Limbic Influence" describes how others register your stability and limbic confidence before you speak. A well-regulated limbic system broadcasts calm dominance — others sense it through limbic-to-limbic communication.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15515,8 +15432,6 @@ Most human evidence instead comes from brain imaging and EEG, which show overlap
 ## In ONDA Life
 
 Part 6 trains the "Mirror Neuron System (Premotor Cortex)" — your "biological Wi-Fi." We develop the ability to instantaneously read the intentions and states of others through micro-expressions and gestures, turning intuition into a precise navigational tool.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15573,8 +15488,6 @@ The **anterior cingulate cortex** (ACC) is a region of the cingulate cortex that
 ## In ONDA Life
 
 Part 6 trains the ACC as the "detector for social errors and signals." We learn "emotional osmosis" — the exchange of states with others — while maintaining autonomy and avoiding being pulled into someone else's chaos.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15652,8 +15565,6 @@ Culture influences which cues people focus on and how they interpret them, so ey
 ## In ONDA Life
 
 Part 6 trains "Social Sensing" through the Anterior Cingulate Cortex — the detector for social errors and signals. We develop the ability to read and broadcast signals of safety and status through the subtlest movements, turning social intuition into a precise navigational tool.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15687,8 +15598,6 @@ Levels are usually lower during calm rest, and slow breathing is associated with
 ## In ONDA Life
 
 Part 7 "Neural Clarity (Norepinephrine)" utilizes norepinephrine modulation to enhance alertness and inhibitory control over impulsive reactions. Metacognitive monitoring trains the medial PFC to separate objective facts from subjective interpretations.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15709,8 +15618,6 @@ The **prefrontal cortex** (PFC) is the front part of the frontal lobe, responsib
 ## In ONDA Life
 
 Part 7 activates the PFC as the "command center for attention and executive functions." We strengthen the link between PFC and Anterior Cingulate Cortex for instantaneous detection of inconsistencies — the foundation of discernment.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15744,8 +15651,6 @@ Over longer periods, aging, some neurological and psychiatric conditions, and al
 ## In ONDA Life
 
 Part 7 targets the dlPFC for "cognitive clarity and focus retention." A well-tuned dlPFC creates the "cognitive gap" between stimulus and reaction — the space for discernment rather than reflexive response.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15780,8 +15685,6 @@ Damage to higher visual areas can cause more specific problems, such as difficul
 ## In ONDA Life
 
 Part 7 "Sensorimotor Integration" develops deep processing of contours, shapes, and movement vectors through the visual cortex (V1–V5). We train the ability to isolate key signals from a dense flow of external stimuli.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15803,8 +15706,6 @@ Short: Real-time feedback of physiological signals — learning to consciously r
 ## In ONDA Life
 
 Biofeedback principles underlie many ONDA practices. Connecting a fitness tracker or smartwatch provides real-time vitals during practice. Part 7 biomarkers (P300, saccadic stability, theta/alpha states) can be measured and trained through biofeedback approaches.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15838,8 +15739,6 @@ Because a single brain response is small compared with background activity, rese
 ## In ONDA Life
 
 Part 7 lists "P300 Amplitude Increase" as a progress biomarker — indicating how quickly and efficiently the brain recognizes a significant stimulus. Higher P300 amplitude suggests improved signal-to-noise optimization and cognitive clarity.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15873,8 +15772,6 @@ Clinicians and researchers look at speed, accuracy, timing and how well people c
 ## In ONDA Life
 
 Part 7 "Saccadic Stability" refers to the precision and controllability of eye micro-movements when scanning space. Training saccadic stability supports perceptual clarity and reduces cognitive load when processing visual information.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15908,8 +15805,6 @@ Clinical and research EEG uses many electrodes and careful setup. Consumer headb
 ## In ONDA Life
 
 Part 7 "Perceptual Stabilization" involves "entering a Theta/Alpha state to ground the mind." Theta supports the transition from reactive thinking to observational presence — the cognitive gap that enables discernment.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15931,8 +15826,6 @@ Short: Brain waves in the 8–12 Hz range — associated with relaxed wakefulnes
 ## In ONDA Life
 
 Part 7 "Perceptual Stabilization" involves "entering a Theta/Alpha state to ground the mind." Alpha supports relaxed alertness — the optimal state for cognitive clarity and signal-to-noise optimization.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15970,8 +15863,6 @@ Anything that strains self-control tends to narrow the space between stimulus an
 ## In ONDA Life
 
 Part 7 ("I Distinguish") aims to create a cognitive gap between stimulus and reaction. Discernment — the ability to see clearly and choose consciously — is the first step toward true mental autonomy. The gap is where freedom of choice is born.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -15997,8 +15888,6 @@ When we engage in focused, goal-directed tasks, the DMN is typically deactivated
 ## In ONDA Life
 
 Part 8 trains the brain to "timely deactivate the Default Mode Network (DMN) — the ‘mind-wandering mode’ — for deep immersion in the task." This enables sustained, voluntary attention.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16035,8 +15924,6 @@ Altered activity in this network has also been reported in ADHD and some other c
 ## In ONDA Life
 
 Part 8 activates the "network of voluntary, directed attention." Training the DAN enables the shift from reactive attention (chaotic) to voluntary attention (controlled) — the heart of "I Focus."
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16058,8 +15945,6 @@ Short: A neurotransmitter that "highlights" relevant neural connections — supp
 ## In ONDA Life
 
 Part 8 "Gamma Binding and Cholinergic Modulation" works with acetylcholine, which "literally ‘highlights’ the necessary neural connections." This supports the assembly of scattered perceptual elements into a single, cohesive image during deep focus.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16093,8 +15978,6 @@ It is also one of the first areas to show changes in Alzheimer's disease, and it
 ## In ONDA Life
 
 Part 8 "Locus Coeruleus" regulates alertness levels through norepinephrine. The ACC monitors distractions and detects errors. Optimal locus coeruleus function supports sustained focus without burnout.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16116,8 +15999,6 @@ Short: The neurotransmitter of motivation and reward — supports working memory
 ## In ONDA Life
 
 Part 8 "Dopamine Calibration" utilizes micro-rewards to maintain high motivation and working memory capacity. This prevents cognitive burnout and supports "Deep Work" mode — sustained focus without excessive strain.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16216,8 +16097,6 @@ The idea of a daytime "basic rest-activity cycle" of about 90 minutes, proposed 
 ## In ONDA Life
 
 Part 8 "Ultradian Optimization" works within natural rhythms (90/20-minute cycles) for the timely restoration of neurotransmitters. Working against these rhythms leads to cognitive burnout; working with them supports neural resilience.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16251,8 +16130,6 @@ Scalp recordings of gamma are easily contaminated by muscle activity, including 
 ## In ONDA Life
 
 Part 8 "Gamma Binding and Cholinergic Modulation" synchronizes neurons at gamma frequency to assemble scattered elements of perception into a single, cohesive image. Combined with acetylcholine, this supports deep focus and unified perceptual experience.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16286,8 +16163,6 @@ Too much cholinergic activity is also harmful. Organophosphate poisoning blocks 
 ## In ONDA Life
 
 Part 8 works with acetylcholine, which "literally ‘highlights’ the necessary neural connections." Cholinergic modulation supports the assembly of scattered perceptual elements into a single, cohesive image during deep focus.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16323,9 +16198,6 @@ Their effects depend on the receptor, not only on the chemical. The same neurotr
 
 Neurotransmitters are hard to measure directly in living people, so most measurements are indirect. PET imaging with radioactive tracers can estimate receptor availability or release in the brain, and magnetic resonance spectroscopy can estimate glutamate and GABA levels in a region. Blood and urine levels of substances like serotonin or their breakdown products mostly reflect activity in the body, not the brain, and say little about mood or focus. Tests sold to "check your neurotransmitters" from urine are not considered reliable by mainstream medicine.
 
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
-
 ---
 
 ### Beta Rhythm
@@ -16356,8 +16228,6 @@ Beta rhythm is measured with electroencephalography (EEG), which records electri
 ## In ONDA Life
 
 Part 8 lists "increased beta-rhythm power in the frontal lobes" as a biological marker of progress. It indicates improved neural resilience — the brain's ability to sustain focus and maintain cognitive control.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16394,8 +16264,6 @@ Injury to prefrontal areas more often causes problems with planning, attention, 
 ## In ONDA Life
 
 Part 8 targets the frontal lobes for "Deep Work" mode. Increased beta-rhythm power in the frontal lobes, along with dlPFC stabilization, supports sustained focus and neural resilience.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16429,8 +16297,6 @@ The hippocampus has many receptors for cortisol, making it sensitive to stress h
 ## In ONDA Life
 
 Part 9 links the hippocampus and medial PFC for "mental modeling" — playing out future scenarios. The hippocampus reconstructs past experiences to model new possibilities, enabling imagination as a tool for behavioral engineering.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16449,11 +16315,15 @@ Short: The brain's model of reality — predicts sensory input and updates based
 - **Efficiency** — only unexpected signals need full processing
 - **Reality as model** — perception is the brain's "best guess"
 
+## Predictive Coding and the Body
+
+Applied to signals from inside the body, this idea becomes "interoceptive inference": the brain predicts heartbeat, breathing and other bodily states, and feelings may reflect those predictions (Seth, 2013; Barrett & Simmons, 2015). These are models — useful frameworks that are still being tested, not established facts. Polyvagal theory is a separate, debated model and is not the basis of predictive coding.
+
 ## In ONDA Life
 
-Part 9 aims to create a "precise Predictive Coding model of reality." Mental simulation and visualization train the brain to generate accurate predictions — enabling proactive mastery and "pre-writing" events at the neural level.
+Part 9 uses mental simulation and visualization practices. ONDA does not measure brain predictions or prediction errors.
 ## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
+Sources: [Seth, Trends Cogn Sci (2013)](https://pubmed.ncbi.nlm.nih.gov/24126130/); [Barrett & Simmons, Nat Rev Neurosci (2015)](https://pubmed.ncbi.nlm.nih.gov/26016744/).
 
 ---
 
@@ -16487,8 +16357,6 @@ Damage can also cause optic ataxia, difficulty reaching accurately for objects t
 ## In ONDA Life
 
 Part 9 engages the PPC for "assembling spatial maps and placing the image within the environmental context." It synchronizes the mental sketch with the body's physiological response — the vision becomes grounded in space.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16522,8 +16390,6 @@ Milder disruptions to arousal systems are linked to excessive daytime sleepiness
 ## In ONDA Life
 
 Part 9 "Proactive Programming (RAS)" tunes the Reticular Activating System to automatically search for opportunities that match the internal vision. The brain begins to notice what aligns with your mental model — turning imagination into a program for reality.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16557,8 +16423,6 @@ Readings have two parts: a slowly changing tonic level and short phasic response
 ## In ONDA Life
 
 Part 9 "Biological Belief" references changes in GSR as an indicator that the body "believes" in the created image as if it were real. When mental simulation is vivid enough, the autonomic system responds — the vision becomes physiologically real.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16580,8 +16444,6 @@ Short: A state of optimal performance — deep immersion, effortless action, and
 ## In ONDA Life
 
 Part 9 lists "Flow State: Predominance of Alpha and Theta rhythms, characteristic of creative flow and insight" as a result. When imagination becomes a precise program and the brain acts as an efficient executor, flow emerges — the vision and action unite.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16603,8 +16465,6 @@ Short: Chemical messengers released by endocrine glands — regulate metabolism,
 ## In ONDA Life
 
 Part 9 "Biochemical Resonance" trains the hypothalamus to generate the "victory state" through hormonal release — even before real action begins. The mental image triggers the same chemical response as actual success.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16638,8 +16498,6 @@ Damage to specific areas can produce more selective problems. Injury in the regi
 ## In ONDA Life
 
 Part 9 engages the occipital cortex for "visualizing and rendering images in the absence of external stimuli" — mental imagery activates the same regions as real vision, creating a tangible internal experience.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16673,8 +16531,6 @@ Some meditation studies have reported higher gamma activity in long-term practit
 ## In ONDA Life
 
 Part 9 describes "instantaneous unification of neural ensembles for a 'flash' of understanding and image integrity." Gamma synchronization enables the mental image to cohere — the vision becomes a single, vivid whole.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16708,8 +16564,6 @@ Development and aging also matter; like other prefrontal areas, it matures into 
 ## In ONDA Life
 
 Part 9 "Mental Modeling" links the hippocampus and medial PFC to "play out future scenarios." The mPFC evaluates and directs the creative process — it is the conductor of the internal "rendering" of reality.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16731,8 +16585,6 @@ Short: Tuning the Reticular Activating System to automatically notice opportunit
 ## In ONDA Life
 
 Part 9 lists "Proactive Programming (RAS)" as a Biological Protocol item. The vision becomes a program; the brain acts as an efficient executor, finding the shortest paths to the goal by automatically detecting relevant signals in the environment.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16754,8 +16606,6 @@ Short: Using cognitive metaphors and new interpretations to alter synaptic conne
 ## In ONDA Life
 
 Part 9 "Neural Reframing" uses cognitive metaphors to alter synaptic connections. Imagination is not idle — it is a biological tool for behavioral engineering. New frames create new neural patterns.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16789,8 +16639,6 @@ Sleep is thought to help consolidate and rebalance synaptic strength, and chroni
 ## In ONDA Life
 
 Part 9 "Neural Reframing" aims to alter synaptic connections through cognitive metaphors. Mental simulation and visualization create new firing patterns — imagination literally rewires the brain at the synaptic level.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16823,8 +16671,6 @@ Writing is often affected in a similar way. Many people improve with speech and 
 ## In ONDA Life
 
 Part 10 engages Broca's area as one of the "centers for assembling and delivering speech structures." Together with Wernicke's area and — in polyvagal terms, a debated model — the Ventral Vagus, it supports sovereign expression — clear, authentic self-expression supported by calm social engagement.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16857,8 +16703,6 @@ Understanding spoken and written language is often impaired, and people may not 
 ## In ONDA Life
 
 Part 10 lists Wernicke's area as part of the "centers for assembling and delivering speech structures." Effective expression requires both production (Broca's) and comprehension (Wernicke's) — you must understand before you speak, and monitor your own output in real time.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16880,8 +16724,6 @@ The **amygdala** is an almond-shaped structure in the temporal lobe, part of the
 ## In ONDA Life
 
 Part 10 aims to "reduce amygdala reactivity to suppress paralyzing social fear." Cognitive Reappraisal is a prefrontal technique that physiologically dampens amygdala activity — replacing fear with excitement. The goal is to exit "social paralysis" and enter sovereign expression.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16915,8 +16757,6 @@ Hyperthyroidism, often from Graves' disease, can cause a fast or irregular heart
 ## In ONDA Life
 
 Part 10 describes the Thyroid as "the driver of metabolic tempo and the energy of manifestation." Optimal thyroid function supports the physical energy needed for vocal projection, presence, and sustained social engagement.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16948,8 +16788,6 @@ Cognitive reappraisal is measured mainly with questionnaires and lab tasks. The 
 ## In ONDA Life
 
 Part 10 lists "Cognitive Reappraisal" as a Biological Protocol item. It is a prefrontal control technique that physiologically dampens amygdala activity, replacing social fear with excitement. You no longer fear being noticed — you use attention as fuel.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -16983,8 +16821,6 @@ For adults, researchers use tests such as "Reading the Mind in the Eyes," where 
 ## In ONDA Life
 
 Part 11 "Cognitive Flexibility (ToM)" trains the ability to "walk in someone else's shoes." The mPFC is the center for understanding the "Self" of another. Theory of Mind is the foundation for instantaneous empathy and nutritious interaction.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17018,8 +16854,6 @@ A classic historical example is Phineas Gage, a 19th-century railroad worker who
 ## In ONDA Life
 
 Part 11 pairs the Orbitofrontal Cortex with the Ventral Vagus (a polyvagal-theory concept, debated) to ensure "social harmony and ethical choices in the moment." The OFC helps prevent interaction from turning into conflict or manipulation.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17053,8 +16887,6 @@ Researchers also use transcranial magnetic stimulation to briefly disrupt the ar
 ## In ONDA Life
 
 Part 11 describes the rTPJ as "a key node for reading non-verbal signals and managing the 'mental model' of others." Together with the mPFC, it enables the balance between autonomy ("I") and deep connection ("We").
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17088,8 +16920,6 @@ Too much vasopressin activity, as in the syndrome of inappropriate antidiuretic 
 ## In ONDA Life
 
 Part 11 references the "Oxytocin-Vasopressin System" as the "biochemical balance between trust and boundary protection." Deep connection (oxytocin) requires healthy boundaries (vasopressin) — preventing either total merging or alienation.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17123,8 +16953,6 @@ Relationship and context may matter too: some studies report stronger synchrony 
 ## In ONDA Life
 
 Part 11 lists "Inter-brain Synchrony" as a target: "the brain rhythms of partners begin to operate in a coherent mode." Biological markers include "synchronization of Heart Rate Variability (HRV) between partners and Alpha-rhythm brain coherence." This is co-resonance at the physiological level.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17139,8 +16967,6 @@ Short: In physics: when two waves overlap, creating a new, complex pattern. In O
 ## In ONDA Life
 
 Part 11 describes the transition from self-expression to **interference** — "the moment when two waves overlap, creating a new, complex pattern." In ONDA, this is the tuning of your "neural Wi-Fi." We learn to be with another so that interaction does not turn into conflict or manipulation, but into co-resonance.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17162,8 +16988,6 @@ Short: Subjective emotional experiences — the felt sense of what we value, des
 ## In ONDA Life
 
 Part 10 aims to "synchronize the heart (feelings), the brain (vision), and the throat (the instrument of manifestation)." Feelings are one pole of the triad — they must align with vision and expression for sovereign manifestation.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17197,8 +17021,6 @@ Researchers disagree about what emotions fundamentally are. The basic-emotion vi
 ## In ONDA Life
 
 The ONDA system works with emotions at multiple levels — from limbic regulation (Parts 4–6) to cognitive reappraisal (Part 10) to empathic calibration (Part 11). Emotions are not enemies to suppress but signals to integrate.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17220,8 +17042,6 @@ Short: Mental representations — ideas, beliefs, inner speech — generated by 
 ## In ONDA Life
 
 Parts 7–9 train the mind to distinguish signal from noise, focus attention, and shape vision through mental simulation. Thoughts become tools rather than masters — you learn to observe and direct them.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17256,8 +17076,6 @@ Physical factors matter too. Sleep loss, illness, pain, medications, and hormona
 ## In ONDA Life
 
 Part 1 "Interoceptive Calibration" develops the ability to feel pulsation, pressure, and internal movement. Part 11 "Interoception in Contact" uses sensations to feel one's own and others' boundaries in real-time. Sensations are the bedrock of self-awareness.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17291,8 +17109,6 @@ Problems can also come from muscles that are too tense rather than too weak. Ove
 ## In ONDA Life
 
 Part 11 "Resonance Strategy" includes "relaxation of the pelvic diaphragm and the release of deep bodily blocks." Chronic stress blocks both the respiratory diaphragm and the pelvic floor; releasing them supports the shift from "social survival" to "social resonance."
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17326,8 +17142,6 @@ Differences in joint attention are not a diagnosis on their own, and they can ha
 ## In ONDA Life
 
 Part 12 "DMN Inhibition and Joint Attention" shifts from protecting personal boundaries to realizing a common goal. Joint Attention forms "a single focus as the group's center of synergy" — the foundation for collective co-creation and We-Consciousness.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17361,8 +17175,6 @@ Measuring endorphins directly is difficult. Blood levels do not reliably reflect
 ## In ONDA Life
 
 Part 12 pairs the "Endorphin-Oxytocin Systems" as the "hormonal glue" of collective cohesion. Celebrating collective victories (Dopaminergic Reinforcement) and synchronized group activities trigger endorphin release — reinforcing cooperative behavior and We-Consciousness.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17396,8 +17208,6 @@ Researchers use statistics such as coherence, phase synchronization, and correla
 ## In ONDA Life
 
 Part 12 "Neural Coupling" practices synchronize attention and breathing rhythms to enter a shared neural field. This is the foundation for collective co-creation — the transition from "I" to "WE" without loss of individuality.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17419,8 +17229,6 @@ Short: The alignment of rhythms across systems — breath, heart, brain waves �
 ## In ONDA Life
 
 Part 9 engages gamma synchronization for image integrity. Part 11 targets HRV synchronization between partners. Part 12 uses "Intentional Synchronization" for seamless joint task execution. Synchronization is the biological substrate of coordination and collective flow.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17454,8 +17262,6 @@ Genetic differences in the receptor gene may shape individual responses, althoug
 ## In ONDA Life
 
 Part 9 links the hippocampus and mPFC for mental modeling. Part 10 "Oxytocin Loops" build social trust. Part 11 "Oxytocin Loop Stimulation" shifts into deep cooperation. Part 12 "Oxytocin Resonance" lowers amygdala reactivity within the group through radical trust. The oxytocin system is central to the transition from "I" to "WE."
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17489,8 +17295,6 @@ Results depend strongly on analysis choices. Good studies compare real pairs aga
 ## In ONDA Life
 
 Part 12 lists "Inter-brain coherence" as a biological marker — alongside group HRV alignment and collective dopamine surges. Together with Gamma Synchronization, it enables collective insight and the instantaneous synthesis of ideas. The group becomes a living neural network.
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17511,9 +17315,6 @@ Short: Internal 24-hour cycles that regulate sleep-wake patterns, hormone levels
 
 - **Light Exposure** — Get bright sunlight within the first 30 minutes of waking to suppress melatonin and set the timer for your sleep cycle.
 - **Blue Light Block** — Limit blue spectrum light 2–3 hours before sleep to initiate the natural recovery process.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -17651,9 +17452,6 @@ It is organized into two main layers of nerve networks in the gut wall: the myen
 When the enteric nervous system is missing or damaged, the gut cannot move its contents normally. In Hirschsprung disease, nerve cells fail to develop in the last part of the colon, causing severe constipation or blockage that usually requires surgery.
 
 In achalasia, loss of nerve cells in the esophagus prevents the lower sphincter from relaxing, making swallowing difficult. Diabetes can damage gut nerves and slow stomach emptying, a condition called gastroparesis. Altered enteric signaling is also studied in irritable bowel syndrome.
-
-## Scientific Basis
-Built on: [Polyvagal Theory](https://pubmed.ncbi.nlm.nih.gov/17049418/) (Porges).
 
 ---
 
@@ -21250,7 +21048,7 @@ Verdict: The most clinically-validated consumer tVNS device — a research-grade
 
 ## Where it leads
 
-Nurosym wins this comparison on the criterion that matters most for medical devices: evidence. The underlying Parasym hardware has been the experimental platform for dozens of published trials of transcutaneous auricular VNS — stimulating the [vagus nerve](/glossary/vagus-nerve) to shift autonomic balance toward the [parasympathetic](/glossary/parasympathetic-nervous-system) branch, with measured [HRV](/glossary/heart-rate-variability) modulation, inflammatory-marker reduction and long-COVID symptom studies — which no other consumer tVNS device can claim. The parameters are documented (25 Hz pulse, 200–1000 µs pulse width, intensity user-titrated), so a clinician or self-experimenter can describe exactly what dose is being delivered.
+Nurosym wins this comparison on the criterion that matters most for medical devices: evidence. The underlying Parasym hardware has been the experimental platform for dozens of published trials of transcutaneous auricular VNS — stimulating the [vagus nerve](/glossary/vagus-nerve), including studies of [HRV](/glossary/heart-rate-variability), inflammatory markers and long-COVID symptoms — a research record no other consumer tVNS device can claim. Being studied is not the same as being proven, though: a living meta-analysis of 16 sham-controlled studies in healthy people (Wolf 2021, *Psychophysiology*) found no reliable effect of ear tVNS on vagally mediated HRV, so do not buy it expecting your HRV to rise. The parameters are documented (25 Hz pulse, 200–1000 µs pulse width, intensity user-titrated), so a clinician or self-experimenter can describe exactly what dose is being delivered.
 
 ## What are the downsides of Nurosym?
 
@@ -21310,7 +21108,7 @@ Verdict: The reference implanted VNS device — the clinical gold standard, not 
 
 ## Where it leads
 
-LivaNova VNS Therapy is included in this list as the reference point — the implanted device that every non-invasive vagus stimulator is trying to approximate at one degree of indirection. A pulse generator the size of a small pocket watch is surgically placed under the left collarbone and wired to the cervical vagus nerve; the device fires on a clinician-programmed duty cycle and (in the SenTiva variant) closes the loop with on-device ECG-based seizure prediction. The evidence base is overwhelming: FDA-approved since 1997 for drug-resistant epilepsy and since 2005 for treatment-resistant depression, with registry data on more than 100,000 implanted patients and hundreds of peer-reviewed studies.
+LivaNova VNS Therapy is included in this list as the reference point — the implanted device that every non-invasive vagus stimulator is trying to approximate at one degree of indirection. A pulse generator the size of a small pocket watch is surgically placed under the left collarbone and wired to the cervical vagus nerve; the device fires on a clinician-programmed duty cycle and (in the SenTiva variant) closes the loop with on-device ECG-based seizure prediction. The evidence base is overwhelming: FDA-approved since 1997 for drug-resistant epilepsy and since 2005 for treatment-resistant depression, with hundreds of peer-reviewed studies; in the manufacturer's patient-outcome registry (5,554 patients), the share of responders rose from 49% in the first 4 months to 63% at 2–4 years, though only about 8% became seizure-free (Englot 2016).
 
 ## What are the downsides of LivaNova VNS Therapy (SenTiva)?
 
@@ -22060,11 +21858,11 @@ The neuroscience these headsets feed back — and the cognitive states the EEG s
 
 URL: https://onda-life.com/reviews/myndlift
 Score: 7.0/10
-Verdict: The most clinically-credible neurofeedback platform — gated by a licensed provider, with real protocols and real outcomes.
+Verdict: The most clinically-credible neurofeedback platform — gated by a licensed provider, with real protocols and outcome tracking.
 
 ## Where it leads
 
-Myndlift is the clinical reference for what neurofeedback can be when an actual clinician designs the protocol and adjusts it week by week. The patient wears a Muse 2 headband (or the multi-site channel extender for richer EEG), runs sessions at home, and the data flows back to the licensed supervising provider — who tunes the protocol, tracks symptom scales (ASRS for ADHD, GAD-7 for anxiety) and reports outcomes. It is the only platform in this category whose pedigree rests on supervised clinical use rather than consumer self-direction.
+Myndlift is the clinical reference for what neurofeedback can be when an actual clinician designs the protocol and adjusts it week by week. The patient wears a Muse 2 headband (or the multi-site channel extender for richer EEG), runs sessions at home, and the data flows back to the licensed supervising provider — who tunes the protocol and tracks symptom scales (ASRS for ADHD, GAD-7 for anxiety). Myndlift states that its programmes improve those symptoms; independent trials of this specific platform are not yet published, and a meta-analysis of neurofeedback trials for ADHD found benefits on symptom ratings by unblinded assessors, usually parents, but not on probably-blinded ratings (Cortese 2016). It is the only platform in this category whose pedigree rests on supervised clinical use rather than consumer self-direction.
 
 ## What are the downsides of Myndlift?
 
@@ -22602,7 +22400,7 @@ Choose The Plunge All-In if cold plunge is a serious daily practice and you want
 
 The biology of why cold exposure works — and the protocols that compound with the hardware.
 
-- [Vagus nerve exercises](/articles/vagus-nerve-exercises) — why cold-water immersion is one of the strongest non-electrical vagal activators
+- [Vagus nerve exercises](/articles/vagus-nerve-exercises) — how cold-water face immersion triggers the vagal diving reflex
 - [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — how cold exposure shapes the cortisol curve
 - [Adrenal governor and thermal runaway](/articles/adrenal-governor-thermal-runaway) — the thermoregulatory side of the stress response
 
