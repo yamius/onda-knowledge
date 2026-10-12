@@ -67,6 +67,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
   - [Illness and HRV: What a Wearable Can and Cannot See](https://onda-life.com/science/mechanisms/illness-and-hrv): How inflammation and infection move HRV and resting heart rate, what wearable alerts actually mean, and why they cannot tell you that you are ill.
   - [Menstrual Cycle and HRV: Why Your Baseline Moves](https://onda-life.com/science/mechanisms/menstrual-cycle-and-hrv): How heart rate variability shifts across the menstrual cycle, why each woman has her own pattern, and what hormonal contraception and menopause change.
   - [HRV and Heart Rate During Sleep: Why the Night Is the Best Window](https://onda-life.com/science/mechanisms/sleep-and-hrv): What happens to heart rate and HRV across the night and sleep stages, why night readings are the steadiest window, and what wearables can and cannot tell.
+  - [Strength Training and HRV: Acute Dip, Slow Gains, Honest Gaps](https://onda-life.com/science/mechanisms/strength-training-and-hrv): What one strength session does to HRV, what is known about long-term training in older adults, and why a rise in young people has not been shown.
   - [Why Is My HRV Low? Common Causes and What the Evidence Shows](https://onda-life.com/science/questions/why-is-my-hrv-low): Low HRV is most often a reaction to sleep, alcohol, illness, stress or training, not a diagnosis. Each cause with its evidence, and when to see a doctor.
 - [Research](https://onda-life.com/research): the evidence ONDA builds on (HRV biofeedback, resonance breathing) and what remains experimental
 - [Articles](https://onda-life.com/articles): long-form knowledge base on HRV, breathwork and nervous-system science
@@ -627,7 +628,7 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Best Infrared Sauna & Sauna (2026)](https://onda-life.com/reviews/compare/best-infrared-sauna-2026): ONDA ranks the ten best saunas of 2026 — Sunlighten, Clearlight, HigherDose, SaunaSpace, Therasage, Sun Home, JNH, Almost Heaven, Relax Sauna and Finnleo. Scored on heat source, build, EMF and value.
 - [Best Smart Sleep Climate Systems (2026)](https://onda-life.com/reviews/compare/best-smart-sleep-climate-2026): ONDA ranks the best smart sleep-climate systems of 2026 — Eight Sleep Pod 6, Pod 4 and Pod 5, ChiliPad, BedJet, Sleep Number Climate360 and more. Scored on climate range, build, app and value.
 - [Best PEMF Devices (2026)](https://onda-life.com/reviews/compare/best-pemf-devices-2026): ONDA ranks the ten best PEMF devices of 2026 — Bemer Classic Evo, Healthy Wave, Pulse Centers, Curatron, iMRS, OMI, EarthPulse, Resona Health, OlyLife, HigherDOSE and MagnaWave. Scored on field strength, waveform research, build and value.
-- [Best Breathwork Apps (2026)](https://onda-life.com/reviews/compare/best-breathwork-apps-2026): ONDA ranks the ten best breathwork apps of 2026 — Breathwrk, Othership, SOMA Breath, Wim Hof Method, Open, Pause, Inhale, Prana Breath, iBreathe and Breathe2Relax. Scored on library, technique coverage, evidence and value.
+- [Best Breathwork Apps (2026)](https://onda-life.com/reviews/compare/best-breathwork-apps-2026): ONDA ranks the ten best breathwork apps of 2026 — Othership, Breathwrk, SOMA Breath, Wim Hof Method, Open, Pause, Inhale, Prana Breath, iBreathe and Breathe2Relax. Scored on library, technique coverage, evidence and value.
 - [Best Red Light Face Masks (2026)](https://onda-life.com/reviews/compare/best-red-light-face-masks-2026): ONDA ranks the ten best red light face masks of 2026 — Omnilux Contour, CurrentBody Series 2, Dr. Dennis Gross, Lumara Viso, TheraFace, HigherDOSE, LightStim, JOVS, Solawave and Shark CryoGlow. Scored on irradiance, wavelength, evidence and value.
 - [Best Mouth Tape & Nasal Breathing Aids (2026)](https://onda-life.com/reviews/compare/best-mouth-tape-nasal-breathing-2026): ONDA ranks the ten best mouth tape and nasal breathing aids of 2026 — Hostage Tape, Somnifix, Dream Recovery, Intake Breathing, Mute, Breathe Right, Nexcare, AYO, SomniFit, The Tape Co. and SleepRight. Scored on adhesion, mechanism, safety and value.
 - [Best Massage Guns (2026)](https://onda-life.com/reviews/compare/best-massage-guns-2026): ONDA ranks the best massage guns of 2026 — led by the new Hypervolt 3 Pro, plus Theragun PRO Plus, Theragun Elite, Achedaway Pro, OPOVE M3 Pro 2, Ekrin B37 and credible budget picks. Scored on stall force, amplitude, build and value.
@@ -756,8 +757,8 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [OlyLife TERA P90 Plus review](https://onda-life.com/reviews/olylife-tera-p90-plus): Popular budget wand combining PEMF with terahertz claims — accessible price, but terahertz marketing overstates the published evidence.
 - [HigherDOSE Infrared PEMF Pro Mat review](https://onda-life.com/reviews/higherdose-pemf-mat): Best consumer-brand PEMF mat — multi-modality, premium consumer build, simple controls. Field intensity and research backing are weaker than Bemer or Healthy Wave.
 - [Qi Coil review](https://onda-life.com/reviews/qi-coil): Marketed as PEMF but built on Rife-frequency and “scalar” claims with no credible evidence — undisclosed field parameters, black-box presets, extreme pricing. A real PEMF mat does more, with actual specs, for less.
-- [Breathwrk review](https://onda-life.com/reviews/breathwrk): Best breathwork library overall — biggest session catalogue, science-informed copy, backed by one published study on cyclic sighing, full technique coverage. A large, long-running library for structured daily practice.
 - [Othership review](https://onda-life.com/reviews/othership): Best premium breathwork experience — music-driven cinematic sessions, live community classes, polished UX. Highest sub price in the category, justified by production value.
+- [Breathwrk review](https://onda-life.com/reviews/breathwrk): A well-priced guided breathing library — exercises, daily classes and programs with a free tier and Peloton inclusion — but no heart-rate or HRV feedback, and its benefit claims go uncited.
 - [SOMA Breath review](https://onda-life.com/reviews/soma-breath): Best for music-paced rhythmic breathwork with global certification community. Less science-informed than Breathwrk, deeper ceremony framing than Othership.
 - [Open review](https://onda-life.com/reviews/open-app): Best hybrid breathwork + meditation + movement experience — premium UX, blended modalities, live classes. Less pure-breathwork depth than Breathwrk.
 - [Wim Hof Method review](https://onda-life.com/reviews/wim-hof-method-app): Best for the Wim Hof Method specifically — official rounds, structured progression, cold-exposure integration. Narrow scope vs Breathwrk’s breadth.
@@ -964,12 +965,12 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Resona Health VIBE vs OlyLife TERA P90 Plus (2026)](https://onda-life.com/reviews/vs/resona-health-vibe-vs-olylife-tera-p90-plus): Resona Health VIBE wins on protocol depth, research honesty and distribution model. OlyLife is acceptable only if you explicitly discount the terahertz marketing.
 - [Resona VIBE vs HigherDOSE PEMF Mat (2026)](https://onda-life.com/reviews/vs/resona-health-vibe-vs-higherdose-pemf-mat): No overall winner — Resona VIBE is the smarter low-cost way to find out whether PEMF helps you, while the HigherDOSE PEMF Mat is for people who already want a daily whole-body, heated recovery session.
 - [Bemer Classic Evo vs Healthy Wave vs Pulse Centers (2026)](https://onda-life.com/reviews/vs/bemer-classic-evo-vs-healthy-wave-multi-wave-vs-pulse-centers-pulse-xl-pro): Three different buying questions resolve cleanly. Bemer for daily passive use with a proprietary signal. Healthy Wave for modality stacking at half the price. Pulse Centers for high-intensity targeted clinical work.
-- [Breathwrk vs Othership (2026)](https://onda-life.com/reviews/vs/breathwrk-vs-othership): Structured library vs cinematic experience. Breathwrk for the largest structured catalogue, with science-informed copy backed by one published study on cyclic sighing, at the best premium price. Othership for music-driven premium experience with live community.
-- [Breathwrk vs SOMA Breath (2026)](https://onda-life.com/reviews/vs/breathwrk-vs-soma-breath): Structured library vs rhythmic music. Breathwrk for the largest science-informed library at $49/year. SOMA Breath for beat-paced rhythmic breathwork with facilitator certification community.
+- [Breathwrk vs Othership (2026)](https://onda-life.com/reviews/vs/breathwrk-vs-othership): Othership scores higher overall (7.7 vs 7.5): a larger library, cinematic production and live community. Breathwrk is the budget pick — a guided library with a free plan at about $49/year.
+- [Breathwrk vs SOMA Breath (2026)](https://onda-life.com/reviews/vs/breathwrk-vs-soma-breath): Close overall (7.5 vs 7.3). Breathwrk for an affordable guided library with a free plan at about $49/year. SOMA Breath for beat-paced rhythmic breathwork with a facilitator certification community.
 - [Othership vs Open (2026)](https://onda-life.com/reviews/vs/othership-vs-open-app): Pure breathwork vs hybrid platform. Othership for cinematic music-driven breathwork with strongest community. Open for the single-app breath + meditation + movement stack.
 - [Wim Hof Method vs SOMA Breath (2026)](https://onda-life.com/reviews/vs/wim-hof-method-app-vs-soma-breath): Method purity vs music layering. Wim Hof Method app for the official WHM with structured progression and cold-exposure integration. SOMA Breath for rhythmic music breathwork that includes WHM-style rounds inside broader pranayama context.
 - [iBreathe vs Breathe2Relax (2026)](https://onda-life.com/reviews/vs/ibreathe-vs-breathe-to-relax): Modern minimalist vs clinical roots. iBreathe for clean modern UI with visual breath guide. Breathe2Relax for clinically designed diaphragmatic breathing in a dated UI.
-- [Breathwrk vs Othership vs Wim Hof Method (2026)](https://onda-life.com/reviews/vs/breathwrk-vs-othership-vs-wim-hof-method-app): Three different jobs, three right answers. Breathwrk for the broadest structured library; Othership for music-driven sessions and live classes; the Wim Hof Method app for the Wim Hof method specifically — and, at $42.99 a year, the cheapest subscription of the three.
+- [Breathwrk vs Othership vs Wim Hof Method (2026)](https://onda-life.com/reviews/vs/breathwrk-vs-othership-vs-wim-hof-method-app): Three different jobs, three right answers. Othership scores highest overall (7.7) for its library, music-driven sessions and live classes; Breathwrk (7.5) for an affordable guided routine with a free plan; the Wim Hof Method app for the Wim Hof method specifically — and, at $42.99 a year, the cheapest subscription of the three.
 - [Omnilux Contour Face vs CurrentBody Series 2 (2026)](https://onda-life.com/reviews/vs/omnilux-contour-face-vs-currentbody-series-2): Price vs consumer features. Omnilux Contour Face for the lower face-only price. CurrentBody Series 2 for integrated neck flap and largest consumer customer base.
 - [Omnilux Contour Face vs Dr. Dennis Gross SpectraLite (2026)](https://onda-life.com/reviews/vs/omnilux-contour-face-vs-dr-dennis-gross-spectralite): Comfort vs spectrum scope. Omnilux Contour Face for silicone comfort (the most comfortable in our assessment) and red + near-infrared light. Dr. Dennis Gross for dermatology-brand pedigree with dual red + blue protocols.
 - [CurrentBody Series 2 vs HigherDOSE Red Light Face Mask (2026)](https://onda-life.com/reviews/vs/currentbody-series-2-vs-higherdose-red-light-face-mask): CurrentBody Series 2 wins on integrated neck flap, higher LED dose and market-feedback refinement. HigherDOSE wins on price and HigherDOSE-ecosystem fit.
@@ -7712,7 +7713,7 @@ So a population rule is the wrong tool. The only cutoff that means anything is *
 
 This is a measurement problem, and it's a solvable one. Build a **[personal baseline](/science/concepts/hrv-baseline)** — your normal resting heart rate, variability and breathing rate — then watch what a late cup does to it. A night after a 4 p.m. coffee that reads with a higher resting pulse or a lower [HRV](/glossary/heart-rate-variability) than your corridor is your body drawing the line for you.
 
-ONDA reads those overnight signals from Apple Health (Apple Watch or another tracker that syncs there), or your resting numbers from the phone camera, and holds your corridor, so a late-caffeine night shows up as a visible departure from *your* normal rather than an abstract worry — [your data, your line](/measurements). Move the cup earlier, watch the night come back into the corridor, and you've found your cutoff empirically instead of guessing.
+ONDA reads those signals in Apple Health (Apple Watch or another tracker that syncs there), or your resting numbers from the phone camera, and holds your corridor, so a late-caffeine night shows up as a visible departure from *your* normal rather than an abstract worry — [your data, your line](/measurements). Move the cup earlier, watch the night come back into the corridor, and you've found your cutoff empirically instead of guessing.
 
 The honest caveat: caffeine affects sleep and recovery, but it isn't a medical hazard for most people and ONDA isn't diagnosing anything — it's showing you a lifestyle input written into your own numbers. For the adenosine-and-sleep-pressure side of the same molecule, see [caffeine's half-life and sleep pressure](/articles/caffeine-half-life-sleep-pressure).
 
@@ -7909,7 +7910,7 @@ You can test your response by comparing early-dinner nights with late-dinner nig
 4. **Compare overnight resting heart rate and HRV** on the two kinds of nights against [your normal range](/science/concepts/hrv-baseline), plus how you slept.
 5. **Look for a consistent pattern**, not one bad night — single nights are noisy.
 
-ONDA reads overnight heart rate, HRV and [respiratory rate](/science/measurements/respiratory-rate) from Apple Health (Apple Watch or another tracker that syncs there) and holds a personal 14-day baseline, so a late, heavy dinner shows up as a departure from your own corridor rather than from a population average — [see what ONDA measures](/measurements). It is descriptive, not diagnostic: ONDA doesn’t diagnose reflux, metabolic conditions or anything else.
+ONDA reads heart rate, HRV and [respiratory rate](/science/measurements/respiratory-rate) from Apple Health (Apple Watch or another tracker that syncs there) and holds a personal 14-day baseline, so a late, heavy dinner shows up as a departure from your own corridor rather than from a population average — [see what ONDA measures](/measurements). It is descriptive, not diagnostic: ONDA doesn’t diagnose reflux, metabolic conditions or anything else.
 
 ---
 
@@ -10157,7 +10158,7 @@ For readings closest to a lab ECG at rest, an ECG chest strap such as the Polar 
 
 ### Should I look at a single HRV reading or the trend?
 
-The trend. Day-to-day HRV moves a lot for ordinary reasons, so one morning tells you little. Compare each reading with your own recent range: the ONDA app, for example, compares each night with your corridor (the average of your recent nights ± one standard deviation), needs at least 7 nights and builds the baseline over 14 days. [See your two-week range →](/tools/baseline)
+The trend. Day-to-day HRV moves a lot for ordinary reasons, so one morning tells you little. Compare each reading with your own recent range: the ONDA app, for example, compares your latest day of data with your corridor (the average of your earlier days with enough data ± one standard deviation), needs at least 7 earlier days with enough data plus the latest day and builds the baseline over 14 days. [See your two-week range →](/tools/baseline)
 
 ### How many days of data make an HRV baseline?
 
@@ -12491,7 +12492,7 @@ If you stop breathing during sleep according to a partner, wake up choking or ga
 
 ## Your nights, ready for a specialist
 
-ONDA builds your [personal baseline](/science/concepts/hrv-baseline) for nightly resting heart rate, HRV and breathing from Apple Health — from your Apple Watch or another tracker that syncs there — marks the nights you left your usual range, and lets you add notes on what happened. You can export any period as a PDF — generated on your device and shared only by you — so a sleep specialist sees weeks of your nights, not just one night's memory.
+ONDA builds your [personal baseline](/science/concepts/hrv-baseline) for resting heart rate, HRV and breathing from values in Apple Health — from your Apple Watch or another tracker that syncs there — marks the nights you left your usual range, and lets you add notes on what happened. You can export any period as a PDF — generated on your device and shared only by you — so a sleep specialist sees weeks of your nights, not just one night's memory.
 
 *ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose sleep disorders. This article is general information, not medical advice. If you have symptoms such as breathing pauses in sleep or dangerous daytime sleepiness, see a doctor promptly.*
 
@@ -12997,7 +12998,7 @@ Seek emergency care for severe breathlessness, difficulty speaking in full sente
 
 ## Your breathing, on one page
 
-ONDA builds your personal baseline for night-time breathing rate, resting heart rate and HRV from Apple Health — from your Apple Watch or another tracker that syncs there — marks the days you left your usual range, and lets you note triggers and symptoms. You can export any period as a PDF, generated on your device and shared only by you, so a lung specialist sees how your breathing behaved over weeks — not just on the day of the test.
+ONDA builds your personal baseline for breathing rate, resting heart rate and HRV from values in Apple Health — from your Apple Watch or another tracker that syncs there — marks the days you left your usual range, and lets you note triggers and symptoms. You can export any period as a PDF, generated on your device and shared only by you, so a lung specialist sees how your breathing behaved over weeks — not just on the day of the test.
 
 *ONDA is a breathing and HRV biofeedback app, not a medical device, and does not diagnose lung conditions. This article is general information, not medical advice. During an asthma attack, use your reliever and follow your action plan; seek emergency care for severe breathlessness.*
 
@@ -23916,34 +23917,6 @@ Only for someone who wants a portable frequency gadget and a big preset library 
 
 ---
 
-### Breathwrk review
-
-URL: https://onda-life.com/reviews/breathwrk
-Score: 8.4/10
-Verdict: Best breathwork library overall — biggest session catalogue, science-informed copy, backed by one published study on cyclic sighing, full technique coverage. A large, long-running library for structured daily practice.
-
-## Where it leads
-
-Breathwrk is a large structured-breathwork library — biggest library, broadest technique coverage, science-informed copy backed by one published study on cyclic sighing. The Stanford cyclic-sighing trial is cited properly; the copy also leans on polyvagal theory (a debated model) and Huberman lab protocols, which earn no evidence credit in our scoring. The library size and Apple Watch native support make it the rational default for daily breathwork practice.
-
-## What are the downsides of Breathwrk?
-
-No community or live-session layer (Othership's differentiator), no HRV-driven session adaptation (Inhale's differentiator), and less holotropic / emotional-release focus than Pause or SOMA. Breathwrk is excellent for structured daily practice; it's not the right shape for deep emotional-release sessions or for community-driven breathwork culture.
-
-## Who should buy Breathwrk?
-
-Choose Breathwrk if you want the largest structured library and science-informed copy, backed by one published study on cyclic sighing, at the best premium-tier price. For community + music-driven sessions, Othership. For HRV biofeedback, Inhale. For emotional release, Pause Breathwork. For free entry, iBreathe or Breathe2Relax.
-
----
-
-## Background reading
-
-- [Phase-locked acoustic sleep](/articles/phase-locked-acoustic-sleep) — breathwork pairs with audio entrainment for sleep onset
-- [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — vagal tone and parasympathetic activation
-- [Does sleep really clean your brain? The glymphatic evidence](/articles/nightly-flush-glymphatic-neural-cache) — what is shown in people, and what is still disputed
-
----
-
 ### Othership review
 
 URL: https://onda-life.com/reviews/othership
@@ -23969,6 +23942,34 @@ Choose Othership if you want breathwork as cinematic experience with music and l
 - [Phase-locked acoustic sleep](/articles/phase-locked-acoustic-sleep) — why music + breath pair for nervous-system regulation
 - [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — vagal tone and parasympathetic activation
 - [Ancestral sync — circadian anchors](/articles/ancestral-sync-circadian-anchors) — why community ritual pairs with circadian alignment
+
+---
+
+### Breathwrk review
+
+URL: https://onda-life.com/reviews/breathwrk
+Score: 7.5/10
+Verdict: A well-priced guided breathing library — exercises, daily classes and programs with a free tier and Peloton inclusion — but no heart-rate or HRV feedback, and its benefit claims go uncited.
+
+## Where it leads
+
+Breathwrk is an affordable guided breathing library. The official site lists 50+ exercises on the free plan and 100+ on Pro, with daily video classes and multi-day programs; named techniques include box breathing, 4-7-8, humming and long-exhale patterns. It runs on iOS, Android, the web, Mac and Vision, and Pro is included for Peloton All-Access, Guide and App+ members (official site and App Store, accessed 2026-10-11).
+
+## What are the downsides of Breathwrk?
+
+It measures no heart rate or HRV and has no Apple Watch app, so it cannot show how your body responds (Inhale's differentiator). Its App Store copy says the exercises improve HRV, heart rate and blood pressure without citing studies. There is no community or live-session layer (Othership's differentiator), and less holotropic / emotional-release focus than Pause or SOMA. Breathwrk is excellent for structured daily practice; it's not the right shape for deep emotional-release sessions or for community-driven breathwork culture.
+
+## Who should buy Breathwrk?
+
+Choose Breathwrk if you want an affordable guided routine — exercises, daily classes and programs — with a free plan to start. For community + music-driven sessions, Othership. For HRV biofeedback, Inhale. For emotional release, Pause Breathwork. For free entry, iBreathe or Breathe2Relax.
+
+---
+
+## Background reading
+
+- [Phase-locked acoustic sleep](/articles/phase-locked-acoustic-sleep) — breathwork pairs with audio entrainment for sleep onset
+- [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — vagal tone and parasympathetic activation
+- [Does sleep really clean your brain? The glymphatic evidence](/articles/nightly-flush-glymphatic-neural-cache) — what is shown in people, and what is still disputed
 
 ---
 
@@ -25747,11 +25748,11 @@ Bemer leads the premium tier on build and brand; Healthy Wave wins on modality s
 ### Best Breathwork Apps (2026)
 
 URL: https://onda-life.com/reviews/compare/best-breathwork-apps-2026
-Intro: Breathwork went from niche somatic-therapy modality to mainstream nervous-system tool in 2024–2026, driven by the Stanford cyclic-sighing research and the Wim Hof / Othership crossover into recovery culture. The app market split into clean tiers: premium structured libraries (Breathwrk), premium music-driven cinematic experiences (Othership, SOMA Breath, Open), official single-method apps (Wim Hof Method), somatic / emotional-release niches (Pause), HRV-biofeedback specialists (Inhale), pattern customisers (Prana Breath) and the free tier (iBreathe, Breathe2Relax). We scored the ten most credible apps of 2026 against the same six axes: session library, technique coverage, evidence grounding, app experience, biofeedback integration and value.
+Intro: Breathwork went from niche somatic-therapy modality to mainstream nervous-system tool in 2024–2026, driven by the Stanford cyclic-sighing research and the Wim Hof / Othership crossover into recovery culture. The app market split into clean tiers: structured guided libraries (Breathwrk), premium music-driven cinematic experiences (Othership, SOMA Breath, Open), official single-method apps (Wim Hof Method), somatic / emotional-release niches (Pause), HRV-biofeedback specialists (Inhale), pattern customisers (Prana Breath) and the free tier (iBreathe, Breathe2Relax). We scored the ten most credible apps of 2026 against the same six axes: session library, technique coverage, evidence grounding, app experience, biofeedback integration and value.
 
 ## The short answer
 
-The best breathing app for most people is **Breathwrk**: the largest structured library and the broadest set of techniques for about $49 a year. If you want music-led, cinematic sessions, choose **Othership**. If you want the app to measure your body while you breathe, choose **Inhale**, which uses Apple Watch HRV. If you do not want to pay, **iBreathe** and **Breathe2Relax** are free and do the basics well.
+The highest-scoring breathing app is **Othership**, for music-led, cinematic sessions and live classes. If you want a cheaper guided library with a free tier, choose **Breathwrk** (about $49 a year). If you want the app to measure your body while you breathe, choose **Inhale**, which uses Apple Watch HRV. If you do not want to pay, **iBreathe** and **Breathe2Relax** are free and do the basics well.
 
 ## What do breathing exercises actually do?
 
@@ -25773,7 +25774,7 @@ Read more: [the physiological sigh](/articles/physiological-sigh), [box breathin
 
 | App | Price | Platform note | Best for |
 |---|---|---|---|
-| [Breathwrk](/reviews/breathwrk) | $49/yr, free tier | phone app | structured daily practice |
+| [Breathwrk](/reviews/breathwrk) | $49/yr, free tier | iOS, Android, web | guided daily practice on a budget |
 | [Othership](/reviews/othership) | $129.99/yr, 5 free sessions | phone app | music-led sessions, live classes |
 | [SOMA Breath](/reviews/soma-breath) | $99/yr, free trial | phone app | rhythmic, music-paced breathing |
 | [Wim Hof Method](/reviews/wim-hof-method-app) | $42.99/yr, free tier | phone app | Wim Hof rounds and cold protocols |
@@ -25796,13 +25797,13 @@ All ten were assessed from app documentation, App Store listings, founder public
 
 Three buying questions resolve the category cleanly:
 
-**What do you want from breathwork?** Structured nervous-system protocol → Breathwrk. Cinematic music + community → Othership. Single-method depth (Wim Hof) → Wim Hof Method app. Somatic / emotional release → Pause. HRV biofeedback → Inhale. Hybrid breath + meditation + movement → Open.
+**What do you want from breathwork?** Cinematic music + community → Othership. Guided daily practice on a budget → Breathwrk. Single-method depth (Wim Hof) → Wim Hof Method app. Somatic / emotional release → Pause. HRV biofeedback → Inhale. Hybrid breath + meditation + movement → Open.
 
 **What budget?** Free: iBreathe, Breathe2Relax, Prana Breath (mostly). $40–$60/yr: Wim Hof Method ($42.99, courses extra), Breathwrk ($49), Inhale ($60). $90–$130/yr: Pause, SOMA Breath, Open, Othership ($129.99).
 
 **Platform?** All major apps cover iOS + Android. Prana Breath is the best Android-first option. Inhale requires Apple Watch for its biofeedback differentiator.
 
-Breathwrk dominates the structured-library default. Othership owns the cinematic-experience premium tier. The free tier (iBreathe, Breathe2Relax) is credible. Skip apps that overstate physiological claims or hide behind ceremony framing without instructor credentials.
+Othership leads overall and owns the cinematic-experience premium tier. Breathwrk is the budget guided-library default. The free tier (iBreathe, Breathe2Relax) is credible. Skip apps that overstate physiological claims or hide behind ceremony framing without instructor credentials.
 
 ---
 
