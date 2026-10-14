@@ -703,11 +703,11 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [FocusCalm review](https://onda-life.com/reviews/focuscalm): Content-driven EEG headband — accessible price, decent app, single-channel signal limits the depth.
 - [Flow Neuroscience review](https://onda-life.com/reviews/flow-neuroscience): Not EEG — clinical tDCS for depression, with the strongest regulatory and trial backing in this list.
 - [NeuroSky MindWave Mobile 2 review](https://onda-life.com/reviews/neurosky-mindwave-mobile-2): The cheapest legitimate consumer EEG headset — single-channel, basic, but with an open SDK for developers and learners.
-- [PlatinumLED BIOMAX 600 review](https://onda-life.com/reviews/platinumled-biomax-600): Strong mid-size panel with the richest wavelength spectrum and clean EMF discipline. Joovv-class build at a tier-lower price.
 - [Mito Red MitoPRO 1500 review](https://onda-life.com/reviews/mito-red-mitopro-1500): The biohacker-favourite large panel — now six wavelengths in its 1500X form, and $400 cheaper than Joovv Solo 3.0.
+- [PlatinumLED BIOMAX 600 review](https://onda-life.com/reviews/platinumled-biomax-600): Strong mid-size panel with the richest wavelength spectrum and clean EMF discipline. Joovv-class build at a tier-lower price.
 - [RubyLx Lyra Pro review](https://onda-life.com/reviews/rubylx-lyra-pro): The testing-transparency premium pick — third-party verified on every spec, premium-priced, smaller brand than Joovv.
-- [Joovv Solo 3.0 review](https://onda-life.com/reviews/joovv-solo-3): A long-running, widely used panel — modular, well-built, fairly measured irradiance. Most expensive in this list, mostly justified.
 - [Infraredi Pro 1500 review](https://onda-life.com/reviews/infraredi-pro-1500): Strong large-panel value pick — Joovv-class size at meaningfully lower price, with the trade being a less mature brand.
+- [Joovv Solo 3.0 review](https://onda-life.com/reviews/joovv-solo-3): A long-running, widely used panel — modular, well-built, fairly measured irradiance. Most expensive in this list, mostly justified.
 - [GembaRed Vesta review](https://onda-life.com/reviews/gembared-vesta): The build-and-EMF specialist of the category — fully-shielded, six-wavelength, founder-engineered. Premium pricing for premium engineering rigour.
 - [BioLight Pro 900 review](https://onda-life.com/reviews/biolight-pro-900): Solid mid-size Joovv alternative — competent build, two-wavelength coverage, no standout differentiator at the price.
 - [Hooga HG500 review](https://onda-life.com/reviews/hooga-hg500): The budget biohacker reference — solid build, honest specs, about a fifth of the cost of Joovv with most of the basic spec intact.
@@ -729,19 +729,19 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [SaunaSpace Faraday review](https://onda-life.com/reviews/saunaspace-faraday): The biohacker premium near-IR sauna — incandescent emitters, full Faraday cage, distinct from full-spectrum IR.
 - [Sun Home Equinox review](https://onda-life.com/reviews/sun-home-equinox): A capable newer entrant — full-spectrum IR with bundled chromotherapy and sound, price-disciplined relative to category leaders.
 - [HigherDose Infrared Sauna Blanket V4 review](https://onda-life.com/reviews/higherdose-blanket-v4): The portable IR sauna blanket that turned consumer IR mainstream — far IR only, low EMF, accessible price.
-- [Clearlight Sanctuary 2 review](https://onda-life.com/reviews/clearlight-sanctuary-2): The closest premium competitor to Sunlighten — full-spectrum IR, low-EMF/ELF design and a lifetime warranty, in a compact 2-person cabin that runs on a 120 V/20 A circuit.
 - [Therasage TheraSauna Personal review](https://onda-life.com/reviews/therasage-thera-sauna-personal): A solid mid-tier biohacker IR sauna — full-spectrum, decent EMF discipline, accessible price for the tier.
+- [Clearlight Sanctuary 2 review](https://onda-life.com/reviews/clearlight-sanctuary-2): The closest premium competitor to Sunlighten — full-spectrum IR, low-EMF/ELF design and a lifetime warranty, in a compact 2-person cabin that runs on a 120 V/20 A circuit.
 - [JNH Lifestyles Joyous review](https://onda-life.com/reviews/jnh-lifestyles-joyous): The credible budget cabin IR sauna — far-IR only, Canadian hemlock build, accessible price.
 - [Relax Sauna Portable review](https://onda-life.com/reviews/relax-sauna-portable): The veteran portable far-IR sauna — chair-and-tent design, low EMF, niche but real product.
 - [ChiliPad Dock Pro review](https://onda-life.com/reviews/chilipad-dock-pro): The subscription-free water-cooled alternative to Eight Sleep — premium climate, no ongoing fees, no HRV tracking.
 - [Eight Sleep Pod 6 review](https://onda-life.com/reviews/eight-sleep-pod-6): The most sensible Eight Sleep yet — the Pod 6 shrinks the hub by half, adds 9x more sensors, changes temperature 20% faster and, for the first time, sells single-sleeper Solo sizes from $1,999, while the dual-zone queen drops to $2,899. The catch is unchanged: an Autopilot membership ($199–$399/year) is mandatory, and the warranty length depends on which tier you pay for.
+- [Eight Sleep Pod 4 review](https://onda-life.com/reviews/eight-sleep-pod-4): The category-defining smart sleep-climate system — dual-zone water cooling/heating, HRV tracking, subscription required.
 - [Eight Sleep Pod Cover Pro review](https://onda-life.com/reviews/eight-sleep-pod-cover-pro): Pod 4 climate and tracking on your existing mattress — cheaper entry into the Eight Sleep ecosystem.
 - [OOLER Sleep System review](https://onda-life.com/reviews/ooler-sleep-system): Legacy Sleepme water-cooled system — solid track record, app scheduling, superseded by Dock Pro for new buyers.
 - [ChiliPad Cube review](https://onda-life.com/reviews/chilipad-cube): The budget water-cooled pad — real water cooling for $719 a side, but remote-only, no scheduling and a warmer coldest setting than Chilipad 2.0.
 - [BedJet 3 review](https://onda-life.com/reviews/bedjet-3): The air-flow alternative to water-cooled systems — no water management, more affordable, less rigorous temperature control.
-- [Eight Sleep Pod 4 review](https://onda-life.com/reviews/eight-sleep-pod-4): The category-defining smart sleep-climate system — dual-zone water cooling/heating, HRV tracking, subscription required.
-- [Eight Sleep Pod 5 review](https://onda-life.com/reviews/eight-sleep-pod-5): The maximal Eight Sleep — the Pod 5 Ultra adds an adjustable base, a top-down hydro-powered blanket, built-in audio and snore mitigation, but at $6,099+ the price roughly doubles. The core dual-zone climate and HRV tech are the same as the Pod 4, which remains the value. Note: Eight Sleep replaced the Pod 5 with the Pod 6 on 23 September 2026 — check remaining Pod 5 stock against Pod 6 pricing.
 - [Eight Sleep Pod 3 review](https://onda-life.com/reviews/eight-sleep-pod-3): Pod 4 capability at Pod 3 prices — solid value when discounted, slightly less rigorous climate range than Pod 4.
+- [Eight Sleep Pod 5 review](https://onda-life.com/reviews/eight-sleep-pod-5): The maximal Eight Sleep — the Pod 5 Ultra adds an adjustable base, a top-down hydro-powered blanket, built-in audio and snore mitigation, but at $6,099+ the price roughly doubles. The core dual-zone climate and HRV tech are the same as the Pod 4, which remains the value. Note: Eight Sleep replaced the Pod 5 with the Pod 6 on 23 September 2026 — check remaining Pod 5 stock against Pod 6 pricing.
 - [Sleep Number Climate360 review](https://onda-life.com/reviews/sleep-number-climate360): Smart-bed approach to sleep climate — climate built into the mattress, not added as a layer. Premium pricing.
 - [Slumber Cloud DryLine Cooling Sheets review](https://onda-life.com/reviews/slumber-cloud-dryline): Cooling sheets, not active climate — meaningful passive heat dissipation at the budget tier.
 - [Tempur-Breeze Pro Cooling Mattress review](https://onda-life.com/reviews/tempur-breeze-pro): Passive cooling — not active climate. Premium Tempur build that runs cooler than standard memory foam without a hub.
@@ -771,8 +771,8 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Lumara Viso review](https://onda-life.com/reviews/lumara-viso): Highest LED count in 2026 — 470 LEDs in flexible silicone with neck coverage. Premium pricing; no published trial of the mask itself.
 - [Omnilux Contour Face review](https://onda-life.com/reviews/omnilux-contour-face): Flexible silicone with the standard red + near-infrared pair, FDA-cleared for wrinkles (510(k) K191629). No published trial of the Contour itself; Omnilux's published studies are on other models.
 - [Dr. Dennis Gross SpectraLite FaceWare Pro review](https://onda-life.com/reviews/dr-dennis-gross-spectralite): Best dermatology-brand pedigree — FDA-cleared per the brand, dual red + blue protocol (anti-aging + acne), hard-shell build. Less comfortable than silicone alternatives.
-- [TheraFace Mask review](https://onda-life.com/reviews/theraface-mask): Best Therabody-brand crossover into face masks — three-wavelength coverage, premium build, brand pedigree from massage gun category. Research is brand-funded.
 - [HigherDOSE Red Light Face Mask review](https://onda-life.com/reviews/higherdose-red-light-face-mask): Best consumer-brand UX in red light masks — simple controller, flexible silicone, brand-stated 50 mW/cm². Light clinical evidence; brand polish over technical depth.
+- [TheraFace Mask review](https://onda-life.com/reviews/theraface-mask): Best Therabody-brand crossover into face masks — three-wavelength coverage, premium build, brand pedigree from massage gun category. Research is brand-funded.
 - [LightStim for Wrinkles review](https://onda-life.com/reviews/lightstim-for-wrinkles): Four-wavelength red + near-infrared handheld, FDA-cleared (K120775; current model K261482), at accessible pricing — but no published trials of the device itself. Handheld form factor means active positioning per session.
 - [JOVS DPL Photofacial Mask review](https://onda-life.com/reviews/jovs-dpl-photofacial-mask): Best multi-wavelength spec for the price — Korean K-beauty tech with seven wavelength modes. Light clinical-evidence moat; brand newer than category references.
 - [Shark CryoGlow review](https://onda-life.com/reviews/shark-cryoglow): Most novel form factor in 2026 — active cooling combined with red + blue LED. Cooling is the differentiator; LED dose is modest by design.
@@ -918,7 +918,7 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Sleep Cycle vs Sleep as Android vs AutoSleep (2026)](https://onda-life.com/reviews/vs/sleep-cycle-vs-sleep-as-android-vs-autosleep): Platform decides. Sleep Cycle for cross-platform (iPhone or Android). Sleep as Android for Android-only deep customisation. AutoSleep for iPhone users with an Apple Watch.
 - [Endel vs Pzizz vs BetterSleep (2026)](https://onda-life.com/reviews/vs/endel-vs-pzizz-vs-bettersleep): Different audio philosophies. Endel for ambient generative soundscapes. Pzizz for dreamscape voice-and-music sleep onset. BetterSleep for a deep mixable content library.
 - [Eight Sleep Pod 4 vs ChiliPad Dock Pro (2026)](https://onda-life.com/reviews/vs/eight-sleep-pod-4-vs-chilipad-dock-pro): Subscription preference decides. Eight Sleep Pod 4 for integrated HRV/sleep tracking and Autopilot climate scheduling — accept the ongoing membership. ChiliPad Dock Pro for the same water-cooled climate without subscription and without tracking (pair with an Oura or Whoop you already wear).
-- [Eight Sleep Pod 4 vs Pod Cover Pro (2026)](https://onda-life.com/reviews/vs/eight-sleep-pod-4-vs-eight-sleep-pod-cover-pro): Mattress status decides. Pod 4 if you're replacing your mattress anyway and want the integrated build. Pod Cover Pro if you have a mattress you like and want the climate + tracking on it for ~40% less.
+- [Eight Sleep Pod 4 vs Pod Cover Pro (2026)](https://onda-life.com/reviews/vs/eight-sleep-pod-4-vs-eight-sleep-pod-cover-pro): Price decides. Both are covers for the mattress you already have, with the same climate approach, tracking and subscription model; Pod Cover Pro costs less (about $2,200 vs from $2,449 for the Pod 4 cover, per Tom's Guide).
 - [ChiliPad Dock Pro vs BedJet 3 (2026)](https://onda-life.com/reviews/vs/chilipad-dock-pro-vs-bedjet-3): Climate aggressiveness vs maintenance simplicity. ChiliPad Dock Pro for aggressive summer cooling and dual-zone control. BedJet 3 for clean install with no water management and roughly half the price.
 - [ChiliPad Dock Pro vs ChiliPad Cube (2026)](https://onda-life.com/reviews/vs/chilipad-dock-pro-vs-chilipad-cube): Tier decides on budget. Dock Pro for dual-zone, scheduling and the higher-capacity chiller. Cube for the same water cooling at half the price if you sleep alone and don't need scheduling.
 - [Eight Sleep Pod 3 vs Pod Cover Pro (2026)](https://onda-life.com/reviews/vs/eight-sleep-pod-3-vs-eight-sleep-pod-cover-pro): Mattress status decides again. Pod 3 if you're replacing your mattress and the inventory discount is deep enough. Pod Cover Pro if you have a mattress you like and want the current-gen tracking/climate on it.
@@ -22037,10 +22037,40 @@ The neuroscience these headsets feed back — and what the EEG signal can and ca
 
 ---
 
+### Mito Red MitoPRO 1500 review
+
+URL: https://onda-life.com/reviews/mito-red-mitopro-1500
+Score: 8.1/10
+Verdict: The biohacker-favourite large panel — now six wavelengths in its 1500X form, and $400 cheaper than Joovv Solo 3.0.
+
+## Where it leads
+
+The Mito Red MitoPRO 1500 is the panel biohackers actually buy when they want most of a Joovv at a meaningful discount. The current 1500X runs six wavelengths (590 + 630 + 660 + 810 + 830 + 850 nm) — Joovv runs two — and independent meter readings sit close to the manufacturer-stated irradiance. Build, EMF and flicker are in the same league as Joovv. The brand has a strong biohacker following and the marketing is restrained for the category.
+
+## What are the downsides of Mito Red MitoPRO 1500?
+
+The original four-wavelength MitoPRO 1500 is no longer listed; the store now sells the 1500X at $1,299, and Mito Red lists it as FDA Class II registered, as Joovv does for its panel (registration is not clearance or approval). A single panel is half-body, so full-body coverage means two panels, and stand or mount hardware adds to the headline price.
+
+## Who should buy Mito Red MitoPRO 1500?
+
+Choose Mito Red MitoPRO 1500 (now the 1500X) if you want premium six-wavelength coverage with honest spec discipline, at $400 under Joovv. If modular stacking is the deciding criterion, Joovv is the right shape. If price is the deciding criterion, Hooga HG500 covers most of the basic spec at a third of the cost.
+
+---
+
+## Background reading
+
+The photobiomodulation mechanism behind why red light therapy works.
+
+- [Mitochondrial biogenesis: the cellular power grid](/articles/mitochondrial-biogenesis-cellular-power-grid) — why photobiomodulation drives mitochondrial density up
+- [Longevity hardware and cellular cleanup](/articles/longevity-hardware-cellular-cleanup) — how RLT fits the broader autophagy / mitophagy stack
+- [Longevity protocol: biological clock reset](/articles/longevity-protocol-biological-clock-reset) — where photobiomodulation slots into a reset routine
+
+---
+
 ### PlatinumLED BIOMAX 600 review
 
 URL: https://onda-life.com/reviews/platinumled-biomax-600
-Score: 8.2/10
+Score: 8.1/10
 Verdict: Strong mid-size panel with the richest wavelength spectrum and clean EMF discipline. Joovv-class build at a tier-lower price.
 
 ## Where it leads
@@ -22093,40 +22123,10 @@ The photobiomodulation mechanism behind why red light therapy works.
 
 ---
 
-### Mito Red MitoPRO 1500 review
-
-URL: https://onda-life.com/reviews/mito-red-mitopro-1500
-Score: 8.1/10
-Verdict: The biohacker-favourite large panel — now six wavelengths in its 1500X form, and $400 cheaper than Joovv Solo 3.0.
-
-## Where it leads
-
-The Mito Red MitoPRO 1500 is the panel biohackers actually buy when they want most of a Joovv at a meaningful discount. The current 1500X runs six wavelengths (590 + 630 + 660 + 810 + 830 + 850 nm) — Joovv runs two — and independent meter readings sit close to the manufacturer-stated irradiance. Build, EMF and flicker are in the same league as Joovv. The brand has a strong biohacker following and the marketing is restrained for the category.
-
-## What are the downsides of Mito Red MitoPRO 1500?
-
-The original four-wavelength MitoPRO 1500 is no longer listed; the store now sells the 1500X at $1,299, and Mito Red lists it as FDA Class II registered, as Joovv does for its panel (registration is not clearance or approval). A single panel is half-body, so full-body coverage means two panels, and stand or mount hardware adds to the headline price.
-
-## Who should buy Mito Red MitoPRO 1500?
-
-Choose Mito Red MitoPRO 1500 (now the 1500X) if you want premium six-wavelength coverage with honest spec discipline, at $400 under Joovv. If modular stacking is the deciding criterion, Joovv is the right shape. If price is the deciding criterion, Hooga HG500 covers most of the basic spec at a third of the cost.
-
----
-
-## Background reading
-
-The photobiomodulation mechanism behind why red light therapy works.
-
-- [Mitochondrial biogenesis: the cellular power grid](/articles/mitochondrial-biogenesis-cellular-power-grid) — why photobiomodulation drives mitochondrial density up
-- [Longevity hardware and cellular cleanup](/articles/longevity-hardware-cellular-cleanup) — how RLT fits the broader autophagy / mitophagy stack
-- [Longevity protocol: biological clock reset](/articles/longevity-protocol-biological-clock-reset) — where photobiomodulation slots into a reset routine
-
----
-
 ### RubyLx Lyra Pro review
 
 URL: https://onda-life.com/reviews/rubylx-lyra-pro
-Score: 8.1/10
+Score: 8.0/10
 Verdict: The testing-transparency premium pick — third-party verified on every spec, premium-priced, smaller brand than Joovv.
 
 ## Where it leads
@@ -22140,36 +22140,6 @@ RubyLx is a smaller brand than Joovv, Mito Red or PlatinumLED. The multi-year re
 ## Who should buy RubyLx Lyra Pro?
 
 Choose RubyLx Lyra Pro if every published specification must be independently verifiable before purchase, and you trust a smaller brand’s testing discipline over a larger brand’s marketing. For modular scaling, Joovv. For EMF-shielded engineering, GembaRed. For pure value, Hooga.
-
----
-
-## Background reading
-
-The photobiomodulation mechanism behind why red light therapy works.
-
-- [Longevity protocol: biological clock reset](/articles/longevity-protocol-biological-clock-reset) — where photobiomodulation slots into a reset routine
-- [Mitochondrial DNA and red light](/articles/mitochondrial-dna-red-light) — how 660/850 nm photons reach the mitochondria and what they do there
-- [Mitochondrial biogenesis: the cellular power grid](/articles/mitochondrial-biogenesis-cellular-power-grid) — why photobiomodulation drives mitochondrial density up
-
----
-
-### Joovv Solo 3.0 review
-
-URL: https://onda-life.com/reviews/joovv-solo-3
-Score: 8.0/10
-Verdict: A long-running, widely used panel — modular, well-built, fairly measured irradiance. Most expensive in this list, mostly justified.
-
-## Where it leads
-
-The Joovv Solo 3.0 is the panel against which the rest of this category is measured. Independent irradiance testing comes close to the manufacturer-stated figure, EMF measurements at the standard treatment distance sit below 0.5 mG, flicker rate is published and clean. The Solo is also the only modular panel in this list: a single Solo is half-body, two link vertically for most of the upper body, three stack into a full-body wall. Joovv says the Solo 3.0 is registered with the FDA as a Class II device and states its listed indications plainly (topical heating for temporary relief of minor muscle and joint pain). Registration is not clearance or approval, and it is not a quality mark.
-
-## What are the downsides of Joovv Solo 3.0?
-
-Price. $1,699 for a Solo 3.0 (official US store, checked 2026-10-01) is the most expensive single panel in this list; a true full-body Joovv stack runs $3,000–$5,000. The wavelength options are standard 660 + 850 nm only — no 810 nm, 830 nm or 940 nm for users who want a richer spectrum. Layout is single-direction front-emitter, not bidirectional.
-
-## Who should buy Joovv Solo 3.0?
-
-Choose Joovv Solo 3.0 if you want the premium modular build and you accept that verification, EMF discipline and modular scalability have a price. If price is the deciding criterion, Mito Red MitoPRO 1500 or Hooga HG500 cover most of the spec at a fraction of the cost; if you want EMF-shielded premium with independent testing, GembaRed Vesta is the cleaner build at slightly lower price.
 
 ---
 
@@ -22210,6 +22180,36 @@ The photobiomodulation mechanism behind why red light therapy works.
 - [Mitochondrial DNA and red light](/articles/mitochondrial-dna-red-light) — how 660/850 nm photons reach the mitochondria and what they do there
 - [Mitochondrial biogenesis: the cellular power grid](/articles/mitochondrial-biogenesis-cellular-power-grid) — why photobiomodulation drives mitochondrial density up
 - [Longevity hardware and cellular cleanup](/articles/longevity-hardware-cellular-cleanup) — how RLT fits the broader autophagy / mitophagy stack
+
+---
+
+### Joovv Solo 3.0 review
+
+URL: https://onda-life.com/reviews/joovv-solo-3
+Score: 7.9/10
+Verdict: A long-running, widely used panel — modular, well-built, fairly measured irradiance. Most expensive in this list, mostly justified.
+
+## Where it leads
+
+The Joovv Solo 3.0 is the panel against which the rest of this category is measured. Independent irradiance testing comes close to the manufacturer-stated figure, EMF measurements at the standard treatment distance sit below 0.5 mG, flicker rate is published and clean. The Solo is also the only modular panel in this list: a single Solo is half-body, two link vertically for most of the upper body, three stack into a full-body wall. Joovv says the Solo 3.0 is registered with the FDA as a Class II device and states its listed indications plainly (topical heating for temporary relief of minor muscle and joint pain). Registration is not clearance or approval, and it is not a quality mark.
+
+## What are the downsides of Joovv Solo 3.0?
+
+Price. $1,699 for a Solo 3.0 (official US store, checked 2026-10-01) is the most expensive single panel in this list; a true full-body Joovv stack runs $3,000–$5,000. The wavelength options are standard 660 + 850 nm only — no 810 nm, 830 nm or 940 nm for users who want a richer spectrum. Layout is single-direction front-emitter, not bidirectional.
+
+## Who should buy Joovv Solo 3.0?
+
+Choose Joovv Solo 3.0 if you want the premium modular build and you accept that verification, EMF discipline and modular scalability have a price. If price is the deciding criterion, Mito Red MitoPRO 1500 or Hooga HG500 cover most of the spec at a fraction of the cost; if you want EMF-shielded premium with independent testing, GembaRed Vesta is the cleaner build at slightly lower price.
+
+---
+
+## Background reading
+
+The photobiomodulation mechanism behind why red light therapy works.
+
+- [Longevity protocol: biological clock reset](/articles/longevity-protocol-biological-clock-reset) — where photobiomodulation slots into a reset routine
+- [Mitochondrial DNA and red light](/articles/mitochondrial-dna-red-light) — how 660/850 nm photons reach the mitochondria and what they do there
+- [Mitochondrial biogenesis: the cellular power grid](/articles/mitochondrial-biogenesis-cellular-power-grid) — why photobiomodulation drives mitochondrial density up
 
 ---
 
@@ -22336,7 +22336,7 @@ The photobiomodulation mechanism behind why red light therapy works.
 ### Kineon Move+ review
 
 URL: https://onda-life.com/reviews/kineon-move-plus
-Score: 7.1/10
+Score: 7.0/10
 Verdict: A credible targeted-joint device at a fair price — now $499 — with real low-level-laser evidence behind the approach, but low optical power and no device-specific trial. Not a panel substitute.
 
 ## Short answer
@@ -22405,7 +22405,7 @@ The photobiomodulation mechanism behind why red light therapy works.
 ### The Plunge All-In review
 
 URL: https://onda-life.com/reviews/plunge
-Score: 8.0/10
+Score: 7.9/10
 Verdict: The category-defining cold plunge — premium build, capable chiller, polished consumer experience at a premium price.
 
 ## Where it leads
@@ -22977,10 +22977,40 @@ Background reading on the ideas behind heat exposure — mostly hypotheses, not 
 
 ---
 
+### Therasage TheraSauna Personal review
+
+URL: https://onda-life.com/reviews/therasage-thera-sauna-personal
+Score: 7.4/10
+Verdict: A solid mid-tier biohacker IR sauna — full-spectrum, decent EMF discipline, accessible price for the tier.
+
+## Where it leads
+
+Therasage occupies the mid-tier IR sauna sweet spot — full-spectrum delivery at half the cost of Sunlighten or Clearlight, with credible EMF documentation. The biohacker community knows the brand, and the tent / cabin configuration choice covers more install scenarios than fixed-cabin competitors.
+
+## What are the downsides of Therasage TheraSauna Personal?
+
+Wavelength rigour and EMF discipline are both a tier below the category leaders. Brand recognition is narrower. Cabin build is less premium than Sunlighten cedar.
+
+## Who should buy Therasage TheraSauna Personal?
+
+Choose Therasage TheraSauna Personal if you want full-spectrum biohacker IR at mid-tier pricing. For premium full-spectrum, Sunlighten or Clearlight. For near-IR-specific, SaunaSpace.
+
+---
+
+## Background reading
+
+Background reading on the ideas behind heat exposure — mostly hypotheses, not effects shown in people.
+
+- [Longevity protocol: biological clock reset](/articles/longevity-protocol-biological-clock-reset) — where sauna slots into a reset routine
+- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — the heat-shock side of the stress response
+- [Anti-entropy neural architecture](/articles/anti-entropy-neural-architecture) — sauna as a daily anti-entropy stress dose
+
+---
+
 ### Clearlight Sanctuary 2 review
 
 URL: https://onda-life.com/reviews/clearlight-sanctuary-2
-Score: 7.4/10
+Score: 7.3/10
 Verdict: The closest premium competitor to Sunlighten — full-spectrum IR, low-EMF/ELF design and a lifetime warranty, in a compact 2-person cabin that runs on a 120 V/20 A circuit.
 
 ## The verdict first
@@ -23025,36 +23055,6 @@ Prices for the alternatives come from ONDA’s own reviews and may have moved; c
 ## Who should buy the Clearlight Sanctuary 2 — and who should skip
 
 **Buy** if you want a premium full-spectrum cabin for two, value a lifetime warranty and solid build, and have space plus a 20 A circuit. **Skip** if you want per-wavelength programming (the mPulse fits better), if your budget is under $6,000, or if you mainly want a hotter traditional-sauna experience. More options in the [best infrared sauna round-up](/reviews/compare/best-infrared-sauna-2026).
-
----
-
-## Background reading
-
-Background reading on the ideas behind heat exposure — mostly hypotheses, not effects shown in people.
-
-- [Longevity protocol: biological clock reset](/articles/longevity-protocol-biological-clock-reset) — where sauna slots into a reset routine
-- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — the heat-shock side of the stress response
-- [Anti-entropy neural architecture](/articles/anti-entropy-neural-architecture) — sauna as a daily anti-entropy stress dose
-
----
-
-### Therasage TheraSauna Personal review
-
-URL: https://onda-life.com/reviews/therasage-thera-sauna-personal
-Score: 7.4/10
-Verdict: A solid mid-tier biohacker IR sauna — full-spectrum, decent EMF discipline, accessible price for the tier.
-
-## Where it leads
-
-Therasage occupies the mid-tier IR sauna sweet spot — full-spectrum delivery at half the cost of Sunlighten or Clearlight, with credible EMF documentation. The biohacker community knows the brand, and the tent / cabin configuration choice covers more install scenarios than fixed-cabin competitors.
-
-## What are the downsides of Therasage TheraSauna Personal?
-
-Wavelength rigour and EMF discipline are both a tier below the category leaders. Brand recognition is narrower. Cabin build is less premium than Sunlighten cedar.
-
-## Who should buy Therasage TheraSauna Personal?
-
-Choose Therasage TheraSauna Personal if you want full-spectrum biohacker IR at mid-tier pricing. For premium full-spectrum, Sunlighten or Clearlight. For near-IR-specific, SaunaSpace.
 
 ---
 
@@ -23184,6 +23184,38 @@ The membership. Autopilot is required: Standard $199/year with a 2-year warranty
 ## Who should buy Eight Sleep Pod 6?
 
 Choose the Pod 6 if you want Eight Sleep’s climate control and wearable-free sleep tracking at the lowest price the brand has offered, and especially if you sleep alone and can use a Solo size. If you already own a Pod 4 or Pod 5, the upgrade is mostly a smaller hub and more sensors. For the wider field, see the [best smart sleep-climate systems](/reviews/smart-sleep-climate).
+
+---
+
+### Eight Sleep Pod 4 review
+
+URL: https://onda-life.com/reviews/eight-sleep-pod-4
+Score: 7.9/10
+Verdict: The category-defining smart sleep-climate system — dual-zone water cooling/heating, HRV tracking, subscription required.
+
+## Where it leads
+
+> Eight Sleep replaced the Pod 5 with the Pod 6 on 23 September 2026 (from $1,999 Solo; $2,899 queen, $2,999 king), and Eight Sleep's own store now lists only the Pod 6 — the Pod 4 survives mainly as remaining or third-party stock. At its ~$4,000 queen price the Pod 4 is no longer the cheaper way into Eight Sleep; only buy it at a discount clearly below the Pod 6. On the Pod 5: the Pod 5 Ultra adds an adjustable base, top-down cooling and audio, but roughly doubles the price, and the core temp/HRV tech and the new Autopilot 4.0 software also reach the Pod 4. See [Pod 4 vs Pod 5](/reviews/vs/eight-sleep-pod-4-vs-eight-sleep-pod-5).
+
+Eight Sleep Pod 4 is the smart sleep-climate system that defined the consumer category. Dual-zone water cooling/heating (13–43°C), built-in HRV and sleep tracking that obviates the need for a separate wearable, and Autopilot programmable climate that adjusts by estimated sleep stage overnight. Hardware build and multi-year reliability are both solid.
+
+## What are the downsides of Eight Sleep Pod 4?
+
+Subscription. Full features (Autopilot, advanced HRV insights, climate scheduling) require ongoing Eight Sleep membership — the category's biggest editorial point of contention. Without the subscription you have an expensive heated cover. Total 3-year ownership including subscription approaches $5,000-7,000.
+
+## Who should buy Eight Sleep Pod 4?
+
+Choose Eight Sleep Pod 4 if you want category-leading sleep-climate hardware with integrated tracking and you accept the subscription model. For subscription-free water cooling, ChiliPad Dock Pro. For air-flow at lower price, BedJet 3. For climate without tracking, Sleep Number Climate360.
+
+---
+
+## Background reading
+
+The biology of why bed-temperature regulation drives sleep depth and recovery.
+
+- [Circadian reset: mastering light](/articles/circadian-reset-mastering-light) — why bed-temperature regulation pairs with light timing for sleep depth
+- [Phase-locked acoustic sleep](/articles/phase-locked-acoustic-sleep) — cooling pairs with audio entrainment for faster sleep onset
+- [Does sleep really clean your brain? The glymphatic evidence](/articles/nightly-flush-glymphatic-neural-cache) — what is shown in people, and what is still disputed
 
 ---
 
@@ -23322,25 +23354,23 @@ The biology of why bed-temperature regulation drives sleep depth and recovery.
 
 ---
 
-### Eight Sleep Pod 4 review
+### Eight Sleep Pod 3 review
 
-URL: https://onda-life.com/reviews/eight-sleep-pod-4
+URL: https://onda-life.com/reviews/eight-sleep-pod-3
 Score: 7.7/10
-Verdict: The category-defining smart sleep-climate system — dual-zone water cooling/heating, HRV tracking, subscription required.
+Verdict: Pod 4 capability at Pod 3 prices — solid value when discounted, slightly less rigorous climate range than Pod 4.
 
 ## Where it leads
 
-> Eight Sleep replaced the Pod 5 with the Pod 6 on 23 September 2026 (from $1,999 Solo; $2,899 queen, $2,999 king), and Eight Sleep's own store now lists only the Pod 6 — the Pod 4 survives mainly as remaining or third-party stock. At its ~$4,000 queen price the Pod 4 is no longer the cheaper way into Eight Sleep; only buy it at a discount clearly below the Pod 6. On the Pod 5: the Pod 5 Ultra adds an adjustable base, top-down cooling and audio, but roughly doubles the price, and the core temp/HRV tech and the new Autopilot 4.0 software also reach the Pod 4. See [Pod 4 vs Pod 5](/reviews/vs/eight-sleep-pod-4-vs-eight-sleep-pod-5).
+Eight Sleep Pod 3 is the cheap-discounted entry into the Eight Sleep ecosystem. Same app, same Autopilot, same HRV tracking — narrower climate range and discontinued for new production but available from inventory at meaningfully lower prices.
 
-Eight Sleep Pod 4 is the smart sleep-climate system that defined the consumer category. Dual-zone water cooling/heating (13–43°C), built-in HRV and sleep tracking that obviates the need for a separate wearable, and Autopilot programmable climate that adjusts by estimated sleep stage overnight. Hardware build and multi-year reliability are both solid.
+## What are the downsides of Eight Sleep Pod 3?
 
-## What are the downsides of Eight Sleep Pod 4?
+Discontinued for new production. Climate recovery slightly less aggressive than Pod 4 in peak summer heat. Same subscription requirement.
 
-Subscription. Full features (Autopilot, advanced HRV insights, climate scheduling) require ongoing Eight Sleep membership — the category's biggest editorial point of contention. Without the subscription you have an expensive heated cover. Total 3-year ownership including subscription approaches $5,000-7,000.
+## Who should buy Eight Sleep Pod 3?
 
-## Who should buy Eight Sleep Pod 4?
-
-Choose Eight Sleep Pod 4 if you want category-leading sleep-climate hardware with integrated tracking and you accept the subscription model. For subscription-free water cooling, ChiliPad Dock Pro. For air-flow at lower price, BedJet 3. For climate without tracking, Sleep Number Climate360.
+Choose Eight Sleep Pod 3 if Pod 3 inventory is available at discount and Eight Sleep's ecosystem is what you want. For latest hardware, Pod 4. For subscription-free, ChiliPad.
 
 ---
 
@@ -23348,9 +23378,9 @@ Choose Eight Sleep Pod 4 if you want category-leading sleep-climate hardware wit
 
 The biology of why bed-temperature regulation drives sleep depth and recovery.
 
+- [Neural hydraulics: CSF flow](/articles/neural-hydraulics-csf-flow) — CSF circulation during sleep — what cooling enables
 - [Circadian reset: mastering light](/articles/circadian-reset-mastering-light) — why bed-temperature regulation pairs with light timing for sleep depth
 - [Phase-locked acoustic sleep](/articles/phase-locked-acoustic-sleep) — cooling pairs with audio entrainment for faster sleep onset
-- [Does sleep really clean your brain? The glymphatic evidence](/articles/nightly-flush-glymphatic-neural-cache) — what is shown in people, and what is still disputed
 
 ---
 
@@ -23377,36 +23407,6 @@ Price and the subscription. The Pod 5 Ultra starts around $6,099 (queen) — rou
 ## Who should buy Eight Sleep Pod 5?
 
 Choose the Pod 5 Ultra if you want the maximal full-bed system and the price is not the deciding factor. If you want the Eight Sleep sleep-climate experience for the best value, the [Pod 4](/reviews/eight-sleep-pod-4) — or the cheaper Pod 5 Core — is the smarter buy. For the wider field, see the [best smart sleep-climate systems](/reviews/smart-sleep-climate).
-
----
-
-### Eight Sleep Pod 3 review
-
-URL: https://onda-life.com/reviews/eight-sleep-pod-3
-Score: 7.5/10
-Verdict: Pod 4 capability at Pod 3 prices — solid value when discounted, slightly less rigorous climate range than Pod 4.
-
-## Where it leads
-
-Eight Sleep Pod 3 is the cheap-discounted entry into the Eight Sleep ecosystem. Same app, same Autopilot, same HRV tracking — narrower climate range and discontinued for new production but available from inventory at meaningfully lower prices.
-
-## What are the downsides of Eight Sleep Pod 3?
-
-Discontinued for new production. Climate recovery slightly less aggressive than Pod 4 in peak summer heat. Same subscription requirement.
-
-## Who should buy Eight Sleep Pod 3?
-
-Choose Eight Sleep Pod 3 if Pod 3 inventory is available at discount and Eight Sleep's ecosystem is what you want. For latest hardware, Pod 4. For subscription-free, ChiliPad.
-
----
-
-## Background reading
-
-The biology of why bed-temperature regulation drives sleep depth and recovery.
-
-- [Neural hydraulics: CSF flow](/articles/neural-hydraulics-csf-flow) — CSF circulation during sleep — what cooling enables
-- [Circadian reset: mastering light](/articles/circadian-reset-mastering-light) — why bed-temperature regulation pairs with light timing for sleep depth
-- [Phase-locked acoustic sleep](/articles/phase-locked-acoustic-sleep) — cooling pairs with audio entrainment for faster sleep onset
 
 ---
 
@@ -24221,7 +24221,7 @@ Choose CurrentBody Series 2 if you want the consumer-market reference with integ
 ### Lumara Viso review
 
 URL: https://onda-life.com/reviews/lumara-viso
-Score: 8.0/10
+Score: 7.9/10
 Verdict: Highest LED count in 2026 — 470 LEDs in flexible silicone with neck coverage. Premium pricing; no published trial of the mask itself.
 
 ## Where it leads
@@ -24248,7 +24248,7 @@ Choose Lumara Viso if you want maximum LED count and three-wavelength coverage i
 ### Omnilux Contour Face review
 
 URL: https://onda-life.com/reviews/omnilux-contour-face
-Score: 7.8/10
+Score: 7.7/10
 Verdict: Flexible silicone with the standard red + near-infrared pair, FDA-cleared for wrinkles (510(k) K191629). No published trial of the Contour itself; Omnilux's published studies are on other models.
 
 ## Where it leads
@@ -24300,6 +24300,33 @@ Choose Dr. Dennis Gross SpectraLite if you want dermatology-brand pedigree with 
 
 ---
 
+### HigherDOSE Red Light Face Mask review
+
+URL: https://onda-life.com/reviews/higherdose-red-light-face-mask
+Score: 7.2/10
+Verdict: Best consumer-brand UX in red light masks — simple controller, flexible silicone, brand-stated 50 mW/cm². Light clinical evidence; brand polish over technical depth.
+
+## Where it leads
+
+HigherDOSE Red Light Face Mask is the consumer-brand reference — polished UX, flexible silicone build, HigherDOSE ecosystem crossover from PEMF mat and sauna blanket, accessible $349 pricing. Best execution of the consumer-friendly daily-use thesis.
+
+## What are the downsides of HigherDOSE Red Light Face Mask?
+
+Clinical evidence and irradiance. The mask is FDA-cleared (510(k) K241933), with brand-funded research; no peer-reviewed dermatology moat. The 50 mW/cm² irradiance is the brand’s figure, and there is no neck flap. Omnilux, CurrentBody and Lumara rank higher overall; Lumara leads on spec.
+
+## Who should buy HigherDOSE Red Light Face Mask?
+
+Choose HigherDOSE Red Light Face Mask for consumer-polished daily-use mask in the HigherDOSE ecosystem at accessible pricing. For a higher-scored red + near-infrared mask, Omnilux. For consumer market leader, CurrentBody Series 2. For dermatology brand, Dr. Dennis Gross.
+
+---
+
+## Background reading
+
+- [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation)
+- [Mitochondrial biogenesis](/articles/mitochondrial-biogenesis-cellular-power-grid)
+
+---
+
 ### TheraFace Mask review
 
 URL: https://onda-life.com/reviews/theraface-mask
@@ -24327,37 +24354,10 @@ Choose TheraFace Mask if you're already in the Therabody ecosystem and want coor
 
 ---
 
-### HigherDOSE Red Light Face Mask review
-
-URL: https://onda-life.com/reviews/higherdose-red-light-face-mask
-Score: 7.0/10
-Verdict: Best consumer-brand UX in red light masks — simple controller, flexible silicone, brand-stated 50 mW/cm². Light clinical evidence; brand polish over technical depth.
-
-## Where it leads
-
-HigherDOSE Red Light Face Mask is the consumer-brand reference — polished UX, flexible silicone build, HigherDOSE ecosystem crossover from PEMF mat and sauna blanket, accessible $349 pricing. Best execution of the consumer-friendly daily-use thesis.
-
-## What are the downsides of HigherDOSE Red Light Face Mask?
-
-Clinical evidence and irradiance. The mask is FDA-cleared (510(k) K241933), with brand-funded research; no peer-reviewed dermatology moat. The 50 mW/cm² irradiance is the brand’s figure, and there is no neck flap. Omnilux, CurrentBody and Lumara rank higher overall; Lumara leads on spec.
-
-## Who should buy HigherDOSE Red Light Face Mask?
-
-Choose HigherDOSE Red Light Face Mask for consumer-polished daily-use mask in the HigherDOSE ecosystem at accessible pricing. For a higher-scored red + near-infrared mask, Omnilux. For consumer market leader, CurrentBody Series 2. For dermatology brand, Dr. Dennis Gross.
-
----
-
-## Background reading
-
-- [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation)
-- [Mitochondrial biogenesis](/articles/mitochondrial-biogenesis-cellular-power-grid)
-
----
-
 ### LightStim for Wrinkles review
 
 URL: https://onda-life.com/reviews/lightstim-for-wrinkles
-Score: 6.9/10
+Score: 6.8/10
 Verdict: Four-wavelength red + near-infrared handheld, FDA-cleared (K120775; current model K261482), at accessible pricing — but no published trials of the device itself. Handheld form factor means active positioning per session.
 
 ## Where it leads
@@ -24385,7 +24385,7 @@ Choose LightStim for Wrinkles if you want a four-wavelength red + near-infrared 
 ### JOVS DPL Photofacial Mask review
 
 URL: https://onda-life.com/reviews/jovs-dpl-photofacial-mask
-Score: 6.9/10
+Score: 6.8/10
 Verdict: Best multi-wavelength spec for the price — Korean K-beauty tech with seven wavelength modes. Light clinical-evidence moat; brand newer than category references.
 
 ## Where it leads
@@ -24412,7 +24412,7 @@ Choose JOVS DPL for maximum wavelength coverage at mid-tier pricing. For a red +
 ### Shark CryoGlow review
 
 URL: https://onda-life.com/reviews/shark-cryoglow
-Score: 6.3/10
+Score: 6.5/10
 Verdict: Most novel form factor in 2026 — active cooling combined with red + blue LED. Cooling is the differentiator; LED dose is modest by design.
 
 ## Where it leads
@@ -24439,7 +24439,7 @@ Choose Shark CryoGlow if you want cooling + LED combined into one device for a s
 ### Solawave Wand 4-in-1 review
 
 URL: https://onda-life.com/reviews/solawave-wand-4-in-1
-Score: 6.2/10
+Score: 6.5/10
 Verdict: Best budget red light entry — $169 wand stacking red LED with microcurrent, warmth and massage. Modest dose, narrow LED coverage; consumer convenience over clinical depth.
 
 ## Where it leads
