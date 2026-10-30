@@ -22,7 +22,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Resonance breathing](https://onda-life.com/resonance-breathing): cornerstone explainer — the science of slow breathing and HRV, why ~6 breaths/min, finding your resonance frequency, evidence and practice
 - [HRV vs coherence](https://onda-life.com/hrv-vs-coherence): explainer — HRV is the raw beat-to-beat variation; coherence is how smooth/rhythmic it is as you breathe; which to watch and how ONDA uses each
 - [Apple Watch HRV biofeedback](https://onda-life.com/apple-watch-hrv-biofeedback): explainer — what the Apple Watch measures, why it records HRV rather than giving live biofeedback alone, and how ONDA adds a real-time coherence loop
-- [Tools](https://onda-life.com/tools): 32 free interactive calculators (HRV, sleep debt, caffeine cut-off, heart-rate zones, protein, VO2max and more) — read against the evidence, no sign-up
+- [Tools](https://onda-life.com/tools): 33 free interactive calculators (HRV, sleep debt, caffeine cut-off, heart-rate zones, protein, VO2max and more) — read against the evidence, no sign-up
 - [Bio](https://onda-life.com/bio): real-time biometric dashboard — the product experience on the web
 - [Science](https://onda-life.com/science): ONDA Science — evidence-first reference pages (definition, mechanism, measurement, evidence by strength, limits, sources with DOI/PMID)
   - [The Autonomic Nervous System: Sympathetic and Parasympathetic](https://onda-life.com/science/concepts/autonomic-nervous-system): What the autonomic nervous system does, how its two branches steer the heart, and why no single number, LF/HF included, measures its state.
@@ -590,6 +590,7 @@ Free interactive calculators, no sign-up. Nervous-system tools link to the measu
 - [Recovery Score Explained](https://onda-life.com/tools/recovery-score): What Whoop, Oura and Garmin recovery scores really measure (HRV, resting HR, sleep) — plus a quick readiness estimate and what to do today.
 - [Camera Heart Rate](https://onda-life.com/tools/camera-heart-rate): Measure your pulse with just your phone camera — fingertip on the lens, heartbeat in real time. A live taste of how ONDA reads your body, no wearable needed.
 - [Breathing Rate Monitor](https://onda-life.com/tools/breathing-rate): Measure your breathing rate with your phone mic and slow toward the ~6 breaths/min calm zone — live breath biofeedback, no wearable needed.
+- [Vibration Breathing](https://onda-life.com/tools/vibration-breathing): Relax or Wake up: rest a finger on your phone and breathe with the vibration — short quickening taps in, long slow pulses out. Light and sound where vibration isn’t supported.
 - [Breath–Heart Biofeedback](https://onda-life.com/tools/breath-heart-biofeedback): Breathe with the pacer while your phone camera reads your pulse — watch your heart rate rise on the inhale and fall on the exhale. ONDA in miniature.
 - [Apple Watch Baseline](https://onda-life.com/tools/baseline): See what your Apple Watch already recorded — two weeks of resting pulse, HRV and breathing read from your own Health data, on your iPhone. The range, not one number. Nothing is uploaded.
 - [Emoton](https://onda-life.com/emoton): A free interactive feelings wheel. Name what you feel right now, then take a quiet moment to be with it — no sign-up, no diagnosis, no advice.
