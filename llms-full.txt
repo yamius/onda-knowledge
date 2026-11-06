@@ -165,6 +165,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Why Your HRV Is Different on Every Device (and Which to Trust)](https://onda-life.com/articles/hrv-different-every-device): Your Oura, Apple Watch and Whoop all report different HRV numbers. Here is why — RMSSD vs SDNN, overnight vs spot, PPG vs ECG — and which reading to actually trust.
 - [Active Intervention vs Passive Tracking: The 2026 Wearable Shift](https://onda-life.com/articles/active-intervention-vs-passive-tracking): Wearables are splitting into two jobs: passive trackers that measure your nervous system, and active-intervention tools that change it. What the 2026 shift means, and how to use each.
 - [Apple Watch Now Shows Two HRV Numbers: Recovery HRV vs Overall HRV](https://onda-life.com/articles/apple-watch-recovery-hrv-vs-overall-hrv): In September 2026 Apple split Apple Watch HRV into Recovery HRV and Overall HRV, added RMSSD to HealthKit, and started measuring HRV every ~5 minutes. What changed, why there are two numbers, and why you can’t merge the old and new history.
+- [Alpha Brain Waves: What They Are and What They Can (and Cannot) Tell You](https://onda-life.com/articles/alpha-brain-waves): Alpha waves are 8–12 Hz brain rhythms that rise when you close your eyes and relax. What they reflect, what meditation does to them and what a consumer EEG headset can really show.
 
 ### Biological Software
 
@@ -654,6 +655,7 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Best Mouth Tape & Nasal Breathing Aids (2026)](https://onda-life.com/reviews/compare/best-mouth-tape-nasal-breathing-2026): ONDA ranks the ten best mouth tape and nasal breathing aids of 2026 — Hostage Tape, Somnifix, Dream Recovery, Intake Breathing, Mute, Breathe Right, Nexcare, AYO, SomniFit, The Tape Co. and SleepRight. Scored on adhesion, mechanism, safety and value.
 - [Best Massage Guns (2026)](https://onda-life.com/reviews/compare/best-massage-guns-2026): ONDA ranks the best massage guns of 2026 — led by the new Hypervolt 3 Pro, plus Theragun PRO Plus, Theragun Elite, Achedaway Pro, OPOVE M3 Pro 2, Ekrin B37 and credible budget picks. Scored on stall force, amplitude, build and value.
 - [Best Air Purifiers (2026)](https://onda-life.com/reviews/compare/best-air-purifiers-2026): ONDA ranks the ten best air purifiers of 2026 — IQAir HealthPro Plus, Molekule Air Pro, Dyson Big+Quiet, Coway Airmega 400, Blueair 7770i, Levoit Core 600S, Winix 5500-2, Coway AP-1512HH, Levoit Core 300 and Honeywell HPA300. Scored on filtration, CADR, build and value.
+- [Neurosity Crown Alternatives (2026)](https://onda-life.com/reviews/compare/neurosity-crown-alternatives): Cheaper or better-fitting alternatives to the $1,499 Neurosity Crown: Muse S Athena, Muse 2, Emotiv Insight 2, Sens.ai, Mendi, FocusCalm and NeuroSky, by what you want the headset for.
 - [Apple Watch Ultra 4 review](https://onda-life.com/reviews/apple-watch-ultra-4): The Apple Watch that finally suits overnight HRV: the new Health Sensing System plus a 50-hour battery and an athlete readiness score — if you can justify the size and $799 price.
 - [Polar H10 review](https://onda-life.com/reviews/polar-h10): A chest-strap ECG that matched lab ECG almost perfectly in young healthy adults at rest — a reference instrument, not an all-day wearable.
 - [Oura Ring 4 review](https://onda-life.com/reviews/oura-ring-4): Still an excellent overnight HRV and sleep tracker — now one step below the slimmer, upgraded-sensor Oura Ring 5, but sharing the same new software and often the better value discounted. Mandatory subscription remains.
@@ -6867,6 +6869,64 @@ Now that Apple Health also exposes an RMSSD value, these head-to-heads weigh the
 > OVERALL_HRV → broader / cardiovascular health
 > FORMULAS: not published by Apple · HealthKit types: SDNN (long-standing) + RMSSD (new in 27)
 > RULE: separate metrics, separate scales — never merge the two histories
+
+---
+
+### Alpha Brain Waves: What They Are and What They Can (and Cannot) Tell You
+
+URL: https://onda-life.com/articles/alpha-brain-waves
+Category: Neural Hardware
+Description: Alpha waves are 8–12 Hz brain rhythms that rise when you close your eyes and relax. What they reflect, what meditation does to them and what a consumer EEG headset can really show.
+
+## Quick answer
+
+**Alpha waves are rhythmic electrical brain activity at about 8–12 cycles per second (Hz).** They are strongest over the back of the head when you are awake, relaxed and have your eyes closed, and they shrink the moment you open your eyes or focus on something you see. They are not a "calm mode" you switch on: alpha is better understood as the brain quietening the areas it does not need right now.
+
+## What alpha waves are
+
+An EEG (electroencephalogram) records tiny voltage changes on the scalp produced by large groups of neurons firing in step. Those changes form rhythms, named by speed: delta (slowest), theta, **alpha (about 8–12 Hz)**, beta and gamma (fastest).
+
+Alpha was the first human brain rhythm ever recorded. The German psychiatrist Hans Berger described it in 1929, which is why the drop in alpha when the eyes open is still called the **Berger effect** or "alpha blocking".
+
+Three facts are well established:
+
+- **Where:** alpha is largest over the occipital and parietal regions (back of the head), the visual areas.
+- **When:** it is strongest in relaxed, eyes-closed wakefulness and falls with eye opening, visual attention and mental effort.
+- **Whose:** each person has their own peak alpha frequency. It differs between people and tends to slow with age ([Klimesch, 1999](https://pubmed.ncbi.nlm.nih.gov/10209231/)).
+
+## What alpha actually reflects
+
+For decades alpha was called an "idling" rhythm. The current view is more precise: alpha reflects **active inhibition**. When a brain region is not needed for the task at hand, its alpha rises, which helps route processing to the regions that are needed ([Jensen & Mazaheri, 2010](https://pubmed.ncbi.nlm.nih.gov/21119777/)). That is why alpha over the visual cortex rises when you close your eyes and why it can rise over one side of the brain while you pay attention to the other side of space.
+
+So "more alpha" does not simply mean "more relaxed" or "better". It depends on where it is measured, what you are doing and how it is calculated. Researchers use several different alpha measures (absolute power, relative power, peak frequency, change from rest to task), and they do not always agree ([Bazanova & Vernon, 2014](https://pubmed.ncbi.nlm.nih.gov/23701947/)).
+
+## Alpha waves and meditation
+
+Meditation is the most common reason people ask about alpha. A systematic review of 56 EEG studies of mindfulness found that **increased alpha and theta power were the most common finding**, in healthy people and in patient groups, but the studies were small and varied widely in methods, so the authors could not draw firm conclusions about what drives the change ([Lomas, Ivtzan & Fu, 2015](https://pubmed.ncbi.nlm.nih.gov/26441373/)).
+
+The honest summary: meditation often goes along with more alpha, but a high alpha reading is not proof that you meditated "well", and a low one is not proof that you failed.
+
+## Can a consumer EEG headset measure alpha?
+
+Yes, roughly. Consumer headsets such as Muse, Neurosity Crown or Emotiv pick up real brain signals through a few dry electrodes. A validation study showed that the four-channel Muse could record classic event-related brain responses comparable to a research system ([Krigolson et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28344546/)).
+
+The limits matter:
+
+- **Few channels, wrong place.** Alpha is largest at the back of the head; many consumer headsets sit on the forehead and behind the ears.
+- **Artefacts.** Blinks, jaw clenching and movement create signals far larger than alpha.
+- **Proprietary scores.** "Calm" or "focus" numbers are each company's own algorithm, not a validated alpha measure, and they cannot be compared between brands.
+
+If you want to try, see our [best EEG headsets](/reviews/compare/best-eeg-headsets-2026) and [Neurosity Crown alternatives](/reviews/compare/neurosity-crown-alternatives).
+
+## Can you "train" alpha waves?
+
+Alpha neurofeedback, where a device rewards you when your alpha rises, is one of the oldest neurofeedback protocols. People can learn to change their alpha in the session. Whether that change brings lasting benefits for stress, focus or sleep is far less certain, and the research uses many different protocols. Treat claims that a device will "boost your alpha" for a specific health benefit with caution.
+
+## A simpler daily signal
+
+Alpha needs a headset, a quiet room and careful interpretation. If your real goal is to see how calm or recovered your body is, heart rate variability (HRV) is easier to measure every day with a ring, a watch or even a phone camera. [ONDA](/how-it-works) works with HRV and breathing; it does not measure brain waves.
+
+*This article is for education and is not medical advice. An EEG for a medical question (seizures, sleep disorders) is a clinical test and is read by a doctor.*
 
 ---
 
@@ -25924,6 +25984,55 @@ Three buying questions resolve the category cleanly:
 **Smart features needed?** Premium app + sensor + auto: Dyson, Molekule, Blueair, Coway 400, Levoit 600S. Sensor only (no app): Winix 5500-2, Coway AP-1512HH. None: Levoit Core 300, Honeywell HPA300, IQAir HealthPro Plus.
 
 IQAir leads the maker-rated H14 tier; Dyson owns premium consumer smart; Coway Airmega 400 wins mid-premium value; Levoit + Coway AP-1512HH + Winix cover credible budget; Levoit Core 300 anchors the $99 entry tier.
+
+---
+
+### Neurosity Crown Alternatives (2026)
+
+URL: https://onda-life.com/reviews/compare/neurosity-crown-alternatives
+Intro: Neurosity Crown is a $1,499 eight-electrode EEG headset with the most open SDK in the consumer category, built for developers and focus tracking. Most people searching for an alternative want one of three things: a much cheaper headset, a better meditation coach, or another device with raw-data access. Below are the alternatives worth knowing, scored on the same ONDA rubric as the Crown, with the job each one does better.
+
+## Quick answer
+
+The best **Neurosity Crown alternative** for most people is **Muse S Athena** ($474.99) — better for meditation and about a third of the price. **Muse 2** ($249.99) is the value pick. If you need raw EEG data, **Emotiv Insight 2** is the closest match, but raw data costs ~$99/yr. Developers on a budget can start with **NeuroSky MindWave Mobile 2** (about $110).
+
+## Comparison table
+
+| Headset | Price (USD) | Modality / sensors | Better than the Crown for |
+|---|---|---|---|
+| [Neurosity Crown](/reviews/neurosity-crown) | $1,499 | 8 dry EEG electrodes | — (the reference) |
+| [Muse S Athena](/reviews/muse-s-athena) | $474.99 | 4-channel dry EEG + fNIRS | Meditation and sleep, price |
+| [Muse 2](/reviews/muse-2) | $249.99 | 4-channel dry EEG + PPG heart rate | Meditation on a budget |
+| [Emotiv Insight 2](/reviews/emotiv-insight-2) | $499 + ~$99/yr Pro for raw data | 5 semi-dry EEG electrodes | Academic toolchain |
+| [Sens.ai](/reviews/sens-ai) | $1,250 + membership | 5-channel EEG + HRV + near-infrared light | Multi-modal training programme |
+| [Mendi](/reviews/mendi) | $379 list | fNIRS (not EEG) | Simple prefrontal training games |
+| [FocusCalm](/reviews/focuscalm) | $199 + optional Plus | 1-channel EEG | Guided focus programme, price |
+| [NeuroSky MindWave Mobile 2](/reviews/neurosky-mindwave-mobile-2) | ~$110 | 1-channel EEG | Cheapest developer entry |
+
+## Pick by what you wanted the Crown for
+
+**Meditation or calm.** The Crown is a developer and focus tool, not a meditation coach. Muse S Athena or Muse 2 give guided sessions with live audio feedback for far less money.
+
+**Raw brain data and coding.** Nothing else combines eight channels with a subscription-free SDK. Emotiv Insight 2 is the closest (five channels, strong research tooling, raw data behind a subscription). NeuroSky is a single-channel budget option for learning.
+
+**Focus training.** FocusCalm offers a guided programme on one channel; Mendi trains the prefrontal cortex with fNIRS, a different signal from EEG; Sens.ai is the premium route combining EEG, light and HRV.
+
+## What any consumer EEG can and cannot do
+
+All of these headsets record real brain signals through a few electrodes, but their "calm" or "focus" scores are each company's own algorithm and are not comparable between brands. None diagnoses ADHD, anxiety or sleep disorders. To understand the most common signal they report, read [alpha brain waves explained](/articles/alpha-brain-waves).
+
+If what you really want is a daily stress or recovery number, heart rate variability from a ring, a watch or a phone camera is easier to collect and better studied than consumer EEG scores.
+
+## Related comparisons
+
+- [Best EEG headsets 2026](/reviews/compare/best-eeg-headsets-2026) — the full ranked list
+- [Muse S Athena vs Neurosity Crown](/reviews/vs/muse-s-athena-vs-neurosity-crown)
+- [Muse S Athena vs Muse 2 vs Neurosity Crown](/reviews/vs/muse-s-athena-vs-muse-2-vs-neurosity-crown)
+- [Neurosity Crown vs Emotiv Insight 2](/reviews/vs/neurosity-crown-vs-emotiv-insight-2)
+
+## How we ranked them
+
+Every headset is scored against ONDA's published [review methodology](/reviews/methodology), the same rubric as the Crown. All were assessed from manufacturer documentation, published validation literature and independent reviews rather than hands-on testing.
 
 ---
 
