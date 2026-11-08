@@ -21178,9 +21178,9 @@ Not a consumer recommendation. LivaNova VNS Therapy is the gold-standard medical
 
 The biology behind what these devices target — and the protocols that compound with the hardware.
 
-- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — why slow breathing rebuilds vagal tone via CO₂ chemistry
+- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — what breath-holding and CO₂ tolerance can and cannot tell you
 - [Breathwork as a command-line interface](/articles/breathwork-command-line-interface) — the protocols stimulation pairs with
-- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — why vagal tone work targets cortisol downstream
+- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — what is and isn't known about breathing practice and cortisol
 
 ---
 
@@ -21210,7 +21210,7 @@ The biology behind what these devices target — and the protocols that compound
 
 - [Vagus nerve exercises](/articles/vagus-nerve-exercises) — why the vagus nerve sits upstream of HRV, sleep, mood and inflammation
 - [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — the regulatory and mechanistic landscape behind non-invasive VNS
-- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how vagal tone shapes attention and emotional regulation upstream
+- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how attention and emotion regulation relate to vagally mediated HRV
 
 ---
 
@@ -21240,7 +21240,7 @@ The biology behind what these devices target — and the protocols that compound
 
 - [Vagus nerve exercises](/articles/vagus-nerve-exercises) — why the vagus nerve sits upstream of HRV, sleep, mood and inflammation
 - [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — the regulatory and mechanistic landscape behind non-invasive VNS
-- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how vagal tone shapes attention and emotional regulation upstream
+- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how attention and emotion regulation relate to vagally mediated HRV
 
 ---
 
@@ -21270,7 +21270,7 @@ The biology behind what these devices target — and the protocols that compound
 
 - [Vagus nerve exercises](/articles/vagus-nerve-exercises) — why the vagus nerve sits upstream of HRV, sleep, mood and inflammation
 - [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — the regulatory and mechanistic landscape behind non-invasive VNS
-- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how vagal tone shapes attention and emotional regulation upstream
+- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how attention and emotion regulation relate to vagally mediated HRV
 
 ---
 
@@ -21300,7 +21300,7 @@ The biology behind what these devices target — and the protocols that compound
 
 - [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — CO₂ tolerance and slow breathing
 - [Breathwork as a command-line interface](/articles/breathwork-command-line-interface) — the protocols stimulation pairs with
-- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — why vagal tone work targets cortisol downstream
+- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — what is and isn't known about breathing practice and cortisol
 
 ---
 
@@ -21328,9 +21328,9 @@ Choose Truvaga 350 if you want cervical-trunk tVNS — the same approach used in
 
 The biology behind what these devices target — and the protocols that compound with the hardware.
 
-- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — why slow breathing rebuilds vagal tone via CO₂ chemistry
+- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — what breath-holding and CO₂ tolerance can and cannot tell you
 - [Breathwork as a command-line interface](/articles/breathwork-command-line-interface) — the protocols stimulation pairs with
-- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — why vagal tone work targets cortisol downstream
+- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — what is and isn't known about breathing practice and cortisol
 
 ---
 
@@ -21358,9 +21358,9 @@ Choose Pulsetto if you want a polished daily-use cervical tVNS device with struc
 
 The biology behind what these devices target — and the protocols that compound with the hardware.
 
-- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — why slow breathing rebuilds vagal tone via CO₂ chemistry
+- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — what breath-holding and CO₂ tolerance can and cannot tell you
 - [Breathwork as a command-line interface](/articles/breathwork-command-line-interface) — the protocols stimulation pairs with
-- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — why vagal tone work targets cortisol downstream
+- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — what is and isn't known about breathing practice and cortisol
 
 ---
 
@@ -21390,7 +21390,7 @@ The biology behind what these devices target — and the protocols that compound
 
 - [Vagus nerve exercises](/articles/vagus-nerve-exercises) — why the vagus nerve sits upstream of HRV, sleep, mood and inflammation
 - [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — the regulatory and mechanistic landscape behind non-invasive VNS
-- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how vagal tone shapes attention and emotional regulation upstream
+- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how attention and emotion regulation relate to vagally mediated HRV
 
 ---
 
@@ -21420,7 +21420,7 @@ The biology behind what these devices target — and the protocols that compound
 
 - [Vagus nerve exercises](/articles/vagus-nerve-exercises) — why the vagus nerve sits upstream of HRV, sleep, mood and inflammation
 - [Electric medicine and neuromodulation](/articles/electric-medicine-neuromodulation) — the regulatory and mechanistic landscape behind non-invasive VNS
-- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how vagal tone shapes attention and emotional regulation upstream
+- [ACC and coherence monitoring](/articles/anterior-cingulate-core-coherence-monitoring) — how attention and emotion regulation relate to vagally mediated HRV
 
 ---
 
@@ -21448,9 +21448,9 @@ Choose Xen by Neuvana if the earbud form factor and music-paired sessions make d
 
 The biology behind what these devices target — and the protocols that compound with the hardware.
 
-- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — why slow breathing rebuilds vagal tone via CO₂ chemistry
+- [CO₂ tolerance and the oxygen limit](/articles/co2-tolerance-expanding-oxygen-limit) — what breath-holding and CO₂ tolerance can and cannot tell you
 - [Breathwork as a command-line interface](/articles/breathwork-command-line-interface) — the protocols stimulation pairs with
-- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — why vagal tone work targets cortisol downstream
+- [HPA-axis control and cortisol regulation](/articles/hpa-axis-control-cortisol-aggression) — what is and isn't known about breathing practice and cortisol
 
 ---
 
@@ -24010,7 +24010,7 @@ Othership is the premium production-value reference in breathwork apps — cinem
 
 ## What are the downsides of Othership?
 
-Price and evidence depth. At $129.99/year Othership is the most expensive breathwork sub — over 2.5x Breathwrk’s $49; the production justifies it for the right user but it's a premium ask. Evidence citations lean on lived experience and ceremony framing rather than peer-reviewed depth — Breathwrk's science-informed copy, backed by one published study on cyclic sighing, is more rigorous.
+Price and evidence depth. At $129.99/year Othership is the most expensive breathwork sub — over 2.5x Breathwrk’s $49; the production justifies it for the right user but it's a premium ask. Evidence citations lean on lived experience and ceremony framing rather than peer-reviewed depth — Breathwrk's science-informed copy, backed by one published study on cyclic sighing, is more rigorous. One large blinded randomised trial did test an audio protocol of fast breathing with long breath holds, recorded by an Othership facilitator, and found benefits for mental health and wellbeing over a placebo breathing protocol in healthy young adults; it tested the protocol delivered remotely, not the Othership app itself.
 
 ## Who should buy Othership?
 
@@ -24034,7 +24034,7 @@ Verdict: A well-priced guided breathing library — exercises, daily classes and
 
 ## Where it leads
 
-Breathwrk is an affordable guided breathing library. The official site lists 50+ exercises on the free plan and 100+ on Pro, with daily video classes and multi-day programs; named techniques include box breathing, 4-7-8, humming and long-exhale patterns. It runs on iOS, Android, the web, Mac and Vision, and Pro is included for Peloton All-Access, Guide and App+ members (official site and App Store, accessed 2026-10-11).
+Breathwrk is an affordable guided breathing library. The official site lists limited access to exercises on the free plan and 100+ on Pro, with daily video classes and multi-day programs; named techniques include box breathing, 4-7-8, humming and long-exhale patterns. It runs on iOS, Android, the web, Mac and Vision, and Pro is included for Peloton All-Access, Guide and App+ members (official site and App Store, accessed 2026-10-11).
 
 ## What are the downsides of Breathwrk?
 
