@@ -104,44 +104,6 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Sitemap](https://onda-life.com/sitemap): all pages
 - [Contact](https://onda-life.com/contact): reach the team
 
-## Levels (8 stages of biocomputer architecture)
-
-- [Level 1 — BODY / TERRA](https://onda-life.com/level/1)
-- [Level 2 — EMOTIONS / AQUA](https://onda-life.com/level/2)
-- [Level 3 — MIND / AER](https://onda-life.com/level/3)
-- [Level 4 — SOCIETY / IGNIS](https://onda-life.com/level/4)
-- [Level 5 — NEURO-SOMATIC MIND / SENSORY INTELLIGENCE](https://onda-life.com/level/5)
-- [Level 6 — BRAIN / AQUA II](https://onda-life.com/level/6)
-- [Level 7 — DNA / AER II](https://onda-life.com/level/7)
-- [Level 8 — ATOMIC / IGNIS II](https://onda-life.com/level/8)
-
-## Parts (24 protocol stages)
-
-- [I Am](https://onda-life.com/part/i-am): Protocol: Homeostasis and Primary Interoception
-- [I Move](https://onda-life.com/part/i-move): Protocol: Rhythmic Coherence and Primary Locomotion
-- [I Adapt](https://onda-life.com/part/i-adapt): Protocol: Gravity Mastery and Interoception
-- [I Maneuver](https://onda-life.com/part/i-maneuver): Protocol: The Maneuverability of the “Small Mammal”
-- [I Guard the Territory](https://onda-life.com/part/i-guard-territory): Protocol: The Strength of the “Large Mammal”
-- [I'm Part of the Pack](https://onda-life.com/part/i-am-part-of-the-pack): Protocol: The Social Resonance of the “Higher Primate”
-- [I Distinguish](https://onda-life.com/part/i-distinguish): Protocol: Cognitive Control and S/N (Signal-to-Noise) Optimization
-- [I Focus](https://onda-life.com/part/i-focus): Protocol: Cognitive Control and Neural Resilience
-- [I Shape the Vision](https://onda-life.com/part/i-shape-the-vision): Protocol: Mental Simulation and Neural Plasticity
-- [I Express](https://onda-life.com/part/i-express): Protocol: Neuroendocrinology of Influence and Vocal Resonance
-- [I Interact](https://onda-life.com/part/i-interact): Protocol: Social Cognition and Empathic Regulation
-- [I Co-Create](https://onda-life.com/part/i-co-create): Protocol: Neural Synchronization and Collective Intelligence
-- [I Sense](https://onda-life.com/part/i-sense): Protocol: Interoceptive Accuracy and Sensory Expansion
-- [I Channel](https://onda-life.com/part/i-channel): Protocol: Neurodynamic Conductivity and Fascial Flow
-- [I Attune](https://onda-life.com/part/i-attune): Protocol: Neurosomatic Fusion and Collective Ecstasy
-- [I Witness](https://onda-life.com/part/i-witness): Protocol: Neural Distance and Metacognitive Monitoring
-- [I Integrate](https://onda-life.com/part/i-integrate): Protocol: Global Neural Integration and Experience Synthesis
-- [I Synchronize](https://onda-life.com/part/i-synchronize): Protocol: Neuroelectric Synchronization and Collective Intelligence
-- [I Remember](https://onda-life.com/part/i-remember): Protocol: Baseline Recall
-- [I Restore](https://onda-life.com/part/i-restore): Protocol: Recovery & Repair
-- [I Synthesize](https://onda-life.com/part/i-synthesize): Protocol: Integration
-- [I Am Vibration](https://onda-life.com/part/i-am-vibration): Orientation: The Body as Movement
-- [I Am Wholeness](https://onda-life.com/part/i-am-wholeness): Orientation: The Boundary Softens
-- [I Am the Source](https://onda-life.com/part/i-am-the-source): Orientation: Resting as Awareness
-
 ## Library topics (the ONDA Library is organised into these hubs; start here to find the right article)
 
 - [Meditation with Progress](https://onda-life.com/articles/topic/meditation): Meditation you can measure — how practice changes your brain and body, and how to see it.
@@ -171,7 +133,6 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [System Analysis: Cognitive Architecture](https://onda-life.com/articles/cognitive-architecture-neural-throughput): Cognitive architecture, explained: attention, signal-to-noise, and mental bandwidth — what practice can support, without overpromising.
 - [Does HRV Predict How Fast You Think and React? What the Research Shows](https://onda-life.com/articles/nervous-system-ping-latency): Only weakly. Higher resting HRV is linked to slightly better focus and steadier reactions, but effects are small. What HRV measures and what training can do.
 - [Building a Fault-Tolerant Human: The HRV Buffer](https://onda-life.com/articles/fault-tolerant-human-hrv-buffer): Low HRV = no headroom — any stress triggers cascade failure. High HRV = operational buffer. The ONDA hardening protocol uses hormetic loading, VNS calibration, and predictive HRV monitoring to build a fault-tolerant biological system.
-- [Alpha Brain Waves: Do They Really Unlock Calm, Creativity and Flow?](https://onda-life.com/articles/neural-bridge-alpha-flow-gateway): Alpha waves are an 8–12 Hz brain rhythm that grows when you close your eyes or turn attention inward. What they do, what they do not, and what really helps.
 - [The Spinal Harddrive: Autonomous Scripts and Neural Freedom](https://onda-life.com/articles/spinal-harddrive-cpg-autonomous-scripts): Central Pattern Generators (CPGs) are spinal neural circuits that execute complex movement without brain input. The ONDA Harddrive Protocol uses sensory priming, rhythmic entrainment, and eyes-closed drills to delegate motor control downward — freeing the prefrontal cortex for strategic thought.
 - [Spinal Intelligence: The Decentralized Control Protocol](https://onda-life.com/articles/spinal-intelligence-decentralized-control): The spinal cord is not a cable — it is a distributed processor with its own motor memory and reflex logic. The ONDA Spinal Intelligence Protocol uses unpredictable loading, proprioceptive focus, and Alpha-state triggers to eliminate cognitive interference and activate decentralized edge computing in movement.
 - [Interoceptive Precision: Calibrating the Internal Sensors](https://onda-life.com/articles/interoceptive-precision-sensor-calibration): Your body transmits millions of real-time signals. Most people never read them. ONDA upgrades your interoceptive resolution from blurry static to a high-definition 4K data stream.
@@ -185,7 +146,7 @@ This file follows the llms.txt convention (https://llmstxt.org/) so AI search an
 - [Why Your HRV Is Different on Every Device (and Which to Trust)](https://onda-life.com/articles/hrv-different-every-device): Your Oura, Apple Watch and Whoop all report different HRV numbers. Here is why — RMSSD vs SDNN, overnight vs spot, PPG vs ECG — and which reading to actually trust.
 - [Active Intervention vs Passive Tracking: The 2026 Wearable Shift](https://onda-life.com/articles/active-intervention-vs-passive-tracking): Wearables are splitting into two jobs: passive trackers that measure your nervous system, and active-intervention tools that change it. What the 2026 shift means, and how to use each.
 - [Apple Watch Now Shows Two HRV Numbers: Recovery HRV vs Overall HRV](https://onda-life.com/articles/apple-watch-recovery-hrv-vs-overall-hrv): In September 2026 Apple split Apple Watch HRV into Recovery HRV and Overall HRV, added RMSSD to HealthKit, and started measuring HRV every ~5 minutes. What changed, why there are two numbers, and why you can’t merge the old and new history.
-- [Alpha Brain Waves: What They Are and What They Can (and Cannot) Tell You](https://onda-life.com/articles/alpha-brain-waves): Alpha waves are 8–12 Hz brain rhythms that rise when you close your eyes and relax. What they reflect, what meditation does to them and what a consumer EEG headset can really show.
+- [Alpha Brain Waves: What They Are and What They Can (and Cannot) Tell You](https://onda-life.com/articles/alpha-brain-waves): Alpha waves are 8–12 Hz brain rhythms that rise when you close your eyes and relax. What they reflect, their link to meditation, creativity and flow, and what EEG headsets show.
 
 ### Biological Software
 
@@ -603,6 +564,7 @@ Evidence summaries on psychological topics such as anxiety: what systematic revi
 - [Rumination: what it is and what the evidence says](https://onda-life.com/science/psychology/rumination): Rumination is repetitive negative thinking tied to depression and anxiety. This review covers what trials show about reducing it, from CBT to mindfulness.
 - [Self-compassion: what it is and what the evidence says](https://onda-life.com/science/psychology/self-compassion): Self-compassion means treating yourself with kindness in hard moments. This review covers what trials show, from self-criticism and stress to health.
 - [Sleep, resting heart rate and HRV: reading recovery signals carefully](https://onda-life.com/science/psychology/sleep-autonomic-baseline): Sleep loss, sleep timing and behavioural interventions can affect recovery signals differently. Learn what HRV and resting heart rate can—and cannot—show.
+- [Sleep regularity and circadian timing: why consistency matters](https://onda-life.com/science/psychology/sleep-regularity-circadian-timing): Learn how sleep regularity, chronotype, social jetlag and circadian timing relate to health, what research shows, and why regular sleep schedules matter.
 - [Sleep and the mind: evidence on insomnia and mood](https://onda-life.com/science/psychology/sleep): Insomnia is common and linked to depression. What CBT-I and digital programmes show in trials, why sleep hygiene alone falls short, and when to seek help.
 - [Doomscrolling and social media: does cutting down help?](https://onda-life.com/science/psychology/social-media): Does cutting social media help? Research on reducing use, taking breaks and digital detox shows mixed effects on mood, depression and well-being.
 - [Stress and emotion regulation: what research shows](https://onda-life.com/science/psychology/stress-emotion-regulation): How to regulate emotions under stress: what research shows for reappraisal, suppression, stress mindsets and naming feelings, and where it stops.
@@ -1058,3 +1020,38 @@ Independent, criteria-based reviews of biohacking tools. Scoring methodology: ht
 - [Privacy Policy](https://onda-life.com/privacy)
 - [Terms of Service](https://onda-life.com/terms)
 - [Full text dump (markdown)](https://onda-life.com/llms-full.txt)
+
+### ONDA Path (philosophy layer: an experiential framework, not clinically validated states)
+
+- [Level 1 — BODY / TERRA](https://onda-life.com/level/1)
+- [Level 2 — EMOTIONS / AQUA](https://onda-life.com/level/2)
+- [Level 3 — MIND / AER](https://onda-life.com/level/3)
+- [Level 4 — SOCIETY / IGNIS](https://onda-life.com/level/4)
+- [Level 5 — NEURO-SOMATIC MIND / SENSORY INTELLIGENCE](https://onda-life.com/level/5)
+- [Level 6 — BRAIN / AQUA II](https://onda-life.com/level/6)
+- [Level 7 — DNA / AER II](https://onda-life.com/level/7)
+- [Level 8 — ATOMIC / IGNIS II](https://onda-life.com/level/8)
+- [I Am](https://onda-life.com/part/i-am): Protocol: Homeostasis and Primary Interoception
+- [I Move](https://onda-life.com/part/i-move): Protocol: Rhythmic Coherence and Primary Locomotion
+- [I Adapt](https://onda-life.com/part/i-adapt): Protocol: Gravity Mastery and Interoception
+- [I Maneuver](https://onda-life.com/part/i-maneuver): Protocol: The Maneuverability of the “Small Mammal”
+- [I Guard the Territory](https://onda-life.com/part/i-guard-territory): Protocol: The Strength of the “Large Mammal”
+- [I'm Part of the Pack](https://onda-life.com/part/i-am-part-of-the-pack): Protocol: The Social Resonance of the “Higher Primate”
+- [I Distinguish](https://onda-life.com/part/i-distinguish): Protocol: Cognitive Control and S/N (Signal-to-Noise) Optimization
+- [I Focus](https://onda-life.com/part/i-focus): Protocol: Cognitive Control and Neural Resilience
+- [I Shape the Vision](https://onda-life.com/part/i-shape-the-vision): Protocol: Mental Simulation and Neural Plasticity
+- [I Express](https://onda-life.com/part/i-express): Protocol: Neuroendocrinology of Influence and Vocal Resonance
+- [I Interact](https://onda-life.com/part/i-interact): Protocol: Social Cognition and Empathic Regulation
+- [I Co-Create](https://onda-life.com/part/i-co-create): Protocol: Neural Synchronization and Collective Intelligence
+- [I Sense](https://onda-life.com/part/i-sense): Protocol: Interoceptive Accuracy and Sensory Expansion
+- [I Channel](https://onda-life.com/part/i-channel): Protocol: Neurodynamic Conductivity and Fascial Flow
+- [I Attune](https://onda-life.com/part/i-attune): Protocol: Neurosomatic Fusion and Collective Ecstasy
+- [I Witness](https://onda-life.com/part/i-witness): Protocol: Neural Distance and Metacognitive Monitoring
+- [I Integrate](https://onda-life.com/part/i-integrate): Protocol: Global Neural Integration and Experience Synthesis
+- [I Synchronize](https://onda-life.com/part/i-synchronize): Protocol: Neuroelectric Synchronization and Collective Intelligence
+- [I Remember](https://onda-life.com/part/i-remember): Protocol: Baseline Recall
+- [I Restore](https://onda-life.com/part/i-restore): Protocol: Recovery & Repair
+- [I Synthesize](https://onda-life.com/part/i-synthesize): Protocol: Integration
+- [I Am Vibration](https://onda-life.com/part/i-am-vibration): Orientation: The Body as Movement
+- [I Am Wholeness](https://onda-life.com/part/i-am-wholeness): Orientation: The Boundary Softens
+- [I Am the Source](https://onda-life.com/part/i-am-the-source): Orientation: Resting as Awareness
